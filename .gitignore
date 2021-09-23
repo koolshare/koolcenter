@@ -2,3 +2,5 @@ package-lock.json
 yarn.lock
 dist
 node_modules
+hugo_stats.json
+resources/_gen
