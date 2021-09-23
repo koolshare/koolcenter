@@ -1,0 +1,77 @@
+.out-footer {
+  color: #fff;
+  opacity: 0.7;
+  background: #33353F;
+  padding: 2rem 0;
+
+  >div {
+    margin: auto;
+  }
+
+  .footer {
+    display: flex;
+    >div {
+      h3 {
+        font-size: 1rem;
+        border-bottom: 0.06rem solid rgba(255, 255, 255, 0.2);
+        padding-bottom: 0.7rem;
+      }
+
+      a {
+        color: #fff;
+      }
+
+      li {
+        cursor: pointer;
+        font-size: 0.88rem;
+        margin-top: 0.75rem;
+        color: rgba(255, 255, 255, 0.7);
+      }
+    }
+  }
+
+  .company {
+    margin-top: 1.25rem;
+    font-size: 0.88rem;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .mobile-header {
+      display: none !important;
+  }
+  .desktop {
+      display: block;
+  }
+
+  .footer {
+    border-bottom: 0.06rem solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 1.25rem;
+    > div {
+      width: 13rem;
+      margin-right: 1.25rem;
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+  .out-footer {
+    height: 18.44rem;
+  }
+}
+//  移动端
+@media only screen and (max-width: 700px) {
+  .mobile-header {
+    display: block !important;
+  }
+  .desktop {
+      display: none !important;
+  }
+  .footer {
+    flex-wrap: wrap !important;
+    > div {
+      margin-bottom: 1rem;
+      flex: 0 0 50%;
+    }
+  }
+}

@@ -1,0 +1,95 @@
+
+{{ $cover := .HasShortcode "blocks/cover" }}
+
+
+<div class="outer-header bg-white desktop">
+		<!-- <img class=" mr-12" src="/assets/icons/logo.svg"  alt="" srcset=""> -->
+    {{ if .Site.Params.menu_dev}}
+		<a class="ks-logo" href="/article/">
+    {{ else }}
+		<a class="ks-logo" href="/">
+    {{ end }}
+			<span
+			class="navbar-logo">{{ if .Site.Params.ui.navbar_logo }}{{ with resources.Get "icons/logo.svg" }}{{ ( . | minify).Content | safeHTML }}{{ end }}{{ end }}</span>
+		</a>
+		<!-- onclick="navClick()" -->
+		<div class="ks-nav-items overflow-scroll" id="collapsibleNavbar">
+			<div>
+        {{ if .Site.Params.menu_dev}}
+				<a href="/article/" data-i='home' class="firmware-download home">首页</a>
+        {{ else }}
+				<a href="/" data-i='home' class="firmware-download home">首页</a>
+        {{ end }}
+			</div>
+			<div>
+        {{ if .Site.Params.menu_dev}}
+				<a href="/article/reviews/" data-i="/review-list" class="firmware-download reviews">评测</a>
+        {{ else }}
+				<a href="/review-list" data-i="/review-list" class="firmware-download reviews">评测</a>
+        {{ end }}
+			</div>
+			<div>
+				<a href="/article/firmware/" data-i='firmware' class="firmware-download firmware">
+					固件
+				</a>
+			</div>
+			<div>
+				<div data-i=4 name="" class="firmware-download knownage" href="javascript:void">
+					知识库
+					<div class="ks-menu" aria-labelledby="navbarDropdown">
+						<a class="ks-item"  href="/article/app/">插件</a>
+						<a class="ks-item"  href="/article/tutorials/">教程</a>
+						<a class="ks-item"  href="/developer">开发者</a>
+					</div>
+				</div>
+			</div>
+			<div>
+        {{ if .Site.Params.menu_dev}}
+				<a href="/article/blog/"  class="firmware-download blog">博客</a>
+        {{ else }}
+				<a href="/blog-list/"  class="firmware-download blog">博客</a>
+        {{ end }}
+			</div>
+			<div>
+				<a href="/statistics" data-i=5 class="firmware-download">统计</a>
+			</div>
+			<div>
+				<div data-i=6 name="" class="firmware-download" href="javascript:void">
+					更多
+					<div class="ks-menu" aria-labelledby="navbarDropdown">
+						<!-- <a class="ks-item" data-i=6 href="https://doc.linkease.com/zh/guide/about/" target="_blank">关于团队</a> -->
+						<a class="ks-item" data-i=6 href="#">关于KoolCenter</a>
+						<!-- <a class="ks-item" data-i=6 href="#">我要投稿</a>
+						<a class="ks-item" data-i=6 href="mailto:xiaobao@linkease.com">联系方式</a> -->
+						<a class="ks-item" data-i=6 href="https://koolcenter.taobao.com/" target="_blank">淘宝店铺</a>
+					</div>
+				</div>
+			</div>
+			<div>
+				<a href="https://github.com/koolshare/koolcenter" target="_blank" data-i=5
+					class="firmware-download">Github</a>
+			</div>
+		</div>
+		<div class="navbar-nav d-none d-lg-block right-search">
+			<!-- {{ partial "search-input.html" . }} -->
+			<input type="search" class="ks-search-input " placeholder="{{ T "ui_search" }}"
+				aria-label="{{ T "ui_search" }}" autocomplete="off">
+				<img class="el-icon-search" src="/article/image/search.png" alt="" srcset="">
+		</div>
+		<!-- <div class="right-search">
+				<input
+					type="search"
+					class="form-control td-search-input"
+					onkeypress="toSearch"
+					onkeydown="toKeydown"
+					placeholder="搜索"
+					aria-label=""
+					autocomplete="off"
+				>
+					<i class="el-icon-search"></i>
+			</div> -->
+</div>
+
+<div class="mobile-header">
+	{{ partial "mobile-header.html" . }}
+</div>

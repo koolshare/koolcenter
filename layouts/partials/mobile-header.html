@@ -1,0 +1,75 @@
+<div id="m-menu-wrap">
+  <button class="header_mune" onclick="showMobileMenu()">
+    <img src="/article/image/menu.png" alt="">
+  </button>
+  <div class=" m-menu-list">
+    <!-- <li class="logo">
+        <img src="" alt="">
+    </li> -->
+    <li class="tag" >
+    {{ if .Site.Params.menu_dev}}
+      <a href="/article/" data-i='home' >首页</a>
+    {{ else }}
+      <a href="/" data-i='home' >首页</a>
+    {{ end }}
+    </li>
+    <li class="tag" >
+      {{ if .Site.Params.menu_dev}}
+      <a href="/article/reviews/" data-i="/review-list" >评测</a>
+      {{ else }}
+      <a href="/review-list" data-i="/review-list" >评测</a>
+      {{ end }}
+    </li>
+    <li class="tag" >
+      <a href="/article/firmware/" data-i='firmware' >
+        固件
+      </a>
+    </li>
+    <li class="tag" >
+      <a data-i='firmware' >
+        知识库
+      </a>
+    </li>
+    <div class="child" >
+      <li class="tag">
+          <a href="/article/app/">插件</a>
+      </li>
+      <li class="tag">
+        <a class="ks-item" data-i="knownage" href="/article/tutorials/">教程</a>
+      </li>
+      <li class="tag">
+          <a class="ks-item" data-i="knownage" href="/developer">开发者</a>
+        </li>
+    </div>
+      <li class="tag" >
+        {{ if .Site.Params.menu_dev}}
+        <a href="/article/blog/">博客</a>
+        {{ else }}
+        <a href="/blog-list/">博客</a>
+        {{ end }}
+      </li>
+      <li class="tag" >
+        <a >更多</a>
+      </li>
+      <div class="child" >
+        <!-- <li class="tag">
+          <a href="https://doc.linkease.com/zh/guide/about/" target="_blank">关于团队</a>
+        </li> -->
+          <li class="tag">
+          <a href="#">关于KoolCenter</a>
+          </li>
+          <!-- <li class="tag">
+          <a href="#">我要投稿</a>
+          </li>
+          <li class="tag">
+          <a href="mailto:xiaobao@linkease.com">联系方式</a>
+          </li> -->
+          <li class="tag">
+          <a href="https://koolcenter.taobao.com/">淘宝店铺</a>
+          </li>
+      </div>
+      <li class="tag" >
+        <a href="https://github.com/koolshare/koolcenter">Github</a>
+      </li>
+  </div>
+</div>

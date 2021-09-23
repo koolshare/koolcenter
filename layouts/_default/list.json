@@ -1,0 +1,18 @@
+{{- define "subpages" -}}
+  {{- $indexScratch := .indexScratch -}}
+  {{- $indexScratch.Add "index" (dict "title" .page.Title "author" .page.Params.author "tags" .page.Params.tags "date" .page.Params.Lastmod "categories" .page.Params.categories "contents" .page.Params.description "permalink" .page.Permalink "coverImg" .page.Params.coverImg ) -}}
+  {{- if .page.Pages -}}
+    {{- range .page.Pages -}}
+      {{- template "subpages" (dict "indexScratch" $indexScratch "page" .) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $indexScratch :=  $.Scratch -}}
+{{- $pages := (where .Site.Pages "Section" .Section).ByWeight -}}
+{{- $pages = (where $pages "Parent.File.UniqueID" "==" .Page.File.UniqueID) -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range $pages -}}
+    {{- template "subpages" (dict "indexScratch" $indexScratch "page" .) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

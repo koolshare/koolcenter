@@ -1,0 +1,126 @@
+@import "footer";
+@import "header";
+ul {
+  list-style: none !important;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+.outer-header {
+  padding: 0 3rem;
+  color: #313131;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  height: 4.5rem;
+  box-shadow: 0rem 0.13rem 0.25rem 0rem rgba(0, 0, 0, 0.05);
+
+  .ks-logo {
+    margin-right: 3rem;
+  }
+
+  .ks-nav-items {
+    display: flex;
+    align-items: center;
+  }
+
+  a {
+    color: black;
+  }
+
+  .link-active {
+    color: #FA9035;
+    position: relative;
+    &::after {
+        display: block;
+        content: '';
+        width: 100%;
+        height: 4px;
+        background: #fa9035;
+        position: absolute;
+        bottom: 0;
+    }
+  }
+
+  .firmware-download {
+    position: relative;
+    display: block;
+    height: 4.5rem;
+    margin-right: 2rem;
+    padding-top: 1.56rem;
+
+    &:link {
+      color: black;
+    }
+
+    &:hover {
+      color: #FA9035;
+      .ks-menu {
+        display: block;
+      }
+    }
+  }
+
+  .ks-menu {
+    z-index: 1000;
+    display: none;
+    font-size: 1rem;
+    position: absolute;
+    min-width: 12rem;
+    padding: 0.5rem 0.5rem;
+    margin: 0.125rem 0 0;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+
+    .ks-item {
+      display: block;
+      padding: 0.25rem;
+    }
+  }
+
+  .ks-search-input {
+    width: 10.38rem;
+    height: 1.88rem;
+    line-height: 1.88rem;
+    background: rgba(209, 212, 216, 0.2);
+    border-radius: 0.94rem;
+    padding: 0 0.94rem;
+    border: none;
+    outline: none;
+
+    &:focus {
+      border: none;
+      outline: none;
+    }
+  }
+
+  .right-search {
+    margin-left: auto;
+    font-size: .75rem;
+
+    .el-icon-search {
+      color: #969696;
+      transform: translateX(-1.5rem);
+      width: 0.88rem;
+      height: 0.88rem;
+    }
+  }
+}
+
+
+.td-outer {
+  display: flex;
+  flex-direction: column;
+  height: auto !important;
+  background: rgba(248, 249, 253, 1);
+}

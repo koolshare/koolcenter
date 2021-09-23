@@ -1,0 +1,5 @@
+baseurl = "http://127.0.0.1/article/"
+
+[params]
+    baseurl = "/"
+    menu_dev = true
