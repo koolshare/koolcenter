@@ -5,7 +5,7 @@ title: "QNAP 威联通 TS-h973ax 九盘位 NAS 网络存储 开箱评测"
 linkTitle: "qnap-ts-h973ax-nas-9"
 date: 2021-09-18
 author: "夜半点灯"
-coverImg: "/article/reviews/nas/qnap-ts-h973ax/ts-h973ax.jpg"
+coverImg: "/article/reviews/network/qnap-ts-h973ax/ts-h973ax.jpg"
 tags: ["nas", "qnap", "威联通"]
 categories: ["评测"]
 description: >

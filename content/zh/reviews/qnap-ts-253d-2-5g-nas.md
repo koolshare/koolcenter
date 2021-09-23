@@ -3,7 +3,7 @@
 title: "双盘位小钢炮，QNAP TS-253D 双盘位双2.5G NAS 开箱拆解评测"
 linkTitle: "双盘位小钢炮，QNAP TS-253D 双盘位双2.5G NAS 开箱拆解评测"
 author: "pufer"
-coverImg: "https://image.koolcenter.com/attachment/forum/202010/22/113219an4k7zrn0prrv7ny.jpg"
+coverImg: "https://image.koolcenter.com/attachment/forum/202105/11/150625zsrou4ccrcc9cj4q.jpg"
 date: 2021-07-06 16:49:08
 tags: ["开箱"]
 categories: ["网络设备"]
