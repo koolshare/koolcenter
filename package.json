@@ -1,0 +1,26 @@
+{
+  "name": "tech-doc-hugo",
+  "version": "0.0.1",
+  "description": "Hugo theme for technical documentation.",
+  "main": "none.js",
+  "scripts": {
+    "start": "hugo --gc",
+    "dev": "hugo server --bind=0.0.0.0 -D --disableFastRender",
+    "build": "hugo -d dist/article --gc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/docsy-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/google/docsy-example/issues"
+  },
+  "homepage": "https://github.com/google/docsy-example#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "hugo-extended": "^0.88.1",
+    "postcss-cli": "^7.1.2"
+  }
+}
