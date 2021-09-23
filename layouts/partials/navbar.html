@@ -3,16 +3,13 @@
 
 
 <div class="outer-header bg-white desktop">
-		<!-- <img class=" mr-12" src="/assets/icons/logo.svg"  alt="" srcset=""> -->
     {{ if .Site.Params.menu_dev}}
 		<a class="ks-logo" href="/article/">
     {{ else }}
 		<a class="ks-logo" href="/">
     {{ end }}
-			<span
-			class="navbar-logo">{{ if .Site.Params.ui.navbar_logo }}{{ with resources.Get "icons/logo.svg" }}{{ ( . | minify).Content | safeHTML }}{{ end }}{{ end }}</span>
+			<img src="/article/image/logo.svg"  alt="" srcset="">
 		</a>
-		<!-- onclick="navClick()" -->
 		<div class="ks-nav-items overflow-scroll" id="collapsibleNavbar">
 			<div>
         {{ if .Site.Params.menu_dev}}

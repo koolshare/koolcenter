@@ -24,6 +24,10 @@ li {
 
   .ks-logo {
     margin-right: 3rem;
+    height: 22px;
+    img {
+      vertical-align: baseline;
+    }
   }
 
   .ks-nav-items {
@@ -117,10 +121,3 @@ li {
   }
 }
 
-
-.td-outer {
-  display: flex;
-  flex-direction: column;
-  height: auto !important;
-  background: rgba(248, 249, 253, 1);
-}
