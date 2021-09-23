@@ -5,15 +5,14 @@ linkTitle: "Synology 群晖 DS1621+ 六盘位NAS 开箱拆解评测"
 author: "夜半点灯"
 coverImg: "https://image.koolcenter.com/attachment/forum/202011/05/145500mu8jmmu3ufu838gc.jpg"
 date: 2021-07-06 16:49:08
-tags: ["TODO"]
-categories: ["TODO"]
+tags: ["开箱"]
+categories: ["网络设备"]
 description: >
-  TODO
+  今天来到Koolshare评测室的是群晖的DS1621+
 ---
 
-_本帖最后由 夜半点灯 于 2020-12-24 12:22 编辑_
-
 前言
+
 
 今天来到Koolshare评测室的是群晖的DS1621+（ [官网链接](https://www.synology.cn/zh-cn/products/DS1621+)），这是一款带PCIe插槽，拥有强大性能的桌面级6盘位网络存储数据中心，专为存储与保护数据资产而设计。对比于DS1618+（ [评测链接](https://koolshare.cn/forum.php?mod=viewthread&tid=143242&highlight=1618%2B)），DS1621+新增了两个M.2 插槽，CPU由原先的Intel Atom C3538（四核心四线程/主频2.1GHz）升级为AMD Ryzen V1500B（四核心八线程/主频2.2GHz），性能再次提升，下面为大家带来这款NAS的评测
 

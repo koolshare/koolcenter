@@ -5,10 +5,10 @@ linkTitle: "处处不同——11代NUC 猎豹峡谷 Panther Canyon 开箱拆解�
 author: "pufer"
 coverImg: "https://image.koolcenter.com/attachment/forum/202101/14/005612gmbi5rbtmmftf9my.jpg"
 date: 2021-07-06 16:49:08
-tags: ["TODO"]
-categories: ["TODO"]
+tags: ["nuc"]
+categories: ["nuc"]
 description: >
-  TODO
+  Intel近期发布了第11代NUC的家用版本-猎豹峡谷 Panther Canyon，这次我们也第一时间为大家带来开箱拆解和评测。
 ---
 
 **【前言】**

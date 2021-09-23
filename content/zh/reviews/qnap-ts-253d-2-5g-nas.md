@@ -5,10 +5,10 @@ linkTitle: "双盘位小钢炮，QNAP TS-253D 双盘位双2.5G NAS 开箱拆解�
 author: "pufer"
 coverImg: "https://image.koolcenter.com/attachment/forum/202010/22/113219an4k7zrn0prrv7ny.jpg"
 date: 2021-07-06 16:49:08
-tags: ["TODO"]
-categories: ["TODO"]
+tags: ["开箱"]
+categories: ["网络设备"]
 description: >
-  TODO
+  TS-253D 是一台为专业用户打造的四核心双盘位小钢炮NAS。
 ---
 
 **【前言】**

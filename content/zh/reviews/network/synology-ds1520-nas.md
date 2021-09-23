@@ -5,10 +5,10 @@ linkTitle: "Synology 群晖 DS1520+ 五盘位NAS 开箱拆解评测"
 author: "夜半点灯"
 coverImg: "https://image.koolcenter.com/attachment/forum/202010/29/171907ummc998llhlbh93b.jpg"
 date: 2021-07-06 16:49:08
-tags: ["TODO"]
-categories: ["TODO"]
+tags: ["开箱"]
+categories: ["网络设备"]
 description: >
-  TODO
+  今天来到Koolshare评测室的是群晖的DS1520+
 ---
 
 前言

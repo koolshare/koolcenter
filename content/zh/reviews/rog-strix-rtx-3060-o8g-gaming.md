@@ -5,13 +5,11 @@ linkTitle: "四平八稳的更新换代——ROG STRIX RTX 3060 O8G GAMING"
 author: "御剑江湖"
 coverImg: "https://image.koolcenter.com/attachment/forum/202103/14/201553ait8868ix5iaa88x.jpg"
 date: 2021-07-06 16:49:08
-tags: ["TODO"]
-categories: ["TODO"]
+tags: ["显卡"]
+categories: ["评测"]
 description: >
-  TODO
+  ROG STRIX RTX 3060 从正面上看和更上一阶的STRIX RTX 3070/80/90有着较高的相似度
 ---
-
-_本帖最后由 御剑江湖 于 2021-3-20 12:08 编辑_
 
       从去年年底开始，随着加密数字货币价格不断上扬，显卡成了这段时间里最抢手的电脑配件，一卡难求的局面至今未能得到有效缓解。即便如此，NVIDIA还是按部就班地推进着自己的RTX 30系列产品。这次来到koolshare评测室的是便是基于GA106核心的ROG STRIX RTX 3060 O8G GAMING      从命名规则上来看，这是一张标准的甜品卡。按照NVIDIA以往的升级套路，这个级别的显卡一般会拥有上一代次旗舰级别的性能水准，那么这次的RTX 3060是否也是如此呢？
 
