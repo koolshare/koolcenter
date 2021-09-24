@@ -92,7 +92,7 @@ section = ["HTML", "print", "RSS", "JSON"]
 [params]
 copyright = "koolcenter.com"
 privacy_policy = "https://policies.google.com/privacy"
-
+time_format_blog = "2006-01-02"
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
 
