@@ -23,7 +23,9 @@ description: >
 
 ## <font style="color:red">公告</font>
 
-因[KoolShare.cn](https://www.koolshare.cn)技术升级和架构调整经内部商量，我们决定将固件发布迁移至此，以后固件的开发、维护、发布发布仍然是kooldev开发组团队原班人马，论坛关站不会影响新的固件发布；我们会将围绕改版固件，打造成集固件发布，刷机教程，救砖教程，固件设置，等全面的固件文档中心。
+因[KoolShare.cn](https://www.koolshare.cn)技术升级和架构调整经内部商量，我们决定将固件发布迁移至此，以后固件的开发、维护、发布发布仍然是kooldev开发组团队原班人马，论坛关站不会影响新的固件发布！
+
+我们会继续围绕改版固件，打造成集固件发布，刷机教程，救砖教程，固件设置，等全面的固件文档中心。
 
 <div style="text-align:left">kooldev</div>
 <div style="text-align:left">2021年9月11日</div>
