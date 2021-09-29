@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     min-height: calc(100vh - 72px - 18.44rem);
-  background: rgba(248, 249, 253, 1);
+    background: rgba(248, 249, 253, 1);
 }
 
 // The outer page container for the default base template.
@@ -26,7 +26,7 @@
 
     main {
         @include media-breakpoint-up(md) {
-            padding-top: 5.5rem;
+            padding-top: 1.75rem;
         }
 
 
