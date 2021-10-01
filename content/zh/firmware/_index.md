@@ -1,4 +1,3 @@
-
 ---
 title: "koolcenter.com 固件文档"
 linkTitle: "固件"
@@ -7,19 +6,20 @@ menu:
     weight: 10
     pre: <i class="fas fa-wifi"></i>
 cascade:
+
 - type: docs
 - nav_children: section
 # - no_list: true
 # - simple_list: true
 # - notoc: true
+
 description: >
     源于玩家，服务玩家
 ---
 
 {{% pageinfo color="warning" %}}
-固件文档页面正在建设中，如果你需要下载固件，请直接前往固件下载区！
+固件文档页面正在建设中，如果你需要下载固件，请直接前往 https://fw.koolcenter.com/ 固件下载服务器！
 {{% /pageinfo %}}
-
 
 ## <font style="color:red">公告</font>
 

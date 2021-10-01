@@ -1,4 +1,3 @@
-
 ---
 title: "TUF-AX3000 官改固件"
 linkTitle: "TUF-AX3000"
@@ -6,48 +5,62 @@ type: docs
 weight: 1
 date: 2021-09-11
 description: >
-
   最新版本：386_41700，更新日期：2021年04月9日
 ---
 
+{{% pageinfo color="primary" %}}
+This is placeholder content.
+{{% /pageinfo %}}
+
 
 ---
 
-<font color="#FF0066" style="font-size:1.8rem;line-height:1.5;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的==易有云2.0== 或者 ==wifi boost==，以支持开发者，谢谢！</font>
+<font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的易有云2.0 或者wifi boost，以支持开发者，谢谢！</font>
 
 ---
 
 
+## 一、刷机须知
 
-## <font color="#f57332">一、刷机须知</font>
+注意1：请刷机的朋友认真阅读本帖！！！刷机带来的风险请自行承担！！！
 
-<font color="#DC143C">注意1：请刷机的朋友认真阅读本帖！！！刷机带来的风险请自行承担！！！</font>
-<font color="#DC143C">注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！</font>
+注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
-## <font color="#f57332">二、固件主要特色</font>
+## 二、固件特色
 
 1. 使用官方固件源代码为基础修改，官方固件有的功能官改固件都有，比如Aimesh等；
-2. koolshare软件中心支持，支持TUF-AX3000独有的橙色皮肤，TUF-AX3000为axhnd.675x平台，兼容hnd/axhnd平台软件中心和所有32位插件。
 
-##  <font color="#f57332">三、支持机型</font>
+2. koolshare软件中心支持，支持TUF-AX3000独有的橙色皮肤；
+
+3. TUF-AX3000为axhnd.675x平台，兼容hnd/axhnd平台软件中心和所有32位插件。
+
+##  三、支持机型
+
 - 本固件仅支持华硕TUF-AX3000机型。
+
 - RT-AX58U、RT-AX3000、RT-AX82U虽然硬件和TUF-AX3000一样，但是固件不通刷。
 
-##  <font color="#f57332">四、更新日志</font>
 
-### <font color="##00BFFF">386_41700（2021年04月09日）</font>
+##  四、更新日志
+
+###  386_41700（2021年04月09日）
 
 > 从此版本开始，华硕TUF-AX3000官改固件正式进入386大版本，在功能上，该版本主要更新了AiMesh 2.0和Ookla® SPEEDTEST，当然也包含很多其它稳定性、安全性方面的更新。强烈建议大家进行升级！
+> 
 > 注意-1：由于TUF-AX3000为橙色TUF主题UI，而华硕单方面在386_41700固件中并未AiMesh2.0功能推出TUF UI，所以AiMesh2.0页面仍然都显示的但是ASUSWRT风格UI。
+> 
 > 注意-2：TUF-AX3000的SpeedTest功能是有问题的，其web后台【Adaptive QoS 网络监控家】页面并没有【网络速度】标签页访问入口，只能都通过直接访问 http://router.asus.com/Advanced_FirmwareUpgrade_Content.asp 才能使用，且访问都需要更改iframe元素internetSpeed_iframe的高度点才能都正常显示测速界面！
+> 
 > 从384固件升级到386固件也是非常顺畅的，升级后不恢复出厂设置也是没问题的。当然稳妥起见，建议有时间的朋友还是做一次恢复出厂设置，然后在干净的配置上重新手动配置一次固件。
 
-1. 同步ASUS最新GT-AC5300代码：3.0.0.4.386.41700。
+1. 同步ASUS最新GT-AC5300代码：3.0.0.4.386.41700；
 2. 内置软件中心版本更新至1.7.1版本；
 
-###  <font color="##00BFFF">384_9923（2020年10月26日）</font>
+###  384_9923（2020年10月26日）
 
-> 此版本TUF-AX3000支持刺客模式，开启后即可实现完整的5G Wi-Fi6 4T4R。刺客模式的开关等效于在无线网络高级设置中启用澳大利亚。
+> 此版本TUF-AX3000支持刺客模式，开启后即可实现完整的5G Wi-Fi6 4T4R。
+> 
+> 刺客模式的开关等效于在无线网络高级设置中启用澳大利亚。
 
 1. 同步TUF-AX3000固件代码：GPL_TUF_AX3000_30043849923；
 2. 更改软件中心数据库文件夹：jffs/db → jffs/ksdb
