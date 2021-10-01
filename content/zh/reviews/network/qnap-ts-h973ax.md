@@ -45,7 +45,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODQ1fGMyMTI2MzMyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODQ1fGMyMTI2MzMyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -53,7 +53,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODQ2fDAzMTdjNTY0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODQ2fDAzMTdjNTY0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -61,7 +61,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODUwfGRhOWYxZjg0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODUwfGRhOWYxZjg0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -69,7 +69,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODQ4fDY2OWE5MjdhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODQ4fDY2OWE5MjdhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -77,7 +77,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODQ5fGJmY2RlNWY4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODQ5fGJmY2RlNWY4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -85,7 +85,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDM5ODQ3fGJiNWRiNmI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDM5ODQ3fGJiNWRiNmI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -96,7 +96,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTM4fDIwMzUwNjU2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTM4fDIwMzUwNjU2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -104,7 +104,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTM5fDBhMTY4NGQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTM5fDBhMTY4NGQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -112,7 +112,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTQwfDdlZDdiZmY4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTQwfDdlZDdiZmY4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -120,7 +120,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTQxfGRkNGUzZTVifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTQxfGRkNGUzZTVifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -128,7 +128,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTQyfGYxYTdhNTEzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTQyfGYxYTdhNTEzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -136,7 +136,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTQzfDU4ZWE5NGIyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTQzfDU4ZWE5NGIyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -144,7 +144,7 @@ U.2：当S1槽和S2槽使用U.2 NVMe SSD时，可以不经过ASM1164，直通SoC
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTQ1fDU0MThlOTRlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTQ1fDU0MThlOTRlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -167,7 +167,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMTk5fDYxZmM3Yzg2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMTk5fDYxZmM3Yzg2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -175,7 +175,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjAwfDE1NTQ1NzYxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjAwfDE1NTQ1NzYxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -183,7 +183,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjAxfDUxMGM0YTczfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjAxfDUxMGM0YTczfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -191,7 +191,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjAyfDlmMzk3NWI5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjAyfDlmMzk3NWI5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -199,7 +199,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjAzfDI5MzYxZmQ2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjAzfDI5MzYxZmQ2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -207,7 +207,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjA0fDhiNzg3ODllfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjA0fDhiNzg3ODllfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -215,7 +215,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjA2fGU4MThmZDFlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjA2fGU4MThmZDFlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -223,7 +223,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjA3fDkzOGMwZjBifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjA3fDkzOGMwZjBifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -231,7 +231,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNjI3fGZkYjBhMTQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNjI3fGZkYjBhMTQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -239,7 +239,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMTEwfGQ3ZDJjNzZhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMTEwfGQ3ZDJjNzZhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -247,7 +247,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwMjA1fDY3NDNjYjVifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwMjA1fDY3NDNjYjVifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -258,7 +258,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMjM1fGJlYzA5YzhjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMjM1fGJlYzA5YzhjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -266,7 +266,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDIyfGQwOGVjZWU3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDIyfGQwOGVjZWU3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -274,7 +274,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMzEyfGQ3NzRmOGU4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMzEyfGQ3NzRmOGU4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -282,19 +282,19 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMzY3fGNmYjIzYjhkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMzY3fGNmYjIzYjhkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMzY1fGJjNTI3ODRhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMzY1fGJjNTI3ODRhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMzY2fDU1NTk0OTQxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMzY2fDU1NTk0OTQxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -302,7 +302,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDIzfDBjZmU5OTZkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDIzfDBjZmU5OTZkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -310,7 +310,7 @@ TODO for video
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxMzY5fDM1MzU0YTljfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxMzY5fDM1MzU0YTljfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -327,7 +327,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDI0fDVhZjc0M2Y4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDI0fDVhZjc0M2Y4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -335,7 +335,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDI4fDA1NGJiNDMzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDI4fDA1NGJiNDMzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -343,7 +343,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDI5fDRiZTc1NDMwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDI5fDRiZTc1NDMwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -351,7 +351,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDMwfDQyZWZlZDNmfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDMwfDQyZWZlZDNmfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -359,7 +359,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDMxfGRjOGZjZDhjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDMxfGRjOGZjZDhjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -367,7 +367,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDMzfDE5MjFjNTlhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDMzfDE5MjFjNTlhfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -375,7 +375,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDM0fGM3OWM4YWI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDM0fGM3OWM4YWI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -383,7 +383,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDM1fDFkNWM4OGRjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDM1fDFkNWM4OGRjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -391,7 +391,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQxNDM3fGRhYTkzOWUzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQxNDM3fGRhYTkzOWUzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -405,7 +405,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **hdd 2.5写.png** _(30.73 KB, 下载次数: 46)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ0fDNlNTY1ZWU3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ0fDNlNTY1ZWU3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -414,7 +414,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **hdd 2.5读.png** _(30.59 KB, 下载次数: 45)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQzfDg4OTE2NDY2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQzfDg4OTE2NDY2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -423,7 +423,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5Gbe cdm.png** _(564.19 KB, 下载次数: 48)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ1fGUxYWI1ODY1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ1fGUxYWI1ODY1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -431,7 +431,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ2fDU3MDVhMWIwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ2fDU3MDVhMWIwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -439,7 +439,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ3fDA0ZDdlMjc5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ3fDA0ZDdlMjc5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -447,7 +447,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ4fDEyMjg3Yzk5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ4fDEyMjg3Yzk5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -459,7 +459,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **hdd+sata ssd 2.5写.png** _(30.44 KB, 下载次数: 44)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODQ5fDM2NGEzYmQ0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODQ5fDM2NGEzYmQ0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -468,7 +468,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **hdd+sata ssd 2.5读.png** _(30.51 KB, 下载次数: 43)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODUwfGJjYTBhZWQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODUwfGJjYTBhZWQyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -477,7 +477,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5Gbe hdd+SATA ssd cdm.png** _(563.24 KB, 下载次数: 45)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODUxfGFlYjY5ZmM5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODUxfGFlYjY5ZmM5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -485,7 +485,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODUyfGVjNThkOWRkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODUyfGVjNThkOWRkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -493,7 +493,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODUzfDhjODkxNTEwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODUzfDhjODkxNTEwfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -501,7 +501,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU0fDgzOThmYTg2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU0fDgzOThmYTg2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -512,7 +512,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU1fDU0OGMxZjIxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU1fDU0OGMxZjIxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -524,7 +524,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE Nvme ssd 写.png** _(30.7 KB, 下载次数: 43)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU2fDczMWRiYWY5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU2fDczMWRiYWY5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -533,7 +533,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE Nvme ssd 读.png** _(30.78 KB, 下载次数: 43)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU3fGRkMzA0ZWNjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU3fGRkMzA0ZWNjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -542,7 +542,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE Nvme ssd cdm.png** _(563.37 KB, 下载次数: 44)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU4fDhlMWU5YTI0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU4fDhlMWU5YTI0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -550,7 +550,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODU5fGVjYmNiM2IxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODU5fGVjYmNiM2IxfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -558,7 +558,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODYwfGQ4YmYxY2JifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODYwfGQ4YmYxY2JifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -566,7 +566,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODYxfDFjYzg3ZDczfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODYxfDFjYzg3ZDczfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -578,7 +578,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE sata ssd 写.png** _(30.81 KB, 下载次数: 44)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODYyfDdhODdkZTM1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODYyfDdhODdkZTM1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -587,7 +587,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE sata ssd 读.png** _(30.67 KB, 下载次数: 42)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODYzfDgyZDMzMjM5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODYzfDgyZDMzMjM5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -596,7 +596,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
 
 **2.5GbE SATA ssd cdm.png** _(566.52 KB, 下载次数: 45)_
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODY0fDAxYWMzMzFjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODY0fDAxYWMzMzFjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -604,7 +604,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODY2fGM4YzYyOGUyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODY2fGM4YzYyOGUyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -612,7 +612,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODY3fGY3YzNiMzk4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODY3fGY3YzNiMzk4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -620,7 +620,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODY4fDQ0NDBiNjBlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODY4fDQ0NDBiNjBlfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -633,7 +633,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwNzI3fDcyOWZhZDI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwNzI3fDcyOWZhZDI2fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -641,7 +641,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwNzI4fDEzOTk0MmYzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwNzI4fDEzOTk0MmYzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -649,7 +649,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwNzI5fDc3NzY3OTlkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwNzI5fDc3NzY3OTlkfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -657,7 +657,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwNzMxfDY2NDI3ZjE5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwNzMxfDY2NDI3ZjE5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -665,7 +665,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwNzMwfDRkYTU0ZmJifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwNzMwfDRkYTU0ZmJifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -676,7 +676,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODAyfDMyMWIyMDcyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODAyfDMyMWIyMDcyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -684,7 +684,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODAxfGEwMDI0ZTQ0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODAxfGEwMDI0ZTQ0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -692,7 +692,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA1fDFhYTZjNjg1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA1fDFhYTZjNjg1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -700,7 +700,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODAzfGQxMjNmMTc5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODAzfGQxMjNmMTc5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -708,7 +708,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA0fDI3NGVhZDk0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA0fDI3NGVhZDk0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -716,7 +716,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA2fGIyN2E0YTcyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA2fGIyN2E0YTcyfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -724,7 +724,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA3fDFiMTM0OTc4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA3fDFiMTM0OTc4fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -732,7 +732,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA4fGRkZGNkMDk3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA4fGRkZGNkMDk3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -740,7 +740,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODA5fDU0NjQyZmRjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODA5fDU0NjQyZmRjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -748,7 +748,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODEwfDI2ODg0YTdifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODEwfDI2ODg0YTdifDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -756,7 +756,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODExfDg1YjExMmE1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODExfDg1YjExMmE1fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -764,7 +764,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODEyfDE0NGU4OWNjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODEyfDE0NGU4OWNjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -772,7 +772,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODEzfGRmNjgwNGE3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODEzfGRmNjgwNGE3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -783,7 +783,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODczfGUyMzRjOGE0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODczfGUyMzRjOGE0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -791,7 +791,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc0fDY3MzZlNWRmfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc0fDY3MzZlNWRmfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -799,7 +799,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc1fGVkYWUwNGE5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc1fGVkYWUwNGE5fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -807,7 +807,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc2fGQ2NzUzNzExfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc2fGQ2NzUzNzExfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -815,7 +815,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc3fDc1MDg1Y2Y0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc3fDc1MDg1Y2Y0fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -823,7 +823,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc4fDk1NThkZjdjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc4fDk1NThkZjdjfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -831,7 +831,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODc5fDEzYjQ0N2IzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODc5fDEzYjQ0N2IzfDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   
@@ -842,7 +842,7 @@ Triple Mirror：牺牲总存储空间的三分之二。当选定磁盘数是三�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDQwODgwfGYwZTQyYTM3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDQwODgwfGYwZTQyYTM3fDE2MzE5MzQ5ODN8MjM4MHwxOTQ5Nzk%3D&nothumb=yes)
 
 
   

@@ -17,14 +17,14 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTA5fGE5ZmYzZmM1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTA5fGE5ZmYzZmM1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲ORBI RBK353（ [官网链接](https://www.netgear.com.cn/orbi/rbk353.aspx)）中包含了一只RBR350路由和两只RBS350分身
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE0fGE2NTVlNTUzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE0fGE2NTVlNTUzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲产品规格
@@ -33,49 +33,49 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE1fGJkNGM0Y2ZlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE1fGJkNGM0Y2ZlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲ORBI RBK353包装盒采用ORBI系列一贯的蓝白配色，左下角的AX1800表明了它的规格。由于是三只装的原因，包装盒要更大一些
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE2fDliZDgwODZmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE2fDliZDgwODZmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲包装盒底部介绍了RBK353的技术规格。本次拿到的国行ORBI RBK353是EUS欧洲版本，越南制造。这个版本的RBK353无线地区是可以切换的，后期的国行PRS中国版本无线地区估计会被锁区
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE3fGMxNjQ3ZDU2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE3fGMxNjQ3ZDU2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲打开包装盒的顶盖就能看到安装指导手册了
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE4fGFkMGZhYmY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE4fGFkMGZhYmY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBK353 WiFi6 Mesh套装
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTIwfDVhMTQyOGVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTIwfDVhMTQyOGVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBK353小巧精致，易于融于家居生活
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTE5fGUwMGQxNjU4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTE5fGUwMGQxNjU4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲附件盒内配件一览，里面装有超五类非屏蔽线一根，带折叠插头的电源适配器三个，英标三孔插头三个，欧标双孔插头三个
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTIxfDVmZmY5MTdjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTIxfDVmZmY5MTdjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲电源适配器采用了国标双孔折叠插头，输出规格为12V 2.5A 30W
@@ -84,68 +84,68 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTQ1fDFmYjM5YzUyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTQ1fDFmYjM5YzUyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350路由正面，外壳为白色塑料。中间接近底部的位置有一个LED灯，通电后会亮起
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTQ2fDk5ZDllNTEyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTQ2fDk5ZDllNTEyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲路由背面IO接口一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTQ4fDQ0ZTlhZmMxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTQ4fDQ0ZTlhZmMxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲从左往右分别是Sync同步按钮，千兆WAN接口（internet接口），三个千兆LAN口，DC电源插孔，Reset按钮
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTQ5fGYwODE3NDY0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTQ5fGYwODE3NDY0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTUwfDIyZWQwOTQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTUwfDIyZWQwOTQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲前面板和后面板底部位置留了缝隙，方便冷空气进入路由器内部进行散热
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTUyfDUwNmVhNjRlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTUyfDUwNmVhNjRlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲底部的铭牌，标注了产品的型号等信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTUzfDk2ODNhNjg0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTUzfDk2ODNhNjg0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBS350分身正面，外壳为白色塑料。中间接近底部的位置有一个LED灯，通电后会亮起
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU0fGQ5OTYxNDE4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU0fGQ5OTYxNDE4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲分身背面IO接口一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU1fDYyNjMxOWIzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU1fDYyNjMxOWIzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲从左往右分别是Sync同步按钮，两个千兆LAN口，DC电源插孔，Reset按钮
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU2fGY4MDgzZGRmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU2fGY4MDgzZGRmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲底部的铭牌
@@ -156,56 +156,56 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU3fGY0Y2M2NDFkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU3fGY0Y2M2NDFkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲首先打开前面板，可以看到内部PCB主板上方还覆盖有一层塑料罩
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU4fDkxMmNhNDc2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU4fDkxMmNhNDc2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲揭开这层塑料罩，就能看到内部的PCB主板了。塑料罩底部有一块导光条，用于将PCB上的灯光导至前面板
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTU5fDMyOTFhZDY2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTU5fDMyOTFhZDY2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲从底壳中拿出PCB主板。底壳上端两侧有两个天线，这两根是2.4G+5G复用天线
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTYwfDcxN2E4MmVhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTYwfDcxN2E4MmVhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲PCB主板正面，芯片部位都做了金属屏蔽
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTYxfGI4MzM4MzdkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTYxfGI4MzM4MzdkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲去除金属屏蔽盖后，PCB主板正面一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTYzfDc3ZGZhMjA0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTYzfDc3ZGZhMjA0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲W29N04GZ，FLASH芯片，用于存放Orbi RBR350的固件，容量为512MB
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY0fDk0YzA1MWVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY0fDk0YzA1MWVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲MP5496，电源管理芯片
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY1fDY4YjUwMjVkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY1fDY4YjUwMjVkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲QPF4288，2.4G无线功放芯片
@@ -236,7 +236,7 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY2fGRkOGUxM2Q5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY2fGRkOGUxM2Q5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲QPF4588A，5G无线功放芯片
@@ -265,56 +265,56 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY3fGI0YTYxNDJmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY3fGI0YTYxNDJmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲PCB主板背面覆盖有铝制散热片
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY4fDhjN2YzM2FjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY4fDhjN2YzM2FjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲移去铝制散热片
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTY5fGE0NmZjNDRkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTY5fGE0NmZjNDRkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲去除金属屏蔽盖后，PCB主板背面一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTcwfGQwNGI4ZjE4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTcwfGQwNGI4ZjE4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲核心区域。Soc是高通的IPQ6000，集成4核心ARM Cortex A53 CPU，14nm工艺，1.8GHz主频。IPQ6000的右侧是RAM芯片，NT5CC256M16ER-EK，容量大小为512MB，制造厂商是南亚
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTcxfDBiNjZlMWMwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTcxfDBiNjZlMWMwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲QCA8075，5端口千兆PHY芯片，制造厂商是高通
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTcyfDE3NTEyN2JlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTcyfDE3NTEyN2JlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲QCN5052，5G WLAN芯片，支持802.11ax，支持2x2 MU-MIMO，80MHz频宽，最高速率为1201Mbps，制造厂商是高通
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTczfGJmMTgxYzY0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTczfGJmMTgxYzY0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲QCN5022，2.4G WLAN芯片，支持802.11ax，支持2x2空间流，最高速率为573Mbps，制造厂商是高通
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTc4fDM3N2IwOTIwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTc4fDM3N2IwOTIwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲芯片示意图
@@ -323,28 +323,28 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTc1fDM5M2UzYzkxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTc1fDM5M2UzYzkxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲我们直接来看RBS350的PCB主板。无线部分芯片和RBR350一样，有线部分比RBR350少了两个网变和两个千兆RJ45端口
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTc3fGVjZmM0YjhlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTc3fGVjZmM0YjhlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲PHY芯片变更为QCA8072，这是一个双端口千兆PHY芯片，制造厂商是高通
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTc2fDE4MzUyMDZkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTc2fDE4MzUyMDZkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲FLASH芯片变更为W29N02GZ，容量为256MB，制造厂商是Winbond
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMwOTc5fGM2ZmQ5ZDk1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMwOTc5fGM2ZmQ5ZDk1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲芯片示意图
@@ -355,56 +355,56 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDQ1fGE1YzQxYzZifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDQ1fGE1YzQxYzZifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲打开APP后首次需要创建一个登陆账户，通过扫描RBR350机身上的QR码，将RBR350添加进APP
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDQ2fGU5YzVhMmNifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDQ2fGU5YzVhMmNifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲根据APP提示将RBR350和RBS350安装好
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDQ3fGUyMzZiYjI4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDQ3fGUyMzZiYjI4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲将手机连接到RBR350的WiFi SSID，耐心等待主体和分身添加完毕
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDQ5fGQ5OThkNjVlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDQ5fGQ5OThkNjVlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲设置Wi-Fi的SSID以及密码，设置ORBI的登录密码和安全问题
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDUwfDg4ZDBjNjc5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDUwfDg4ZDBjNjc5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲此时RBK353会重新连接到你设置的Wi-Fi网络，并且检查固件是否为最新，不是最新的话会提示你更新固件
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDUxfDRjODQwZjI1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDUxfDRjODQwZjI1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲APP配置完成后，你可以查看当前的网络拓扑。网件引入了Armor Security，可以更好的保护你的网络和连接的设备，试用时间结束后需要自己购买
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDUyfGM0Y2FhZTVlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDUyfGM0Y2FhZTVlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲Orbi APP支持远程对路由器进行管理，Armor Security也可以自行开关
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU0fDVlMDc3ZWYxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU0fDVlMDc3ZWYxfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBK353支持无线回程和有线回程。AP模式下的有线回程也支持。无线方面RBK353支持WPA3协议
@@ -413,42 +413,42 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU1fDk5N2U4MTU1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU1fDk5N2U4MTU1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲首先5G信道不可选，使用的是5.8G。2.4G信道可以自由选择
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU2fDA1NDNhNDc4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU2fDA1NDNhNDc4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲国行首批的EUS版本支持无线切换地区
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU3fDU0ZTRhMzBhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU3fDU0ZTRhMzBhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲支持路由器模式和AP模式切换
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU4fDg4NDdiYThlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU4fDg4NDdiYThlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 Debug信息中没有Telnet开启选项。这里的FALSH容量显示为256MB，从拆解来看，W29N04GZ芯片实际应该是512MB
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDU5fGVkMjFhNWQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDU5fGVkMjFhNWQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBS350会使用5.8G与RBR350组建无线回程，并释放出2.4G和5.8G供用户使用
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNDYwfGQ5ZTQ4ZjQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNDYwfGQ5ZTQ4ZjQ1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBS350 Debug信息中带有Telnet开启选项。内存为512MB
@@ -489,56 +489,56 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjIwfDc5MzJjMDU1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjIwfDc5MzJjMDU1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲NAT单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjIxfGYyMDBkYWY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjIxfGYyMDBkYWY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲LAN TO LAN单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjIyfDdmOTg5YzU5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjIyfDdmOTg5YzU5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲LAN TO LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjIzfDdlODQyODY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjIzfDdlODQyODY3fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5G TO LAN上行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI0fDEwMDZkZjc0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI0fDEwMDZkZjc0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5G TO LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI1fGI3OWQ5NjkwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI1fGI3OWQ5NjkwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5G TO LAN下行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI2fDkzZGVmODhhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI2fDkzZGVmODhhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5G TO 5G单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI3fDk5ODA0MWFkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI3fDk5ODA0MWFkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5G TO 5G双向单线程和十线程
@@ -547,49 +547,49 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI4fDZhZDgwYmRjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI4fDZhZDgwYmRjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 LAN TO RBS350 LAN单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjI5fDY5MTc2NzM4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjI5fDY5MTc2NzM4fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 LAN TO RBS350 LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjMwfDJiMzA1Y2VlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjMwfDJiMzA1Y2VlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN上行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjMxfDQ4Mjc0MjJkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjMxfDQ4Mjc0MjJkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjMyfDM3NWVkNjY1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjMyfDM3NWVkNjY1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN下行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjMzfDVlN2EyZjVhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjMzfDVlN2EyZjVhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 5G单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM0fGM4MWFmNzgyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM0fGM4MWFmNzgyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 5G双向单线程和十线程
@@ -598,63 +598,63 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM1fDE4NzI1NTdhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM1fDE4NzI1NTdhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 LAN TO RBS350 LAN单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM2fDlhNjM4NWI1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM2fDlhNjM4NWI1fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 LAN TO RBS350 LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM3fGQ1YTBjNzJifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM3fGQ1YTBjNzJifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN上行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM4fGU1YTZiOTM0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM4fGU1YTZiOTM0fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjM5fGRhNTE2MDA5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjM5fGRhNTE2MDA5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 LAN下行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjQyfGVkZGI0MWIzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjQyfGVkZGI0MWIzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 5G单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjQ3fGMwNGY2NzEyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjQ3fGMwNGY2NzEyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBR350 5G TO RBS350 5G双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjQ5fGVlY2MwMmQwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjQ5fGVlY2MwMmQwfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲数据汇总
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjUwfGYyMjJmNmVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjUwfGYyMjJmNmVmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲图表汇总
@@ -663,28 +663,28 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjgxfDY5MTEzM2JhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjgxfDY5MTEzM2JhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲有线宽带为江苏电信10G EPON千兆宽带，签约下行1000M，上行50M
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjgyfGM5NTRkNDMyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjgyfGM5NTRkNDMyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲有线宽带条件下Speedtest测速，基本跑满千兆WAN口带宽
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjg1fDIzYTRhYjhlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjg1fDIzYTRhYjhlfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲RBK353采用有线回程链接方式
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjg2fDI3MWU5ZDFifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjg2fDI3MWU5ZDFifDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 Orbi RBK353无线地区为澳大利亚。其所在位置已在上图标出。各房间大致面积说明
@@ -705,63 +705,63 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjg3fDNjNzg3NTQzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjg3fDNjNzg3NTQzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲1号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjg4fDU3Njk5YTU5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjg4fDU3Njk5YTU5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲2号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjg5fDQwZjE3YjIyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjg5fDQwZjE3YjIyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲3号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjkwfGNkMDgxNWZkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjkwfGNkMDgxNWZkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲4号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjk0fDg1NTdjNTk2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjk0fDg1NTdjNTk2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲5号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNjk5fDUyY2M2YjcyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNjk5fDUyY2M2YjcyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲6号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzAxfGViZDQzMzlhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzAxfGViZDQzMzlhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲7号位置处2.4G、5G信号强度以及Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzMwfDQwZDJhZWQyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzMwfDQwZDJhZWQyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲数据汇总
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzMxfGYzMGIzMzdkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzMxfGYzMGIzMzdkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲图表汇总
@@ -772,7 +772,7 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzMzfDEzYmU5MDFmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzMzfDEzYmU5MDFmfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲漫游路线为A-B-D-E来回
@@ -781,28 +781,28 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzM0fGE2N2U0OTc5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzM0fGE2N2U0OTc5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用iphone12 ping网关，漫游路线为A-B-D-E，整个过程0次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzM1fDhmODQxNjRhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzM1fDhmODQxNjRhfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用iphone12 ping网关，漫游路线为E-D-B-A，整个过程1次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzM2fDFlYjMyOGRjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzM2fDFlYjMyOGRjfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用S10 ping网关，漫游路线为A-B-D-E，整个过程0次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzM3fDEzYTlmNTI2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzM3fDEzYTlmNTI2fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用S10 ping网关，漫游路线为E-D-B-A，整个过程0次丢包，漫游2次，漫游切换时掉0个包
@@ -811,28 +811,28 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzQxfDQ1OGY2YmNkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzQxfDQ1OGY2YmNkfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用iphone12 ping网关，漫游路线为A-B-D-E，整个过程1次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzQyfDVmZjZiZDExfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzQyfDVmZjZiZDExfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用iphone12 ping网关，漫游路线为E-D-B-A，整个过程2次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzQ1fDYyNDkzYmQ5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzQ1fDYyNDkzYmQ5fDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用S10 ping网关，漫游路线为A-B-D-E，整个过程0次丢包，漫游2次，漫游切换时掉0个包
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzQ2fGM3MTNlZTYyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzQ2fGM3MTNlZTYyfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 ▲使用S10 ping网关，漫游路线为E-D-B-A，整个过程0次丢包，漫游2次，漫游切换时掉0个包
@@ -841,7 +841,7 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDMxNzQ4fDM5M2E4NjAzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDMxNzQ4fDM5M2E4NjAzfDE2MzIzOTAyMTl8MHwxOTMxNzg%3D&nothumb=yes)
 
 
 **硬件**
