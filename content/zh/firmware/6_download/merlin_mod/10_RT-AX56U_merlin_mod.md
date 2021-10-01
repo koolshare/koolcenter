@@ -1,25 +1,27 @@
-
 ---
-title: "RT-AX56U 梅林改版固件"
+title: "RT-AX56U 官改固件"
 linkTitle: "RT-AX56U"
 type: docs
-weight: 1
-date: 2018-07-30
+weight: 10
+toc_hide: false
+hide_summary: false
+date: 2021-10-1
+author: "sadog"
+tags: ["梅林改版固件"]
+categories: ["固件下载"]
 description: >
-
   最新版本：386.3_2，更新日期：2021年08月07日
 ---
 
-## <font color="#f57332">〇、推广交流</font>
+<font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
 
-<font color="#FF0066" style="font-size:16px;line-height:1.5">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的==易有云2.0==或者==wifi boost==，以支持开发者，谢谢！</font>
+### <font color="#f57332">一、刷机须知</font>
 
-## <font color="#f57332">一、刷机须知</font>
+注意1：请刷机的朋友认真阅读本帖！！！刷机带来的风险请自行承担！！！
 
-<font color="#DC143C">注意1：请刷机的朋友认真阅读本帖！！！刷机带来的风险请自行承担！！！</font>
-<font color="#DC143C">注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！</font>
+注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
-## <font color="#f57332">二、固件特色</font>
+### <font color="#f57332">二、固件特色</font>
 
 1. 梅林改版固件使用梅林固件源代码为基础（[asuswrt-merlin.ng代码](https://github.com/RMerl/asuswrt-merlin.ng)）修改而来；
 2. 梅林固件有的功能，梅林改版固件都有，参考此链接：[梅林固件添加的功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L62-L132)；
@@ -29,7 +31,7 @@ description: >
 6. 增加一些软件中心/插件需要用到的功能，如dnsmasq with ipset、base64、一些内核模块支持等；
 7. koolshare软件中心支持：[hnd软件中心](https://github.com/koolshare/rogsoft#rogsoft)；
 
-## <font color="#f57332">三、支持机型</font>
+### <font color="#f57332">三、支持机型</font>
 
 - 本固件仅支持华硕`RT-AX56U`机型，注意：此RT-AX56U是指双天线，带USB接口的RT-AX56U。
 - 华硕`RT-AX56U`在国内有两个版本，一个是华硕原版，一个是电信版（在包装盒右下角有`小翼管家`字样），经网友测试本固件对两个版本的`RT-AX56U`均是支持的。
@@ -43,53 +45,53 @@ description: >
 | RT-AX56U 热血版     | RT-AX56U_V2 | RT-AX55  | 4    | 无   | 128MB | 256MB | 不支持     |
 | RT-AX56U 刺客信条   | RT-AX56U_V2 | RT-AX55  | 4    | 无   | 128MB | 256MB | 不支持     |
 
-## <font color="#f57332">四、更新日志</font>
+### <font color="#f57332">四、更新日志</font>
 
-###  <font color="#00BFFF">386.3_2（2021年08月07日）</font>
+####  <font color="#00BFFF">386.3_2（2021年08月07日）</font>
 1. 同步梅林固件代码386.3_2，更新日志见此：[Asuswrt-Merlin 386/NG Changelog](https://www.asuswrt-merlin.net/changelog)；
 2. 同步软件中心1.7.5
 
-###  <font color="#00BFFF">386.3_0（2021年07月30日）</font>
+####  <font color="#00BFFF">386.3_0（2021年07月30日）</font>
 1. 同步梅林固件代码386.3_0
 2. 同步软件中心1.7.3
 
-###  <font color="#00BFFF">386.2_6（2021年06月17日）</font>
+####  <font color="#00BFFF">386.2_6（2021年06月17日）</font>
 1. 同步梅林固件代码386.2_6
 
-###  <font color="#00BFFF">386.2_4（2021年05月19日）</font>
+####  <font color="#00BFFF">386.2_4（2021年05月19日）</font>
 1. 同步梅林固件代码386.2_4
 
-###  <font color="#00BFFF">386.2_2（2021年04月14日）</font>
+####  <font color="#00BFFF">386.2_2（2021年04月14日）</font>
 1. 同步梅林固件代码386.2_2
 2. 同步软件中心1.7.1
 
-###  <font color="#00BFFF">386.2_0（2021年04月07日）</font>
+####  <font color="#00BFFF">386.2_0（2021年04月07日）</font>
 1. 同步梅林固件代码386.2_0
 2. 同步软件中心1.7.0
 
-###  <font color="#00BFFF">386.1_2（2021年02月13日）</font>
+####  <font color="#00BFFF">386.1_2（2021年02月13日）</font>
 1. 同步梅林固件代码386.1_2
 
-###  <font color="#00BFFF">386.1_0（2021年02月08日）</font>
+####  <font color="#00BFFF">386.1_0（2021年02月08日）</font>
 1. RT-AX56U第一个梅林改版版本，基于梅林代码386.1_0制作；
 2. 添加koolshare软件中心支持，以及软件中心支持相关的开机脚本、内核模块等支持；
 
-## <font color="#f57332">五、刷机步骤</font>
+### <font color="#f57332">五、刷机步骤</font>
 
-### <font color="#00BFFF">刷机准备</font>
+#### <font color="#00BFFF">刷机准备</font>
 
 - 建议下载好固件后，对固件的md5/sha1校验码进行核对，以保证固件完整性；
 - 建议刷机全程使用电脑端谷歌Chrome，或者Chromium内核的浏览器进行操作；
 - 如果使用了USB2JFFS插件，建议先使用卸载掉USB的挂载后在进行刷机，刷机后再进行挂载。
 
-### <font color="#00BFFF">固件定义</font>
+#### <font color="#00BFFF">固件定义</font>
 
 - `原厂固件`为RT-AX56U华硕官方固件：[RT-AX56U华硕官方固件下载地址](https://www.asus.com.cn/Networking/RT-AX56U/HelpDesk_BIOS/)；
 - `电信固件`为RT-AX56U电信版的出厂固件，有的电信版RT-AX56U在包装盒右下角有`小翼管家`字样，并且固件内web管理页面在固件升级那个位置没有上传固件的按钮。
 - `原版梅林固件`为加拿大独立开发者Eric Sauvageau在华硕RT-AX56U官方源码上二次开发的第三方固件，相较华硕官方固件，其区别为：[这些功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L62-L132)，其版本号为`386.x`，如：`386.1`；
 - `改版梅林固件`为koolshare开发组在本贴发布的基于梅林固件源码再次开发而来的带软件中心的RT-AX56U梅林改版固件，其版本号和梅林原版固件保持一致，如RT-AX56U官改固件版本：`386.1`。
 
-### <font color="#00BFFF">刷机术语</font>
+#### <font color="#00BFFF">刷机术语</font>
 
 > 为消除小白在刷机过程中的疑惑，下面列出一下华硕/梅林固件刷机的基本术语及我自己的解释，希望对大家有所帮助。如果你对下面的内容已经比较清楚，那么可以跳过这部分直接进入到刷机流程。
 
@@ -99,7 +101,7 @@ description: >
 4. **JFFS挂载状态**：通过SSH连接到路由器后台后输入命令（如果不知道如何使用SSH执行命令，可以参考下文【重要命令】中的【如何使用SSH】）：`mount | grep -w /jffs`，如果看到类似`/dev/mtdblock9 on /jffs type jffs2 (rw,noatime)`这样的输出，说明/jffs成功挂载了，挂载设备为`/dev/mtdblock9`。当然，在梅林/梅林改版固件中，只需要进入【Tools - Sysinfo】页面，在JFFS一栏即可看到JFFS挂载状态，如果成功挂载，将会显示JFFS已用容量和总容量，如果没有挂在，则会显示*umounted*字样。因为软件中心是储存在JFFS中的，所以如果软件中心进入后是空白页面，一般来说JFFS分区的挂载就出现了问题。遇到这种情况，可以参考下文FAQ中的【Q3：刷机后软件中心一片空白】来尝试解决。
 5. **JFFS分区备份/还原**：使用梅林原版固件/梅林改版固件的朋友，可能知道梅林固件相对于华硕官方固件，多了JFFS分区备份/还原功能，其本质就是将JFFS分区内的所有文件进行打包，然后在需要的时候进行还原。此功能在某些时候会特别管用，比如某个版本固件升级后，JFFS分区容量被缩小了，这会导致储存在JFFS分区靠后的文件块被强行清除，从而导致JFFS分区内文件丢失、文件损坏。而使用JFFS分区备份/还原功能，在每次固件升级前先备份一次JFFS分区内容，在固件升级后，如果JFFS分区内容出现丢失、损坏等，再用备份进行还原即可规避上面的问题。当然如果是梅林改版固件的话，只进行还原还是不够的，因为刚还原后，软件中心相关程序虽然还原了，但是其进程还没有启动，此时重启一次路由器，才能让软件中心在还原后正常工作。
 
-### <font color="#00BFFF">A. 原厂固件 → 改版梅林固件</font>
+#### <font color="#00BFFF">A. 原厂固件 → 改版梅林固件</font>
 
 > 原厂固件和原版梅林固件/改版梅林固件在一些默认配置上有所不同，虽然刷机后不用恢复出厂设置也能正常工作，但是建议有时间朋友刷机完成后双清一次路由双清后全部手动配置，不要用以前的备份配置。
 
@@ -109,13 +111,13 @@ description: >
 4. 重启后进入web后台时先设置路由器，将路由器连上网络，然后进入软件中心，如果软件中心一片空白，不要着急，先软重启（使用顶部重启按钮）一次路由器即可出现软件中心，如果软件中心仍然空白，参见FAQ：Q4的解决办法。
 5. 如果进入软件中心后正常，将软件中心更新到最新版本（如果有）后即完成全部刷机，之后你可以对路由器固件进行其它喜好的设置，或者在软件中心安装插件等操作。
 
-### <font color="#00BFFF">B. 电信固件 → 改版梅林固件</font>
+#### <font color="#00BFFF">B. 电信固件 → 改版梅林固件</font>
 
 > 由于电信固件内web管理页面在固件升级那个位置没有上传固件的按钮，所以无法通过web直刷来刷写固件，需要用其它办法来刷机，下面提供两种方法：
 > 1. 解锁web刷机；
 > 2. 救援模式刷机；
 
-#### 1. 解锁web刷机
+##### 1. 解锁web刷机
 
 > 此方法通过在路由器中执行命令后，解封固件升级页面的固件上传功能，然后在web后台上传固件即可完成刷机。如果不知道如何使用SSH执行命令，可以参考下文【重要命令】中的【如何使用SSH】。
 >   
@@ -128,7 +130,7 @@ description: >
 5. 重启后进入web后台时先设置路由器，将路由器连上网络，然后进入软件中心，如果软件中心一片空白，不要着急，先软重启（使用顶部重启按钮）一次路由器即可出现软件中心，如果软件中心仍然空白，参见FAQ：Q3的解决办法。
 6. 如果进入软件中心后正常，将软件中心更新到最新版本（如果有）后即完成全部刷机，之后你可以对路由器固件进行其它喜好的设置，或者在软件中心安装插件等操作。
 
-#### 2. 救援模式刷机
+##### 2. 救援模式刷机
 
 >  下面给出了详细的救援模式刷机的文字描述步骤，如果操作还是有困难，可以参考华硕官方的图文教程：[如何使用救援模式(Firmware Restoration)?](https://www.asus.com.cn/support/FAQ/1000814/)，来刷写原版/改版梅林固件。
 >   
@@ -146,7 +148,7 @@ description: >
 10. 进入web后台时先设置路由器，将路由器连上网络，然后进入软件中心，如果软件中心一片空白，不要着急，先软重启（使用顶部重启按钮）一次路由器即可出现软件中心，如果软件中心仍然空白，参见FAQ：Q3的解决办法。
 11. 如果进入软件中心后正常，将软件中心更新到最新版本（如果有）后即完成全部刷机，之后你可以对路由器固件进行其它喜好的设置，或者在软件中心安装插件等操作。
 
-### <font color="#00BFFF">C. 原版梅林固件 → 改版梅林固件</font>
+#### <font color="#00BFFF">C. 原版梅林固件 → 改版梅林固件</font>
 
 1. 在`原版梅林固件`固件升级页面下直接上传.w 后缀的`改版梅林固件`文件；
 2. 成功上传固件后，路由器会自动重启，此时刷机完成（刷机完成后可以不恢复出产设置，当然恢复一次更好）；
@@ -154,7 +156,7 @@ description: >
 4. 重启后进入web后台时先设置路由器，将路由器连上网络，然后进入软件中心，如果软件中心一片空白，不要着急，先软重启（使用顶部重启按钮）一次路由器即可出现软件中心，如果软件中心仍然空白，参见FAQ：Q4的解决办法。
 5. 如果进入软件中心后正常，将软件中心更新到最新版本（如果有）后即完成全部刷机，之后你可以对路由器固件进行其它喜好的设置，或者在软件中心安装插件等操作。
 
-### <font color="#00BFFF">D. 改版梅林固件 → 改版梅林固件</font>
+#### <font color="#00BFFF">D. 改版梅林固件 → 改版梅林固件</font>
 
 1. 在`改版梅林固件`升级页面下直接上传.w 后缀的`改版梅林固件`文件，刷机完成后机器会自动重启；
 2. 请阅读你刷的固件版本的更新日志，看是否有附加刷机说明（如恢复出厂，双清，格式化JFFS等），如果没有任何要求，刷机完成后可以不恢复出厂设置；
@@ -162,7 +164,7 @@ description: >
 4. 以上步骤完成后，固件中的软件中心和所有插件都会得到保留；
 5. 如果刷机后软件中心页面一片空白，建议再手动软重启（使用顶部重启按钮）一次路由器，如果仍然空白，参见FAQ：Q4。
 
-### <font color="#00BFFF">E. 改版梅林固件 → 原厂固件/原版梅林固件</font>
+#### <font color="#00BFFF">E. 改版梅林固件 → 原厂固件/原版梅林固件</font>
 
 > 从改版梅林固件刷为原厂固件/原版梅林固件后建议做一次双清操作，以清除jffs分区里残留的一些软件中心相关文件。不过即使不进行双清操作，也不会影响刷回原厂固件路由器的正常工作，你甚至可以立即再刷回改版梅林固件，软件中心的所有插件和配置都将得到保留，并且正常工作。
 
@@ -172,16 +174,17 @@ description: >
 4. 如需彻底清空jffs里的文件残留，需要再执行一次双清操作；
 5. 如果不想双清后重新设置路由器，可以参见后文【<font color="#f57332">重要命令</font>】中的【<font color="#DC143C">清空jffs空间</font>】或者【<font color="#DC143C">删除软件中心</font>】。
 
-## <font color="#f57332">六、注意事项：</font>
+### <font color="#f57332">六、注意事项：</font>
 1. 刷机后如果界面显示不正常，请使用组合键`ctrl + F5`强制清空浏览器缓存后重试；
 2. 强烈建议使用chrome浏览器或者chromium内核的浏览器，以保持最佳兼容性；
 3. 请勿使用不同版本固件备份的路由器设置来恢复当前路由器。
 
-## <font color="#f57332">七、FAQ</font>
+### <font color="#f57332">七、FAQ</font>
 - 此处列出一些经常被问到的问题（FAQ）的回答，持续更新中~
 - FAQ更新日期：2021年01月31日
 
 **Q1：我离线安装第三方xxx插件失败怎么办？**
+
 **A1：** 目前各个平台的软件中心也没有提供严格的插件开发规范，加上论坛的插件区管理比较混乱，没有进行良好的插件审核，所以经常有一些第三方插件无法兼容所有软件中心平台，但是却能在这些平台上进行安装。
 
 1. 本贴的RT-AX56U属于axhnd.675x平台机型，对于hnd/axhnd/axhnd.675平台机型，使用的是rogsoft软件中心，这些机型的插件是可以通用的，具体请见：[rogsoft机型支持](https://github.com/koolshare/rogsoft#机型支持)；
@@ -190,7 +193,8 @@ description: >
 4. 为了论坛和固件未来更好的发展，koolshare软件中心也会针对一些特殊的插件在离线安装上有所限制。
 
 **Q2：软件中心一直显示更新中怎么办？**
-**A2：**此问题可能由多种原因导致，请尝试下面的方法：
+
+**A2：** 此问题可能由多种原因导致，请尝试下面的方法：
 
 1. 访问https://rogsoft.ddnsto.com/，请确保你访问此网站的时候使用的是连接到该路由器下的客户端，如果显示`Hello to everyone`字样，表示你的路由下的本地网络访问软件中心服务器没有问题；如果不显示上述字样，则可能是是网络方面的问题。
 2. 情况1，路由器本地网络故障：开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器，输入命令：`ping rogsoft.ddnsto.com`，看是否能ping通服务器，如果无法解析ip地址，可以尝试更换路由器dns设定后再试；如果能解析ip地址当时无法ping通，可能是本地网络问题或者软件中心服务器正在维护。
@@ -202,34 +206,39 @@ description: >
 8. 最后，最严重的情况，路由器的jffs分区遇到了很多无法屏蔽的坏块，查看路由器有多少坏块，先重启路由器，然后用putty、xshell等SSH软件连接路由器后，参考下文：重要命令里的==RT-AX56U查询坏块命令==。一般来说，两三个坏块是正常品控水平，如果坏块太多，建议走售后渠道。
 
 **Q3：刷机后软件中心一片空白**
-**A3：**按照下面的顺序依次尝试：
+
+**A3：** 按照下面的顺序依次尝试：
 
 1. 在【系统管理】-【系统设置】里开启SSH功能，然后通过putty、Xshell等SSH软件连接到路由器后台后，输入命令：`mount | grep -w /jffs`，如果看到类似`/dev/mtdblock9 on /jffs type jffs2 (rw,noatime)`这样的输出，说明/jffs成功挂载了，挂载设备为`/dev/mtdblock9`，最后的数字9会根据机型/平台的不同而不同。如果没有任何输出，则说明/jffs分区没有成功挂载，请尝试重启路由、重置路由等操作后再次查看jffs分区是否成功挂载，如果仍然不行，尝试运行以下命令手动挂载RT-AX56U的jffs分区：`mount -t jffs2 -o rw,noatime /dev/mtdblock9 /jffs`，运行完毕后再次`mount | grep /jffs`，检查是否成功挂载。如果手动挂载还是不行，那么可能是FALSH有问题或者是系统有问题，这种建议售后渠道换机了。
 2. 如果jffs分区挂载没有问题，软件中心页面还是空白，可以尝试使用下文：重要命令里的==软件中心重置命令==，来重置一次软件中心，然后应该就能看到软件中心页面了。
 
 **Q4：Rmerl发布了最新的RT-AX56U梅林固件，为什么此贴还不更新梅林改版固件啊？**
-**A4：**新梅林改版固件的发布涉及大到大量的源代码合并工作，期间还涉及到一些编译、测试、回炉等工作，不过一般来说梅林原版固件更新后1天-1周内，就会完成编译和测试工作。
+
+**A4：** 新梅林改版固件的发布涉及大到大量的源代码合并工作，期间还涉及到一些编译、测试、回炉等工作，不过一般来说梅林原版固件更新后1天-1周内，就会完成编译和测试工作。
 
 **Q5：我的xxx固件无线有问题，能否修复？**
-**A5：**无线问题无能为力，因为华硕使用的是博通商业代码，无线这部分在固件源代码里是不开源的，没法进行任何修改或者调整。
+
+**A5：** 无线问题无能为力，因为华硕使用的是博通商业代码，无线这部分在固件源代码里是不开源的，没法进行任何修改或者调整。
 
 **Q6：可不可给固件以增加xxx功能？**
+
 **A6**：基本不可以，本官改固件的开发宗旨是在尽量保持ASUS官方固件原汁原味的基础上，增加软件中心及对应插件的支持。所以一些官方固件所有的问题，在官改固件中也可能会遗传。koolshare固件开发组会尽量对一些ASUS已知的bug进行修复，不过仅限于非常重要的。另外，添加功能是软件中心的使命，软件中心就是为此而生的；
 
 **Q7：我现在已经是xxx的版本，用着挺稳定，看见本帖更新了最新固件，我还需要跟随最新版本升级吗？升级后稳定吗？升级后需要恢复出厂设置吗？**
-**A7：**非常建议升级！最新的固件版本不仅有来自ASUS官方（asuswrt）和梅林（asuswrt-merlin）的一些功能更新，也会包含ASUS官方和梅林的一些安全更新、稳定性更新，一般来说会比老版本固件更加稳定。同时，koolshare软件中心和相关插件也是持续为最新版本梅林改版固件进行更新的，所以是强烈建议升级到最新版本koolshare梅林改版固件的。另外已经刷过koolshare梅林改版固件的，升级到最新koolshare梅林改版固件，一般来说没有特殊说明，是不需要做恢复出厂设置等操作的，所有的插件都会得到保留。
 
-## <font color="#f57332">八、重要命令</font>
+**A7：** 非常建议升级！最新的固件版本不仅有来自ASUS官方（asuswrt）和梅林（asuswrt-merlin）的一些功能更新，也会包含ASUS官方和梅林的一些安全更新、稳定性更新，一般来说会比老版本固件更加稳定。同时，koolshare软件中心和相关插件也是持续为最新版本梅林改版固件进行更新的，所以是强烈建议升级到最新版本koolshare梅林改版固件的。另外已经刷过koolshare梅林改版固件的，升级到最新koolshare梅林改版固件，一般来说没有特殊说明，是不需要做恢复出厂设置等操作的，所有的插件都会得到保留。
 
-### <font color="##00BFFF">如何使用SSH</font>
+### <font color="#f57332">八、重要命令</font>
+
+#### <font color="###00BFFF">如何使用SSH</font>
 
 以下操作需要使用支持SSH协议的软件，连接到路由器后台进行操作，如果不会使用，可以参考下面步骤：
 
-1. **启用SSH：**在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
-2. **登录SSH：**下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
-3. **键入命令：**键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。命令执行可以一次复制粘贴几条命令一起执行；也可以一行一行复制粘贴，并一条一条执行。
+1. **启用SSH：** 在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
+2. **登录SSH：** 下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
+3. **键入命令：** 键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。命令执行可以一次复制粘贴几条命令一起执行；也可以一行一行复制粘贴，并一条一条执行。
 
-### <font color="##00BFFF">1. 电信版固件解锁web刷机</font>
+#### <font color="###00BFFF">1. 电信版固件解锁web刷机</font>
 
 - 成功通过SSH连接到路由器后，将下面命令全部一次性复制，粘贴进SSH命令窗口，并按下回车按钮。（也可以一行一行复制，并一条一条执行）
 ```bash
@@ -241,7 +250,7 @@ chmod +x /tmp/unlock.sh
 sh /tmp/unlock.sh
 ```
 
-### <font color="##00BFFF">2. 软件中心重置</font>
+#### <font color="###00BFFF">2. 软件中心重置</font>
 
 - 开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器，直接在ssh客户端内运行下面的程序即可。
 
@@ -249,7 +258,7 @@ sh /tmp/unlock.sh
 koolshare-reset
 ```
 
-### <font color="##00BFFF">3. 清空JFFS空间</font>
+#### <font color="###00BFFF">3. 清空JFFS空间</font>
 
 - 注意，此操作会删除jffs分区内的所有文件，包括但不限于：软件中心、安装的证书、TrafficAnalyzer的数据库、自定义的设备图标等
 ```bash
@@ -258,7 +267,7 @@ cd /jffs && rm -r .[a-zA-Z_]* *
 reboot
 ```
 
-### <font color="##00BFFF">4. 删除软件中心</font>
+#### <font color="###00BFFF">4. 删除软件中心</font>
 
 - 适用于**官改固件**刷回**原厂固件**，需要删除留在jffs分区内软件中心，而不删除其它文件；
 - 如果是在**官改固件**下删除软件中心，路由器重启后软件中心会重新初始化为最初状态。
@@ -268,14 +277,14 @@ cd /jffs && rm -rf .asusrouter .koolshare db ksdb config/* etc/profile
 reboot
 ```
 
-### <font color="##00BFFF">5. 重启软件中心</font>
+#### <font color="###00BFFF">5. 重启软件中心</font>
 
 - 当软件中心相关进程挂掉的时候，此时可以用ssh进入路由器后台，输入以下命令重启软件中心：
 ```bash
 sh /koolshare/perp/perp.sh
 ```
 
-### <font color="##00BFFF">6. RT-AX56U查询坏块命令</font>
+#### <font color="###00BFFF">6. RT-AX56U查询坏块命令</font>
 
 - hnd/axhnd机型上查询坏块的方法已经不适用于axhnd.675x平台
 - axhnd.675x平台查询坏块的命令如下（运行以下命令，返回数字即为坏块数量）：
@@ -283,13 +292,11 @@ sh /koolshare/perp/perp.sh
 cat /sys/class/mtd/mtd6/bad_blocks
 ```
 
-## <font color="#f57332">九、固件下载</font>
+### <font color="#f57332">九、固件下载</font>
 
 - 以下固件下载服务器由海波云[Hypo.cn](https://www.hypo.cn/?from=ksbbs) 友情赞助！
 
-[hide]
-
-### <font color="#DC143C"> **386.3_2**</font>
+#### <font color="#DC143C"> **386.3_2**</font>
 
 MD5: 35DFAD10635EDEF328E22E5B477BE4D1
 
@@ -297,7 +304,7 @@ SHA1: B312B554832F62BC8D6B4D739FB7B4226EB1EF5D
 
 下载链接：[RT-AX56U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
 
-### <font color="#DC143C"> **386.3_0**</font>
+#### <font color="#DC143C"> **386.3_0**</font>
 
 MD5: 35DFAD10635EDEF328E22E5B477BE4D1
 
@@ -305,42 +312,42 @@ SHA1: B312B554832F62BC8D6B4D739FB7B4226EB1EF5D
 
 下载链接：[RT-AX56U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
 
-### <font color="#DC143C"> **386.2_6**</font>
+#### <font color="#DC143C"> **386.2_6**</font>
 MD5: 81FC5D9E6C3D8A6D8E05402550DF5797
 
 SHA1: 184B6043228C0452D77DE1F0FFB9EA2D97ADE171
 
 下载链接：[RT-AX56U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
 
-### <font color="#DC143C"> **386.2_4**</font>
+#### <font color="#DC143C"> **386.2_4**</font>
 MD5: B50C9EFC62F9E347A376EE324BF9934B
 
 SHA1: C133437D7BF6154ACF3D39C7C887BFB9C1EC826E
 
 下载链接：[RT-AX56U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_4_cferom_pureubi_koolshare.w)
 
-### <font color="#DC143C"> **386.2_2**</font>
+#### <font color="#DC143C"> **386.2_2**</font>
 MD5: 48F6D68B9C065C25EED1F47475CD787F
 
 SHA1: E9547FEFFCDC749F8E4075BB0C6E82E5F50942E7
 
 下载链接：[RT-AX56U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_2_cferom_pureubi_koolshare.w)
 
-### <font color="#DC143C"> **386.2_0**</font>
+#### <font color="#DC143C"> **386.2_0**</font>
 MD5: 234BEC599ABD409868E63AFE1304EEB5
 
 SHA1: E9547FEFFCDC749F8E4075BB0C6E82E5F50942E7
 
 下载链接：[RT-AX56U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_0_cferom_pureubi_koolshare.w)
 
-### <font color="#DC143C"> **386.1_2**</font>
+#### <font color="#DC143C"> **386.1_2**</font>
 MD5: 1FDC4DBC0A3C60CD26AC935D03BD712F
 
 SHA1: D83C7931251C21AFFAA58001BD69649BA61A0DDE
 
 下载链接：[RT-AX56U_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.1_2_cferom_pureubi_koolshare.w)
 
-### <font color="#DC143C"> **386.1_0**</font>
+#### <font color="#DC143C"> **386.1_0**</font>
 MD5: 5132FB19A7434EE8FA0CFCEC743D2A49
 
 SHA1: 6B9D687F20D647A6A4511C2206911E5A5684C556

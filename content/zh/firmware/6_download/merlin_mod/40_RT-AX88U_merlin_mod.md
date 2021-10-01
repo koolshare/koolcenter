@@ -1,9 +1,14 @@
 ---
-title: "RT-AX88U 梅林改版固件"
+title: "RT-AX88U 官改固件"
 linkTitle: "RT-AX88U"
 type: docs
-weight: 2
-date: 2018-07-30
+weight: 30
+toc_hide: false
+hide_summary: false
+date: 2021-10-1
+author: "sadog"
+tags: ["梅林改版固件"]
+categories: ["固件下载"]
 description: >
   最新版本：386.3_2，更新日期：2021年08月07日
 ---

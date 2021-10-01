@@ -1,331 +1,108 @@
-
 ---
 title: "刷机需知"
 linkTitle: "刷机需知"
 type: docs
 weight: 2
-date: 2018-07-30
+date: 2021-09-11
 description: >
-
   刷机前后的一些注意事项，以及刷机中会碰到的一些术语
 ---
 
+### <font color="#f57332">刷机准备</font>
 
-## Prerequisites and installation
+- 建议下载好固件文件后，对固件的md5/sha1校验码进行核对，以保证固件完整性；
 
-### Use our Docker image
+- 建议刷机全程使用电脑端谷歌Chrome浏览器，或者Chromium内核的浏览器进行操作；
 
-We provide a Docker image that you can use to run and test your Docsy site
-locally, without having to install all Docsy's dependencies.
+- 如果使用了USB2JFFS插件，建议先使用卸载掉USB的挂载后在进行刷机，刷机后再进行挂载。
 
-You can see how to get started with this approach by following our [Docker
-Quickstart tutorial](quickstart-docker). If you don't want to use Docker,
-follow the instructions below to install Hugo and PostCSS.
+### <font color="#f57332">固件定义</font>
 
-### Install Hugo 
+#### 1️⃣华硕原厂固件
 
-You need a [recent **extended** version](https://github.com/gohugoio/hugo/releases) (we recommend version 0.75.0 or later) of [Hugo](https://gohugo.io/) to do local builds and previews of sites (like this one) that use Docsy. If you install from the release page, make sure to get the `extended` Hugo version, which supports [SCSS](https://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html); you may need to scroll down the list of releases to see it. 
+华硕原厂固件即华硕路由器官方固件，其代号为Asuswrt，官方固件可以在[华硕官方下载中心](https://www.asus.com.cn/support/Download-Center/)下载到。一般华硕官方固件的版本号格式为：`3.0.0.4.384.9173`、`3.0.0.4.386.41700`，当然也有类似这样的版本号：`9.0.0.4_386_55919`，9.0.0.4字样开头的固件版本，是华硕官方出品的测试固件，一般也能在华硕官方下载中心下载到，或者在[Small Net Builder论坛的Asuswrt板块](https://www.snbforums.com/forums/asuswrt-official.51/)下载到。
 
-For comprehensive Hugo documentation, see [gohugo.io](https://gohugo.io/).
+#### 2️⃣华硕官改固件
 
-#### Linux
+通常我们说的**官改固件**就是指的**华硕官改固件**，华硕官改固件是<font color="#f57332">kooldev开发组</font>（原koolshare论坛开发组）基于华硕路由器官方源代码修改而来的，带软件中心的固件，版本号为官方固件版本号后加上`_koolshare`后缀，如RT-AX86U官改固件版本：`3.0.0.4.384_9318_koolshare`。
 
-Be careful using `sudo apt-get install hugo`, as it [doesn't get you the `extended` version for all Debian/Ubuntu versions](https://gohugo.io/getting-started/installing/#debian-and-ubuntu), and may not be up-to-date with the most recent Hugo version.
+华硕官改固件相比华硕官方固件，最大的区别就是加入了软件中心支持，以前叫做koolshare软件中心，现在最新版本叫koolcenter软件中心。软件中心赋予了路由器自由安装插件的功能，通过
 
-If you've already installed Hugo, check your version:
+事实上，我们对官改固件的制作相当克制，做法是以最小的代码改动来加入软件中心支持，比如软件中心运行需要的主程序httpdb，软件中心数据库skipd，固件的软件中心侧边栏入口，软件中心需要的一些busybox功能支持如xargs等。所以官改固件和官方固件除了软件中心部分
 
-```
-hugo version
-```
-If the result is `v0.75` or earlier, or if you don't see `Extended`, you'll need to install the latest version. You can see a complete list of Linux installation options in [Install Hugo](https://gohugo.io/getting-started/installing/#linux). The following shows you how to install Hugo from the release page:
-    
-1.  Go to the [Hugo releases](https://github.com/gohugoio/hugo/releases) page.
-2.  In the most recent release, scroll down until you find a list of
-    **Extended** versions.
-3.  Download the latest extended version (`hugo_extended_0.5X_Linux-64bit.tar.gz`).
-4.  Create a new directory:
+####  3️⃣梅林原版固件
 
-        mkdir hugo
+加拿大独立开发者Eric Sauvageau在华硕官方源码上二次开发的第三方固件，其代号为Asuswrt-Merlin，相较华硕官方固件，其区别为：[这些功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L64-L135)，比如一些系统修复、NFS支持，多种开机启动项支持等等。
 
-5.  Extract the files you downloaded to `hugo`.
+通常我们说到**梅林固件**，就是指**梅林原版固件**，梅林原版固件目前其版本号一般为`386.x`，如：`386.1`、`386.2_6`，梅林原版固件的下载地址为：[https://www.asuswrt-merlin.net/](https://www.asuswrt-merlin.net/)
 
-6.  Switch to your new directory:
+#### 4️⃣梅林改版固件
 
-        cd hugo
+梅林改版固件是指<font color="#f57332">kooldev开发组</font>基于梅林原版固件源码基础上，再进行开发而来的、带软件中心的改版固件，其版本号和原版梅林固件持一致，如RT-AX86U官改固件版本：`386.1`。
 
-7.  Install Hugo:
+相比于梅林原版固件，梅林改版固件最大的区别就是加入了软件中心支持，，以前叫做koolshare软件中心，现在最新版本叫koolcenter软件中心。软件中心赋予了路由器自由安装插件的功能，
 
-        sudo install hugo /usr/bin    
+#### 5️⃣网件移植固件
 
-#### macOS
+网件机型本身是不支持ASUSWRT/梅林固件的，但是因为网件的一些机型和华硕路由器硬件基本一致，所以经过一些对源代码的修改，就能实现给网件固件刷移植固件。比如网件RAX80的硬件（CPU，无线网卡）和华硕RT-AX88U一致，所以RAX80刷的梅林改版固件，是在RT-AX88U的梅林改版固件基础上移植而来的。
 
-Install Hugo using [Brew](https://gohugo.io/getting-started/installing/#homebrew-macos).
+目前kooldev开发组制作的网件移植固件均是在梅林改版固件基础上移植的，比如RAX80是从RT-AX88U梅林改本固件移植而来，RAX50是从RT-AX58U梅林改版固件移植而来。但是也有例外的情况，比如即将发布的网件RAX70移植固件，因为其对应的华硕机型RT-AX95Q（ZenWiFi AX6600）并没有梅林原版固件的支持，所以RAX70的移植固件是从RT-AX95Q的华硕官方源代码移植而来。
 
-#### As an `npm` module
+|            |                         华硕原厂固件                         |                华硕官改固件                |                    梅林原版固件                     |                梅林改版固件                |                网件移植固件                |
+| ---------: | :----------------------------------------------------------: | :----------------------------------------: | :-------------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|     出品方 |                           华硕官方                           | <font color="#f57332">kooldev开发组</font> |                   Eric Sauvageau                    | <font color="#f57332">kooldev开发组</font> | <font color="#f57332">kooldev开发组</font> |
+|       代号 |                           Asuswrt                            |                                            |                   Asuswrt-Merlin                    |                                            |                                            |
+|       特点 |                           官方出品                           |                  软件中心                  |                      功能增强                       |                  软件中心                  |                  软件中心                  |
+| 版本号示例 |                          386.41700                           |            386.41700_koolshare             |                       386.2_6                       |                  386.2_6                   |                视移植源而定                |
+|   相关地址 | [华硕下载中心](https://www.asus.com.cn/support/Download-Center/) |                    本站                    | [梅林原版下载地址](https://www.asuswrt-merlin.net/) |                    本站                    |                    本站                    |
 
-You can install Hugo as an `npm` module using [`hugo-bin`](https://www.npmjs.com/package/hugo-bin). This adds `hugo-bin` to your `node_modules` folder and adds the dependency to your `package.json` file.  To install the extended version of Hugo:
+▲以上表格总结了几种固件的一些区别
 
-```
-npm install hugo-extended --save-dev
-```
+### <font color="#f57332">刷机术语</font>
 
-See the [`hugo-bin` documentation](https://www.npmjs.com/package/hugo-bin) for usage details.
+为消除小白在刷机过程中的疑惑，下面列出一下华硕/梅林固件刷机的基本术语及我自己的解释，希望对大家有所帮助。如果你对下面的内容已经比较清楚，那么可以跳过这部分直接进入到刷机流程。
 
-### Install PostCSS
+#### 1. 固件双清
 
-To build or update your site's CSS resources, you also need [`PostCSS`](https://postcss.org/) to create the final assets. If you need to install it, you must have a recent version of [NodeJS](https://nodejs.org/en/) installed on your machine so you can use `npm`, the Node package manager. By default `npm` installs tools under the directory where you run [`npm install`](https://docs.npmjs.com/cli/v6/commands/npm-install#description):
+双清就是要清除：1. nvram配置，2：JFFS分区文件。固件的很多设置都是储存在nvram中，例如拨号方式、拨号上网帐号密码、无线网络设置等；固件的很多文件是储存在JFFS分区的，例如流量分析储存的流量数据，SSL证书，UU加速器程序等。一般同类型固件互刷不需要进行双清，不同类型固件互刷视情况要进行双清，以保证路由器刷机后处于最佳工作状态。
 
-```
-sudo npm install -D autoprefixer
-sudo npm install -D postcss-cli
-```
+<font color="#FF00CC">如何双清路由器：</font>进入【系统管理 】–【 恢复/导出/上传设置】，勾选恢复按钮旁的选择框，然后点击恢复按钮。
 
-Starting in [version 8 of `postcss-cli`](https://github.com/postcss/postcss-cli/blob/master/CHANGELOG.md), you must also separately install `postcss`:
+#### 2. 恢复出厂
 
-```
-sudo npm install -D postcss
-```
+恢复出厂就是清除固件的nvram配置，但是不清除JFFS分区文件。这样流量分析、SSL证书等文件并不会丢失。值得注意的是很多朋友有用【导出设置】来备份固件配置的习惯，而在刷固件，特别是不同类型固件互刷的情况下，是不适用使用备份的配置来恢复刚刚进行了恢复出厂的机器的，因为这样就相当于你什么也没恢复。所以请一定不要使用以前备份的配置来恢复刚刷机后，又进行过恢复出厂的路由器。使用【导出设置】备份的配置文件，一般进行了一些设置导致路由器出了问题，将路由器恢复到原厂默认值后，再用备份配置进行恢复，使用备份配置前后，路由器都是同一个版本。
 
-Note that versions of `PostCSS` later than 5.0.1 will not load `autoprefixer` if installed [globally](https://flaviocopes.com/npm-packages-local-global/), you must use a local install.
+<font color="#FF00CC">如何恢复出厂：</font>进入【系统管理 】–【 恢复/导出/上传设置】，点击恢复按钮，记住不要勾选恢复按钮右侧的选择框！！
 
-## Using the theme
+#### 格式化JFFS
 
-To use the Docsy Hugo theme, you have a couple of options:
+格式化JFFS就是对JFFS分区进行格式化，这样会删除JFFS分区中储存的所有文件，而不影响路由器的其它配置。在梅林改版固件中，因为软件中心就是储存在JFFS分区中的，所以格式化JFFS可以快速的清除当前JFFS分区中的软件中心文件，从而实现软件中心的重置。当然，格式化JFFS，也会删除固件在JFFS分区中存放的一些文件，如SSL证书、流量分析数据等。如果你只想重置软件中心，而不伤害其它JFFS分区中的文件，你可以参考下文【重要命令】中的【软件中心重置】或【删除软件中心】。
 
-*   **Copy and edit the source for the [Docsy example site](https://github.com/google/docsy-example).** This approach gives you a skeleton structure for your site, with top-level and documentation sections and templates that you can modify as necessary. The example site uses Docsy as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules), so it's easy to [keep up to date](/docs/updating/).
-*   **Build your own site using the Docsy theme.** Specify the [Docsy theme](https://github.com/google/docsy) like any other [Hugo theme](https://gohugo.io/themes/) when creating or updating your site. With this option, you'll get Docsy look and feel, navigation, and other features, but you'll need to specify your own site structure. 
+<font color="#FF00CC">如何格式化JFFS：</font>在梅林/梅林改版固件中，在【系统管理】–【 系统设置】内勾选`Format JFFS partition at next boot`（中文意思就是：下次重启的时候格式化JFFS分区），然后点击`应用本页面设置`，成功后点击顶部`重启`按钮重启路由器。路由器重启过程中就会对JFFS分区进行格式化，重启完成后，`Format JFFS partition at next boot`将自动变为否，以免下次路由器重启的时候，JFFS分区再次被格式化。
 
-### Option 1: Copy the Docsy example site
+#### JFFS挂载状态
 
-The [Example Site](https://example.docsy.dev) gives you a good starting point for building your docs site and is
-pre-configured to use the Docsy theme as a Git submodule. You can copy the Example Site either by:
+JFFS分区是华硕路由器的一个重要分区，因为该分区的可读写的特性，华硕官方会利用其存放一些数据库、图片、甚至程序等文件。比如华硕路由器的【Traffic Analyzer 流量分析】功能，其数据库就存放在JFFS分区，还有【网络地图】里的在线客户端自定义的图标文件，远程访问的证书文件等等，都存放在JFFS分区。JFFS分区
 
-*  [Using the GitHub UI](#using-the-github-ui)
-*  [Using the command line](#using-the-command-line)
+通过SSH连接到路由器后台后输入命令（如果不知道如何使用SSH执行命令，可以参考下文的【SSH使用】教程）：`mount | grep -w /jffs`，如果看到类似`/dev/mtdblock9 on /jffs type jffs2 (rw,noatime)`这样的输出，说明/jffs成功挂载了，挂载设备为`/dev/mtdblock9`。当然，在梅林/梅林改版固件中，只需要进入【Tools - Sysinfo】页面，在JFFS一栏即可看到JFFS挂载状态，如果成功挂载，将会显示JFFS已用容量和总容量，如果没有挂在，则会显示*umounted*字样。因为软件中心是储存在JFFS中的，所以如果软件中心进入后是白色空白页面，一般来说JFFS分区的挂载就出现了问题。遇到这种情况，可以参考常见问题板块中的【Q4：刷机后软件中心一片空白】来尝试解决。
 
-#### Using the GitHub UI
+#### JFFS分区备份/还原
 
-This is the simplest approach, as the Docsy example site repo is a [template repository](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/). To create your own copy of the Docsy example site repo:
+使用梅林/梅林改版固件的朋友，可能知道梅林固件相对于华硕官方固件，多了JFFS分区备份/还原功能，其本质就是将JFFS分区内的所有文件进行打包，然后在需要的时候进行还原。此功能在某些时候会特别管用，比如某个版本固件升级后，JFFS分区容量被缩小了，这会导致储存在JFFS分区靠后的文件块被强行清除，从而导致JFFS分区内文件丢失、文件损坏。而使用JFFS分区备份/还原功能，在每次固件升级前先备份一次JFFS分区内容，在固件升级后，如果JFFS分区内容出现丢失、损坏等，再用备份进行还原即可规避上面的问题。当然如果是梅林改版固件的话，只进行还原还是不够的，因为刚还原后，软件中心相关程序虽然还原了，但是其进程还没有启动，此时重启一次路由器，才能让软件中心在还原后正常工作。
 
-1. Go to the [repo page](https://github.com/google/docsy-example) and click **Use this template**.
+### <font color="#f57332">SSH使用</font>
 
-1. Type your chosen name for your new repository in the **Repository name** field. You can also add an optional **Description**.
+1. **启用SSH：** 在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
+2. **登录SSH：** 下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
+3. **键入命令：** 键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。
 
-1. Click **Create repository from template** to create your new repository. Congratulations, you now have a Docsy site repo!
+### <font color="#f57332">开始刷机</font>
 
-1. To test your copied site locally with Hugo, or make local edits, you'll also need to make a local copy of your new repository. To do this, use `git clone`, replacing `https://github.com/my/example.git` with your repo's web URL (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site):
+因为救援模式的存在，所以华硕路由器刷机是刷不死的，只要刷机过程中有灯亮，那么出现任何无法启动的问题都是能救得活的。所以不论你当前处在什么类型固件、什么固件版本下，都可以尝试在固件上传页面直接上传固件。
 
-    <pre>
-    git clone --recurse-submodules --depth 1 <em>https://github.com/my/example.git</em>
-    </pre>
+如果能正常通过刷机，成功后进行一次固件双清，达到干净刷机的效果。
 
-You can now edit your local versions of the site's source files. To preview your site, go to your site root directory and run `hugo server` ([see the known issues on MacOS](#known-issues)). By default, your site will be available at http://localhost:1313/. To push changes to your new repo, go to your site root directory and use `git push`.
+如果不能通过刷机，或者刷机变砖头了，救援模式也是分分钟能搞定的事情！
 
-#### Using the command line
 
-To copy the example site:
-
-1.  Make a local working copy of the example site directly using `git clone`:
-
-        git clone https://github.com/google/docsy-example.git
-    
-1. Switch to the root of the cloned project, for example:
-
-        cd docsy-example
-
-1. Get local copies of the project submodules so you can build and run your site locally:
-
-        git submodule update --init --recursive
-    
-1. Build your site:
-   
-        hugo server
-    
-1. Preview your site in your browser at: http://localhost:1313/. You can use `Ctrl + c` to stop the Hugo server whenever you like.
-   [See the known issues on MacOS](#known-issues).
-
-1. Now that you have a site running, you can push it to a new repository:
-
-   1. [Create a new repository in GitHub](https://help.github.com/en/articles/create-a-repo) 
-      for your site with your chosen repo name. For clarity you may also want to rename the root 
-      directory (`docsy-example`) of your working copy to match, though everything will still 
-      work even if you don't.
-
-   1. Configure 
-      [`origin`](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
-      in your project. From your site's root directory, set the URL for `origin` to your new 
-      repo (otherwise you'll be trying to push changes to `google/docsy` rather than to your repo):
-
-            git remote set-url origin https://github.com/MY-SITE/EXAMPLE.git
-
-
-   1. Verify that your remote is configured correctly by running:
-      
-            git remote -v
-
-   1. Push your Docsy site to your repository:
-
-            git push -u origin master
-
-### Option 2: Use the Docsy theme in your own site
-
-Specify the [Docsy theme](https://github.com/google/docsy) like any other Hugo theme when creating or updating your site. This gives you all the theme-y goodness but you'll need to specify your own site structure.  You can either use the theme as a submodule (our recommended approach for easy updates), or just clone the theme into your project's `themes` subdirectory.
-
-Whichever approach you use, for simplicity we recommend copying and editing our [example site configuration](#basic-site-configuration) for your project, or you may get Hugo errors for missing parameters and values when you try to build your site.
-
-#### Using the Docsy theme as a submodule
-
-Adding Docsy as a Git submodule is our recommended approach for using the theme, as it means your project
-always refers to the Docsy repo version at your chosen revision, rather than you having your own copy in 
-your repo that may result in merge conflicts when you try to update it. This is the approach used by our
-[example project](https://github.com/google/docsy-example).
-
-
-To create a new Hugo site project and then add the Docs theme as a submodule, run the following commands from your project's root directory. 
-
-```shell
-hugo new site myproject
-cd myproject
-git init
-git submodule add https://github.com/google/docsy.git themes/docsy
-echo 'theme = "docsy"' >> config.toml
-git submodule update --init --recursive
-```
-
-To add the Docsy theme to an existing site, run the following commands from your project's root directory:
-
-```
-git submodule add https://github.com/google/docsy.git themes/docsy
-echo 'theme = "docsy"' >> config.toml
-git submodule update --init --recursive
-```
-
-#### Cloning the Docsy theme to your project's `themes` subdirectory
-
-If you don't want to use a submodules (for example, if you want to customize and maintain your  own copy of the theme directly, or your deployment choice requires you to include a copy of the theme in your repository), you can clone the theme into your project.
-
-
-
-
-To clone Docsy into your project's `theme` folder, run the following commands from your project's root directory:
-
-```
-cd themes
-git clone https://github.com/google/docsy
-```
-
-If you want to build and/or serve your site [locally](/docs/deployment/#serving-your-site-locally), you also need to get local copies of the theme’s own submodules:
-
-```
-git submodule update --init --recursive
-```
-
-For more information, see [Theme Components](https://gohugo.io/hugo-modules/theme-components/) on the [Hugo](https://gohugo.io) site.
-
-#### Preview your site
-
-To build and preview your site locally:
-
-```
-cd myproject
-hugo server
-```
-
-By default, your site will be available at http://localhost:1313/. [See the known issues on MacOS](#known-issues).
-
-## Basic site configuration
-
-Site-wide configuration details and parameters are defined in your project's `config.toml` file. These include your chosen Hugo theme (Docsy, of course!), project name, community links, Google Analytics configuration, and Markdown parser parameters. See the examples with comments in [`config.toml` in the example project](https://github.com/google/docsy-example/blob/master/config.toml) for how to add this information. **We recommend copying this `config.toml` and editing it even if you're just using the theme and not copying the entire Docsy example site**.
-
-The Docsy example site comes with some defaults you may want to remove or customize straight away:
-
-### Internationalization
-
-The Docsy example site supports content in English, Norwegian and Farsi. You can find out more about how Docsy supports multi-language content in [Multi-language support](/docs/language/).
-
-If you don't intend to translate your site, you can remove the language switcher by removing the following lines from `config.toml`:
-
-```
-[languages.no]
-title = "Docsy"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fa]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
-```
-
-To remove the translated source files, delete both the `docsy-example/content/no` and the  `docsy-example/content/fa` directory.
-
-### Search
-
-By default, the Docsy example site uses its own [Google Custom Search Engine](https://cse.google.com/cse/all). To disable this site search, delete or comment out the following lines:
-
-```
-# Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
-```
-
-To use your own Custom Search Engine, replace the value in the `gcs_engine_id` with the ID of your own search engine. Or [choose another search option](/docs/adding-content/navigation/#site-search-options).
-
-## Known issues
-
-### MacOS
-
-#### Errors: `too many open files` or `fatal error: pipe failed`
-
-By default, MacOS permits a small number of open File Descriptors. For larger sites, or when you're simultaneously running multiple applications,
-you might receive one of the following errors when you run [`hugo server`](https://gohugo.io/commands/hugo_server/) to preview your site locally:
-
-* POSTCSS v7 and earlier:
-
-  ```
-  ERROR 2020/04/14 12:37:16 Error: listen tcp 127.0.0.1:1313: socket: too many open files
-  ```
-* POSTCSS v8 and later:
-
-  ```
-  fatal error: pipe failed
-  ```
-
-##### Workaround
-
-To temporarily allow more open files:
-
-1. View your current settings by running:
-
-   ```
-   sudo launchctl limit maxfiles
-   ```
-
-2. Increase the limit to `65535` files by running the following commands. If your site has fewer files, you can set choose to set lower soft (`65535`) and 
-   hard (`200000`) limits. 
-   
-   ```shell
-   sudo launchctl limit maxfiles 65535 200000
-   ulimit -n 65535
-   sudo sysctl -w kern.maxfiles=200000
-   sudo sysctl -w kern.maxfilesperproc=65535
-   ```
-
-Note that you might need to set these limits for each new shell. 
-[Learn more about these limits and how to make them permanent](https://www.google.com/search?q=mac+os+launchctl+limit+maxfiles+site%3Aapple.stackexchange.com&oq=mac+os+launchctl+limit+maxfiles+site%3Aapple.stackexchange.com).
-
-### Windows Subsystem for Linux (WSL)
-
-If you're using WSL, ensure that you're running `hugo` on a Linux mount of the filesystem, rather than a Windows one, otherwise you may get unexpected errors.
-
-## What's next?
-
-* [Add content and customize your site](/docs/adding-content/)
-* Get some ideas from our [Example Site](https://github.com/google/docsy-example) and other [Examples](/docs/examples/).
-* [Publish your site](/docs/deployment/).
 

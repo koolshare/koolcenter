@@ -2,17 +2,24 @@
 title: "GT-AC5300 官改固件"
 linkTitle: "GT-AC5300"
 type: docs
-weight: 2
+weight: 20
 toc_hide: false
 hide_summary: false
 date: 2021-09-29
 author: "sadog"
 tags: ["华硕官改固件"]
 categories: ["固件下载"]
-description: 最新版本：386_41793，更新日期：2021年02月06日
+description: >
+  最新版本：386_41793，更新日期：2021年02月06日
 ---
 
-## 〇、推广交流
+---
+
+<font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
+
+---
+
+### <font color="#f57332">〇、写在前面</font>
 
 不知不觉，对华硕GT-AC5300官改固件的维护已经进入第四个年头了！
 
@@ -24,17 +31,14 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 
 当然一如既往，我们的固件是免费提供的！
 
-<font color="#FF0066" style="font-size:16px;line-height:1.5">推广：</font>固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的**易有云2.0**、**wifi boost**，以支持开发者，谢谢！
-
-
-## 一、刷机须知
+### <font color="#f57332">一、刷机须知</font>
 
 注意1：请刷机的朋友认真阅读本帖！！！刷机带来的风险请自行承担！！！
 
 注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
+### <font color="#f57332">二、固件特色</font>
 
-## <font color="#f57332">二、固件特色</font>
 1. 使用[GT-AC5300华硕官方固件源代码](https://www.asus.com.cn/Networking/ROG-Rapture-GT-AC5300/HelpDesk_Download/)为基础修改而来；
 2. 官方固件有的功能，改版固件都有，如UU加速器、SpeedTest、AiMesh2.0等；
 3. 开放GT-AC5300作为AiMesh节点时可以通过IP地址访问其web后台；
@@ -44,13 +48,14 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 
 ---
 
-## <font color="#f57332">三、支持机型</font>
+### <font color="#f57332">三、支持机型</font>
+
 - 本固件仅支持华硕`GT-AC5300`机型，其它机型请勿使用本固件！
 
 
-##  <font color="#f57332">四、更新日志</font>
+###  <font color="#f57332">四、更新日志</font>
 
-### <font color="##00BFFF">386_41793（2021年02月06日）</font>
+#### <font color="###00BFFF">386_41793（2021年02月06日）</font>
 
 > 从此版本开始，华硕GT-AC5300固件正式进入386大版本，在功能上，该版本主要更新了AiMesh 2.0和Ookla® SPEEDTEST（注意：GT-AC5300的SpeedTest功能在电竞加速选项卡里），当然也包含很多其它稳定性、安全性方面的更新。强烈建议大家进行升级！
 > 
@@ -59,13 +64,13 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 1. 同步ASUS最新GT-AC5300代码：3.0.0.4.386.41793。
 2. 内置软件中心版本更新至1.6.7版本；
 
-### <font color="##00BFFF">384_82037（2020年12月17日）</font>
+#### <font color="###00BFFF">384_82037（2020年12月17日）</font>
 > 低于384_82037的官改固件刷入此版本，建议进行一次双清（即恢复出厂设置的时候同时勾选恢复按钮旁边的选择框），然后固件全部手动设置，插件全部重新安装。
 
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.82037；
 2. 更新内置koolshare软件中心到1.6.6版本；
 
-### <font color="##00BFFF">384_81974（2020年07月28日）</font>
+#### <font color="###00BFFF">384_81974（2020年07月28日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.81974；
 2. 更新内置koolshare软件中心到1.6.1版本；
 3. 添加fullcone NAT支持，功能位于【外部网络(WAN)】-【互联网连接】-【NAT Type】。
@@ -80,14 +85,14 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 > - 如果你在AiMesh节点中修改了某些系统设置导致AiMesh网络失效，请在开机状态下长按机器后面的`reset`按钮重置你的AiMesh节点路由，然后用主路由重新添加节点；
 > - AiMesh节点web后台的访问方式：在AiMesh主路由的【网络地图】页面点击【AiMesh节点】图标，然后在页面右侧会出现目前已经连接的AiMesh节点，点击对应节点机器后，会弹出节点信息，信息中会显示该节点机器的ip地址，比如我的是`192.168.2.78`，然后在浏览器中访问http://192.168.2.78即可访问AiMesh节点路由。
 
-###  <font color="##00BFFF"> 384_81695（2020年04月27日）</font>
+####  <font color="###00BFFF"> 384_81695（2020年04月27日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.81695；
 	- 此版本固件是华硕再次时隔5个月放出的，其中涉及很多功能更新和安全更新，强烈建议升级；
 2. 现在【Dashboard】页面中`网络ping`和`ping偏差`会默认显示www.baidu.com的ping状态；
 3. 更新内置软件中心到最新1.5.5版本；
 4. curl更新到7.69.1。
 
-###  <font color="##00BFFF"> 384_81099（2019年11月30日）</font>
+####  <font color="###00BFFF"> 384_81099（2019年11月30日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.81099；
 	- 此版本固件是华硕时隔5个月放出的版本，其中涉及很多功能更新和安全更新，强烈建议升级；
 	- 此版本固件支持UU加速器，但是不保证其和某不可描述插件的兼容性。
@@ -96,45 +101,45 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 4. 固件内置wireguard更新至0.0.20191127版本；
 5. 更新内置软件中心到最新1.4.7版本；
 
-###  <font color="##00BFFF"> 384_45717（2019年06月28日）</font>
+####  <font color="###00BFFF"> 384_45717（2019年06月28日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.45717，此版本有几个重要的安全更新，强烈建议升级！
 2. 同步内置软件中心为最新版本。
 
-### <font color="##00BFFF">384_45713（2019年05月07日）</font>
+#### <font color="###00BFFF">384_45713（2019年05月07日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.45713。
 2. 同步内置软件中心为最新版本。
 3. 内置wireguard更新到最新版本（暂无插件支持）。
 
-###  <font color="##00BFFF"> 384_45149（2018年12月24日）</font>
+####  <font color="###00BFFF"> 384_45149（2018年12月24日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.45149，包含大量的安全性更新和稳定性修复，因此建议使用官改的朋友尽快升级到这个版本。
 2. 因为华硕这次的更新为Alexa和IFTTT 更新了新功能，其中部分功能会与Server酱插件冲突导致无法上网，现在暂时没有找到更好的兼容方案前，移除了这次华硕为IFTTT 更新的客户端上线通知的功能。
 3. 内核添加原生的wireguard支持，并且添加wg管理工具，现在用户可以自己在路由器内手动配置wireguard，配置方法参见wireguard官网。不会配置的可以等wireguard插件，目前已经完工60%，预计春节前放出。
 4. 更新了内置的软件中心，并且添加了`koolshare-reset`命令，用户在ssh或者telnet客户端内输入`koolshare-reset`即可一键重置软件中心，效果等同下文中的：软件中心重置命令，用于软件中心出问题的、或者需要切换皮肤的用户。
 5. 关闭了384.45149官方固件中新增的固件强制自动更新功能，因为这可能会导致官改用户被自动升级回官方固件。
 
-### <font color="##00BFFF">384_32799（2018年09月14日）</font>
+#### <font color="###00BFFF">384_32799（2018年09月14日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.32799。
 2. 修复一个官方固件自带的bug，该bug会导致ebtables和ipsec无法启动，现在可以正常启动了。
 3. 现在网络地图页面右侧默认显示状态标签页（CPU，RAM，以太网接口），而不是现实某个wifi接口的状态。
 4. 对网络地图页面右侧状态栏的错位进行了一些微调，现在显示更和谐一些。
 5. 修复Dashboard中网络ping和ping偏差不显示曲线的问题，默认使用www.baidu.com作为ping数据获取的网址，如需更改，请自行更改nvram中的`ping_website`值。
 
-### <font color="##00BFFF">384_32738（2018年09月14日）</font>
+#### <font color="###00BFFF">384_32738（2018年09月14日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.32738
 2. 更新软件中心内置的skipd数据库到最新版本：修复lz4压缩问题，解决因储存一些值导致软件中心崩溃的问题
 3. 同步内置软件中心为最新版本
 
-### <font color="##00BFFF">384_21140（2018年07月31日）</font>
+#### <font color="###00BFFF">384_21140（2018年07月31日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.21140
 
-### <font color="##00BFFF">384_20648（2018年04月13日）</font>
+#### <font color="###00BFFF">384_20648（2018年04月13日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.20648
 
-### <font color="##00BFFF">384_20308（2018年02月26日）</font>
+#### <font color="###00BFFF">384_20308（2018年02月26日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.384.20308
 2. 2018年2月27日 01:07:58，更新384_20308第二版，修复软件中心更新失败，插件下载失败21045。
 
-### <font color="##00BFFF">382_15984（2017年12月31日）</font>
+#### <font color="###00BFFF">382_15984（2017年12月31日）</font>
 1. 同步ASUS最新GT-AC5300代码：GPL of ASUS ROG Rapture GT-AC5300 for firmware 3.0.0.4.382.15984
 2. 添加ipset支持
 3. 添加dnsmasq ipset支持，dnsmasq conf-dir，dnsmasq postconf支持
@@ -145,7 +150,7 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 
 ---
 
-## <font color="#f57332">五、刷机步骤</font>
+### <font color="#f57332">五、刷机步骤</font>
 
 - 约定`原厂固件`为华硕GT-AC5300官方固件：[GT-AC5300华硕官方固件下载地址](https://www.asus.com.cn/Networking/ROG-Rapture-GT-AC5300/HelpDesk_BIOS/)；
 - 约定`官改固件`为koolshare开发组在[本贴](https://koolshare.cn/thread-130902-1-1.html)发布的基于[华硕官方GT-AC5300源代码](https://www.asus.com.cn/Networking/ROG-Rapture-GT-AC5300/HelpDesk_Download/)修改而来的带软件中心的官改固件，版本号为官方固件版本号后加上`_koolshare`后缀，如GT-AC5300官改固件版本：`3.0.0.4.386_41793_koolshare`。
@@ -155,7 +160,7 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 > - 跨大版本刷机，如`384 → 386`或`386 → 384`，建议刷机完成后做一次固件双清操作；
 > - 刷官改固件后如果软件中心页面一片空白，建议再手动重启一次路由器，如果仍然空白，参见FAQ：Q4。
 
-### <font color="##00BFFF">A. 原厂 → 官改：</font>
+#### <font color="###00BFFF">A. 原厂 → 官改：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出产设置，当然恢复一次更好。
 
@@ -163,7 +168,7 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 2. 刷机完成后会路由器会自动重启，此时刷机完成（如无特殊说明，刷机完成后不用恢复出产设置，当然恢复一次更好）；
 3. 重启后先将路由器连上网络，然后进入软件中心将软件中心更新到最新版本。
 
-### <font color="##00BFFF">B. 官改 → 官改：</font>
+#### <font color="###00BFFF">B. 官改 → 官改：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出产设置。
 
@@ -171,7 +176,7 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 2. 刷机完成后会路由器会自动重启，此时刷机完成（如无特殊说明，刷机完成后不用恢复出产设置）；
 3. 刷机后所有已经安装的插件都会被保留，不会受到影响。
 
-### <font color="##00BFFF">C. 官改 → 原厂</font>
+#### <font color="###00BFFF">C. 官改 → 原厂</font>
 
 > 从官改刷为原厂后建议做一次双清操作，以清除jffs分区里残留的一些软件中心相关文件。即使不进行双清操作，也不会影响刷回官方固件路由器的正常工作，你甚至可以立即再刷回官改固件，软件中心的所有插件和配置都将得到保留。
 
@@ -180,12 +185,12 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 3. 如需彻底清空jffs里的文件残留，需要再执行一次双清操作：<font color="#DC143C">勾选恢复按钮旁的选择框，然后点击恢复按钮</font>；
 4. 如果不想双清后重新设置路由器，可以参见后文【<font color="#f57332">重要命令</font>】中的【<font color="#DC143C">清空jffs空间</font>】或者【<font color="#DC143C">删除软件中心</font>】。
 
-## <font color="#f57332">六、注意事项：</font>
+### <font color="#f57332">六、注意事项：</font>
 1. 刷机后如果界面显示不正常，请使用组合键`ctrl + F5`强制清空浏览器缓存后重试；
 2. 强烈建议使用chrome浏览器或者chromium内核的浏览器，以保持最佳兼容性；
 3. 单纯的恢复出厂设置并不能完全清除jffs分区的软件中心文件，需要在恢复出厂设置的时候同时勾选恢复按钮旁边的选择框；
 
-## <font color="#f57332">七、FAQ</font>
+### <font color="#f57332">七、FAQ</font>
 - 此处列出一些经常被问到的问题（FAQ）的回答，持续更新中~
 - FAQ更新日期：2021年01月06日
 
@@ -238,14 +243,14 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 
 **A8：** 非常建议升级！最新的固件版本不仅有来自ASUS官方的一些功能更新，也会包含ASUS官方的一些安全更新、稳定性更新，一般来说会比老版本固件更加稳定。同时，koolshare软件中心和相关插件也是持续为最新版本的官改固件进行更新的，所以是强烈建议升级到最新版本的官改的。另外已经刷过koolshare官改固件的，升级到最新koolshare官改固件，如无特殊说明，是不需要做恢复出厂设置等操作的，固件升级后所有的插件都会得到保留。
 
-## <font color="#f57332">八、重要命令</font>
+### <font color="#f57332">八、重要命令</font>
 以下操作需要使用支持SSH协议的软件，连接到路由器后台进行操作，如果不会使用，可以参考下面步骤：
 
-1. **启用SSH：**在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
-2. **登录SSH：**下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
-3. **键入命令：**键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。
+1. **启用SSH：** 在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
+2. **登录SSH：** 下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
+3. **键入命令：** 键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。
 
-### <font color="##00BFFF">1. 软件中心重置</font>
+#### <font color="###00BFFF">1. 软件中心重置</font>
 
 - 开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器，直接在ssh客户端内运行下面的程序即可。
 
@@ -253,7 +258,7 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 koolshare-reset
 ```
 
-### <font color="##00BFFF">2. 清空JFFS空间</font>
+#### <font color="###00BFFF">2. 清空JFFS空间</font>
 
 - 注意，此操作会删除jffs分区内的所有文件，包括但不限于：软件中心、安装的证书、TrafficAnalyzer的数据库、自定义的设备图标等
 ```bash
@@ -262,7 +267,7 @@ cd /jffs && rm -r .[a-zA-Z_]* *
 reboot
 ```
 
-### <font color="##00BFFF">3. 删除软件中心</font>
+#### <font color="###00BFFF">3. 删除软件中心</font>
 
 - 适用于**官改固件**刷回**原厂固件**，需要删除留在jffs分区内软件中心，而不删除其它文件；
 - 如果是在**官改固件**下删除软件中心，路由器重启后软件中心会重新初始化为最初状态。
@@ -272,93 +277,133 @@ cd /jffs && rm -rf .asusrouter .koolshare db ksdb config/* etc/profile
 reboot
 ```
 
-### <font color="##00BFFF">4. 重启软件中心</font>
+#### <font color="###00BFFF">4. 重启软件中心</font>
 
 - 当软件中心相关进程挂掉的时候，此时可以用ssh进入路由器后台，输入以下命令重启软件中心：
 ```bash
 sh /koolshare/perp/perp.sh
 ```
 
-### <font color="##00BFFF">5. GT-AC5300查询坏块命令</font>
+#### <font color="###00BFFF">5. GT-AC5300查询坏块命令</font>
 - 先重启一次路由器，再输入以下命令进行查询，返回信息的行数即为坏块的数量
 ```bash
 dmesg |grep "bad block"
 ```
 
-## <font color="#f57332">九、固件下载</font>
-[hide]
+### <font color="#f57332">九、固件下载</font>
 
-### <font color="#DC143C"> **386_41793**</font>
+#### <font color="#DC143C"> **386_41793**</font>
+
 MD5: 647C4A65457E069F312E69FE43449F89
+
 SHA1: 400CD4764CD372B06DB15FA08E893C711C3CF006
+
 下载链接：[GT-AC5300_386_41793_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_386_41793_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_82037**</font>
+#### <font color="#DC143C"> **384_82037**</font>
+
 MD5: 73A43DD8B933E61C5B74E2A58E01ADB0
+
 SHA1: 9A4A923BA214784ED3EF4F09C5C47458BB80B34F
+
 下载链接：[GT-AC5300_384_82037_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_82037_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_81974**</font>
+#### <font color="#DC143C"> **384_81974**</font>
+
 MD5: 6F6F36C8D794CA89E368688D3659239B
+
 SHA1: 01EF97B7E92B86996F9D736DF6FD2F1CBFEAB436
+
 下载链接：[GT-AC5300_384_81974_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81974_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_81695**</font>
+#### <font color="#DC143C"> **384_81695**</font>
+
 MD5: F9F54B1A67E8A9BFB3630D962B33DF2F
+
 SHA1: 909873057484B692559443805F84E60914C4C06C
+
 下载链接：[GT-AC5300_384_81695_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81695_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_81099**</font>
+#### <font color="#DC143C"> **384_81099**</font>
+
 MD5: C6D85EE3B7A522AF1CB994977B4C5C0E
+
 SHA1: DEB534DD2FE097B3F4EBD9E601D11EC97B34722E
+
 下载链接：[GT-AC5300_384_81099_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81099_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_45717**</font>
+#### <font color="#DC143C"> **384_45717**</font>
+
 MD5: AA66291AC8A8840A8276F82819224465
+
 SHA1: 3190350A0A8A648C0FD33F7AFFC5CB19A543B62F
+
 下载链接：[GT-AC5300_384_45717_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45717_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_45713**</font>
+#### <font color="#DC143C"> **384_45713**</font>
+
 MD5: C1EBEAB8E960881A04B5B7B6699D3575
+
 SHA1: 153A4F6DCCA5A8D7E5413EF411DBAEB223086056
+
 下载链接：[GT-AC5300_384_45713_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45713_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_45149**</font>
+#### <font color="#DC143C"> **384_45149**</font>
+
 MD5: FB8E3D5109D36652017821D6C2048CA5
+
 SHA1: 92446D7A953CA1BD95611C1A1B0A9EFDB54958B1
+
 下载链接：[GT-AC5300_384_45149_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45149_koolshare_cferom_ubi.w)
 
-### <font color="#DC143C"> **384_32799**</font>
+#### <font color="#DC143C"> **384_32799**</font>
+
 MD5: FB8E3D5109D36652017821D6C2048CA5
+
 SHA1: 92446D7A953CA1BD95611C1A1B0A9EFDB54958B1
+
 下载链接：[GT-AC5300_384_32799_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32799_koolshare_cferom_ubi.w)
 
 
-### <font color="#DC143C"> **384_32738**</font>
+#### <font color="#DC143C"> **384_32738**</font>
+
 MD5: 748E590FD4FBCA5177C3997561E907FA
+
 SHA1: 39617F822EE70DBE1113766184ED65786714692C
+
 下载链接：[GT-AC5300_384_32738_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32738_koolshare_cferom_ubi.w)
 
 
-### <font color="#DC143C"> **384_21140**</font>
+#### <font color="#DC143C"> **384_21140**</font>
+
 MD5: 955B454BBC97A118EAC5D2995CDE8C50
+
 SHA1: 2CD0F1F181983591710F71B0334ED24BEBE727F8
+
 下载链接：[GT-AC5300_384_21140_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_21140_koolshare_cferom_ubi.w)
 
 
-### <font color="#DC143C"> **384_20648**</font>
+#### <font color="#DC143C"> **384_20648**</font>
+
 MD5: 2525239107DC9E430DF7D23709ACB6D8
+
 SHA1: 581C729FEC30D1297D87BC0C490BCE522BF43424
+
 下载链接：[GT-AC5300_384_20648_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20648_koolshare_ubi.w)
 
 
-### <font color="#DC143C"> **384_20308**</font>
+#### <font color="#DC143C"> **384_20308**</font>
+
 MD5: 71A8ADF68C4EAB71EF3F31A73462A847
+
 SHA1: C0C787C6FADD205D436EEA7BA62DF88FCA6E5AFB
+
 下载链接：[GT-AC5300_384_20308_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20308_koolshare_ubi.w)
 
-### <font color="#DC143C"> **382_15984**</font>
+#### <font color="#DC143C"> **382_15984**</font>
+
 MD5: 6BB7BEE9C09BC75EE6925CA539E3C10C
+
 SHA1: 804EE5AD4C95E43377C3ADEA5D5ED7FF56F3BF3B
+
 下载链接：[GT-AC5300_382_15984_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_382_15984_koolshare_ubi.w)
-[/hide]
