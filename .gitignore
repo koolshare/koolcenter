@@ -1,6 +1,7 @@
 package-lock.json
 yarn.lock
 dist
+public
 node_modules
 hugo_stats.json
 resources/_gen
