@@ -13,11 +13,7 @@ description: >
   最新版本：386_39507，更新日期：2020年09月17日
 ---
 
----
-
 <font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
-
----
 
 ### <font color="#f57332">一、刷机须知</font>
 

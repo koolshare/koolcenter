@@ -13,11 +13,7 @@ description: >
   最新版本：386_41793，更新日期：2021年02月06日
 ---
 
----
-
 <font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
-
----
 
 ### <font color="#f57332">〇、写在前面</font>
 
@@ -45,8 +41,6 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 4. 固件后台界面优化：字体优化，网路地图页面显示状态页面；
 5. 增加一些软件中心/插件需要用到的功能，如dnsmasq with ipset、base64、一些内核模块支持等；
 6. koolshare软件中心支持：[hnd软件中心](https://github.com/koolshare/rogsoft#rogsoft)，软件中心和插件均支持GT-AC5300的ROG红色风格UI。
-
----
 
 ### <font color="#f57332">三、支持机型</font>
 
@@ -147,8 +141,6 @@ GT-AC5300是我制作的第一个华硕官改固件，当时我还在学生时�
 5. curl添加socks5代理支持
 6. busybox添加base64支持（不可描述订阅会用到），netstat -p支持等
 7. 添加koolshare软件中心支持
-
----
 
 ### <font color="#f57332">五、刷机步骤</font>
 

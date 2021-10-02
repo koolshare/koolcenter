@@ -1,8 +1,8 @@
 ---
-title: "RT-AX68U 官改固件"
-linkTitle: "RT-AX68U"
+title: "RT-AX86U 官改固件"
+linkTitle: "RT-AX86U"
 type: docs
-weight: 30
+weight: 40
 toc_hide: false
 hide_summary: false
 date: 2021-10-1
@@ -22,18 +22,21 @@ description: >
 注意2：欢迎转载本帖，但是请一定尊重开发组的成果，注明本帖来源！！！
 
 ### <font color="#f57332">二、固件特色</font>
+
 1. 梅林改版固件使用梅林固件源代码为基础（[asuswrt-merlin.ng代码](https://github.com/RMerl/asuswrt-merlin.ng)）修改而来；
 2. 梅林固件有的功能，梅林改版固件都有，参考此链接：[梅林固件添加的功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L62-L132)；
 3. 梅林固件不能使用的功能，梅林改版也不能使用，比如说UU加速器等；
-4. 开放RT-AX68U作为AiMesh节点时可以通过IP地址访问其web后台；
+4. 开放RT-AX86U作为AiMesh节点时可以通过IP地址访问其web后台；
 5. 固件后台界面优化：字体优化，首页默认显示状态页面；
 6. 增加一些软件中心/插件需要用到的功能，如dnsmasq with ipset、base64、一些内核模块支持等；
 7. koolshare软件中心支持：[hnd软件中心](https://github.com/koolshare/rogsoft#rogsoft)；
 
 ### <font color="#f57332">三、支持机型</font>
 
-- 本固件仅支持华硕`RT-AX68U`机型，其它机型请勿使用本固件！
-- 请注意，本固件支持的机型为华硕`RT-AX68U`，不是RT-AC68U，也不是RT-AX86U！请不要下载错固件了！
+- 本固件仅支持华硕`RT-AX86U`机型，其它机型请勿使用本固件！
+- 本固件同样支持 `RT-AX86U高达限量版`，刷机后固件定制高达UI将不会丢失。
+
+---
 
 ### <font color="#f57332">四、更新日志</font>
 
@@ -52,12 +55,25 @@ description: >
 1. 同步梅林固件代码386.2_4
 
 ####  <font color="#00BFFF">386.2_2（2021年04月14日）</font>
-1. 同步梅林固件代码386.2_0
+1. 同步梅林固件代码386.2_2
 2. 同步软件中心1.7.1
 
 ####  <font color="#00BFFF">386.2_0（2021年04月07日）</font>
 1. 同步梅林固件代码386.2_0
 2. 同步软件中心1.7.0
+
+####  <font color="#00BFFF">386.1_2（2021年02月13日）</font>
+1. 同步梅林固件代码386.1_2
+
+
+####  <font color="#00BFFF">386.1_0（2021年01月31日）</font>
+
+>华硕RT-AX86U 首个梅林改版固件，直接进入386大版本，在功能上，386大版本主要更新了AiMesh 2.0和Ookla® SPEEDTEST，当然也包含很多其它稳定性、安全性方面的更新。强烈建议大家进行升级！
+> 
+>从384升级到386也是非常顺畅的，升级后不恢复出厂设置也是没问题的。当然稳妥起见，建议有时间的朋友还是做一次恢复出厂设置，然后在干净的配置上重新手动配置一次固件。
+
+1. RT-AX86U第一个梅林改版版本，基于梅林代码386.1_0制作；
+2. 添加koolshare软件中心支持，以及软件中心支持相关的开机脚本、内核模块等支持；
 
 ### <font color="#f57332">五、刷机步骤</font>
 
@@ -69,10 +85,10 @@ description: >
 
 #### <font color="#00BFFF">固件定义</font>
 
-- `原厂固件`为RT-AX68U华硕官方固件：[RT-AX68U华硕官方固件下载地址](https://www.asus.com.cn/Networking/RT-AX68U/HelpDesk_BIOS/)；
-- `官改固件`为koolshare开发组在[此帖](https://koolshare.cn/thread-191640-1-1.html)发布的基于[华硕官方RT-AX68U源代码](https://www.asus.com.cn/Networking/RT-AX68U/HelpDesk_Download/)修改而来的带软件中心的RT-AX68U官改固件，版本号为官方固件版本号后加上`_koolshare`后缀，如RT-AX68U官改固件版本：`3.0.0.4.386_41947_koolshare`。
-- `原版梅林固件`为加拿大独立开发者Eric Sauvageau在华硕RT-AX68U官方源码上二次开发的第三方固件，相较华硕官方固件，其区别为：[这些功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L62-L132)，其版本号为`386.x_y`，如：`386.2_0`；
-- `改版梅林固件`为koolshare开发组在[本贴](https://koolshare.cn/thread-194116-1-1.html)发布的基于梅林固件源码再次开发而来的带软件中心的RT-AX68U梅林改版固件，其版本号和梅林原版固件保持一致，如RT-AX68U官改固件版本：`386.2_0`。
+- `原厂固件`为RT-AX86U华硕官方固件：[RT-AX86U华硕官方固件下载地址](https://www.asus.com.cn/Networking/RT-AX86U/HelpDesk_BIOS/)；
+- `官改固件`为koolshare开发组在[此帖](https://koolshare.cn/thread-181845-1-1.html)发布的基于[华硕官方RT-AX86U源代码](https://www.asus.com.cn/Networking/RT-AX86U/HelpDesk_Download/)修改而来的带软件中心的RT-AX86U官改固件，版本号为官方固件版本号后加上`_koolshare`后缀，如RT-AX86U官改固件版本：`3.0.0.4.384_9318_koolshare`。
+- `原版梅林固件`为加拿大独立开发者Eric Sauvageau在华硕RT-AX86U官方源码上二次开发的第三方固件，相较华硕官方固件，其区别为：[这些功能](https://github.com/RMerl/asuswrt-merlin.ng/blob/master/README-merlin.txt#L62-L132)，其版本号为`386.x`，如：`386.1`；
+- `改版梅林固件`为koolshare开发组在[本贴](https://koolshare.cn/thread-191637-1-1.html)发布的基于梅林固件源码再次开发而来的带软件中心的RT-AX86U梅林改版固件，其版本号和梅林原版固件保持一致，如RT-AX86U官改固件版本：`386.1`。
 
 #### <font color="#00BFFF">刷机术语</font>
 
@@ -162,15 +178,17 @@ description: >
 5. 如果不想双清后重新设置路由器，可以参见后文【<font color="#f57332">重要命令</font>】中的【<font color="#DC143C">清空jffs空间</font>】或者【<font color="#DC143C">删除软件中心</font>】。
 
 ### <font color="#f57332">六、注意事项：</font>
+
 1. 刷机后如果界面显示不正常，请使用组合键`ctrl + F5`强制清空浏览器缓存后重试；
 2. 强烈建议使用chrome浏览器或者chromium内核的浏览器，以保持最佳兼容性；
 3. 请勿使用不同版本固件备份的路由器设置来恢复当前路由器。
 
 ### <font color="#f57332">七、FAQ</font>
+
 - 此处列出一些经常被问到的问题（FAQ）的回答，持续更新中~
 - FAQ更新日期：2021年01月31日
 
-**Q1：RT-AX68U改版梅林固件和官改固件比较有什么区别，哪个好用，哪个更稳定？**
+**Q1：RT-AX86U改版梅林固件和官改固件比较有什么区别，哪个好用，哪个更稳定？**
 
 **A1：** 改版梅林固件基于梅林固件修改，官改固件基于官方固件修改。两者都是在基础固件代码上以添加软件中心为目的。相比官改固件，梅林改版固件有更多的功能和bug修复，而官改固件更新较快。好用程度差别不大，稳定性来说也基本无差，选哪个固件基于个人喜好即可。
 
@@ -178,7 +196,7 @@ description: >
 
 **A2：** 目前各个平台的软件中心也没有提供严格的插件开发规范，加上论坛的插件区管理比较混乱，没有进行良好的插件审核，所以经常有一些第三方插件无法兼容所有软件中心平台，但是却能在这些平台上进行安装。
 
-1. 本贴的RT-AX68U属于axhnd.675x平台机型，对于hnd/axhnd/axhnd.675平台机型，使用的是rogsoft软件中心，这些机型的插件是可以通用的，具体请见：[rogsoft机型支持](https://github.com/koolshare/rogsoft#机型支持)；
+1. 本贴的RT-AX86U属于axhnd.675x平台机型，对于hnd/axhnd/axhnd.675平台机型，使用的是rogsoft软件中心，这些机型的插件是可以通用的，具体请见：[rogsoft机型支持](https://github.com/koolshare/rogsoft#机型支持)；
 2. 目前koolshare开发组推出的几个版本的软件中心：[arm380软件中心](https://github.com/koolshare/koolshare.github.io)，[arm384软件中心](https://github.com/koolshare/armsoft)，[hnd软件中心](https://github.com/koolshare/rogsoft)，[qca软件中心](https://github.com/koolshare/qca)，[LEDE-酷软](https://github.com/koolshare/ledesoft)，他们的插件都是互不兼容的！具体可以参考：[koolshare几个版本的软件中心区别](https://github.com/koolshare/rogsoft#koolshare几个版本的软件中心区别)；
 3. 对于第三方作者开发的插件，除非作者明确表示其支持hnd/axhnd/axhnd.675平台，不然请不要随意安装！不然因为可能没有遵循开发规范，安装后无法使用，甚至给路由器带来问题！
 4. 为了论坛和固件未来更好的发展，koolshare软件中心也会针对一些特殊的插件在离线安装上有所限制。
@@ -194,7 +212,7 @@ description: >
 5. 如果排除了以上网络故障，那么可能是程序运行方面的问题。可以进行以下操作：开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器后，输入命令：`ps|grep -w httpdb|grep -v grep`，如果有输出内容表明软件中心web服务运行正常，如果输出内容为空表明软件中心web服务运行异常，请参考下文：重要命令里的==重启软件中心==以解决httpdb没有运行的问题。
 6. 开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器后，输入命令：`ps|grep skipd|grep -v grep`，如果有输出内容表明软件中心数据库服务运行正常，如果输出内容为空表明软件中心数据库服务运行异常，可以尝试通过运行命令`service restart_skipd`来重启skipd服务。如果运行重启skipd的命令后，再次运行`ps|grep skipd|grep -v grep`仍然没有输出，说明储存在jffs分区的skipd数据库可能遭到了损坏，此时可以请参考下文：重要命令里的软件中心重置。
 7. 还有一种较为常见的情况，在刷机过程中，jffs分区中存放的软件中心相关文件在刷机过程/路由器断电/重启过程中被破坏了，如果被破坏的文件正好是httpdb、软件中心数据库等关键文件，也会导致软件中心一直显示更新中的情况。虽然部分情况下，替换损坏的文件可以修复此问题，但是由于无法知晓是否有其它的文件损坏，所以这种情况下建议对路由器进行双清操作，双清完成后，路由器jffs分区内的软件中心相关文件会得到重建，然后在此基础上手动安装插件并手动配置，切记不要使用以前的jffs分区备份来进行恢复！
-8. 最后，最严重的情况，路由器的jffs分区遇到了很多无法屏蔽的坏块，查看路由器有多少坏块，先重启路由器，然后用putty、xshell等SSH软件连接路由器后，参考下文：重要命令里的==RT-AX68U查询坏块命令==。一般来说，两三个坏块是正常品控水平，如果坏块太多，建议走售后渠道。
+8. 最后，最严重的情况，路由器的jffs分区遇到了很多无法屏蔽的坏块，查看路由器有多少坏块，先重启路由器，然后用putty、xshell等SSH软件连接路由器后，参考下文：重要命令里的==RT-AX86U查询坏块命令==。一般来说，两三个坏块是正常品控水平，如果坏块太多，建议走售后渠道。
 
 **Q4：刷机后软件中心一片空白**
 
@@ -203,7 +221,7 @@ description: >
 1. 在【系统管理】-【系统设置】里开启SSH功能，然后通过putty、Xshell等SSH软件连接到路由器后台后，输入命令：`mount | grep -w /jffs`，如果看到类似`/dev/mtdblock9 on /jffs type jffs2 (rw,noatime)`这样的输出，说明/jffs成功挂载了，挂载设备为`/dev/mtdblock9`，最后的数字9会根据机型/平台的不同而不同。如果没有任何输出，则说明/jffs分区没有成功挂载，请尝试重启路由、重置路由等操作后再次查看jffs分区是否成功挂载，如果仍然不行，尝试运行以下命令手动挂载TUF-AX3000的jffs分区：`mount -t jffs2 -o rw,noatime /dev/mtdblock9 /jffs`，运行完毕后再次`mount | grep /jffs`，检查是否成功挂载。如果手动挂载还是不行，那么可能是FALSH有问题或者是系统有问题，这种建议售后渠道换机了。
 2. 如果jffs分区挂载没有问题，软件中心页面还是空白，可以尝试使用下文：重要命令里的==软件中心重置命令==，来重置一次软件中心，然后应该就能看到软件中心页面了。
 
-**Q5：Rmerl发布了最新的RT-AX68U梅林固件，为什么此贴还不更新梅林改版固件啊？**
+**Q5：Rmerl发布了最新的RT-AX86U梅林固件，为什么此贴还不更新梅林改版固件啊？**
 
 **A5：** 新梅林改版固件的发布涉及大到大量的源代码合并工作，期间还涉及到一些编译、测试、回炉等工作，不过一般来说梅林原版固件更新后1天-1周内，就会完成编译和测试工作。
 
@@ -220,6 +238,7 @@ description: >
 **A8：** 非常建议升级！最新的固件版本不仅有来自ASUS官方/梅林的一些功能更新，也会包含ASUS官方/梅林的一些安全更新、稳定性更新，一般来说会比老版本固件更加稳定。同时，koolshare软件中心和相关插件也是持续为最新版本的官改固件进行更新的，所以是强烈建议升级到最新版本的官改的。另外已经刷过koolshare官改固件的，升级到最新koolshare官改固件，如无特殊说明，是不需要做恢复出厂设置等操作的，固件升级后所有的插件都会得到保留。
 
 ### <font color="#f57332">八、重要命令</font>
+
 以下操作需要使用支持SSH协议的软件，连接到路由器后台进行操作，如果不会使用，可以参考下面步骤：
 
 1. **启用SSH：** 在路由器后台的【系统管理】-【系统设置】里，将【启用 SSH】更改为`LAN only`，将端口号设置为`22`或者其它数字，点击页面下方【应用本页面设置】保存更改；
@@ -260,7 +279,7 @@ reboot
 sh /koolshare/perp/perp.sh
 ```
 
-#### <font color="###00BFFF">5. RT-AX68U查询坏块命令</font>
+#### <font color="###00BFFF">5. RT-AX86U查询坏块命令</font>
 - hnd/axhnd机型上查询坏块的方法已经不适用于axhnd.675x平台
 - axhnd.675x平台查询坏块的命令如下（运行以下命令，返回数字即为坏块数量）：
 ```bash
@@ -271,52 +290,66 @@ cat /sys/class/mtd/mtd6/bad_blocks
 
 - 以下固件下载服务器由海波云[Hypo.cn](https://www.hypo.cn/?from=ksbbs) 友情赞助！
 
+[hide]
+
+#### <font color="#DC143C"> **386.3_2**</font>
+
+MD5: AB6717597BAA7215F98046C4B05A9117
+
+SHA1: EB6C3193997EF6862E9273E0F6BD9E229DBD4AA7
+
+下载链接：[RT-AX86U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
+
 #### <font color="#DC143C"> **386.3_0**</font>
 
-MD5: 3A065E1C39EAD23BA56BE9F0D69E4D5A
+MD5: FE87D55F0DF12B6D7D9F0D14DE5983D9
 
-SHA1: E7FF08C3F04AF5F116BDB4B156A906E998BADE45
+SHA1: 862D2EC891D720770715B58D37E6E533CEF9F623
 
-下载链接：[RT-AX68U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
-
-#### <font color="#DC143C"> **386.3_0**</font>
-
-MD5: D25B5CB42395AC19887979A204157F08
-
-SHA1: AA7EA481B92044F5D2A0A5C7441A3D72F2D4CFF1
-
-下载链接：[RT-AX68U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
+下载链接：[RT-AX86U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
-MD5: 22D7E8FB25D92AC3F9C22BB4F4B4905A
+MD5: F2C61411BDABCEFC819C14C8FD25B96A
 
-SHA1: D4ED4C03888ED3D14D66EA9586F8E6765C347AF5
+SHA1: EF325483C70565348F045B32E55D8BE97CF50938
 
-下载链接：[RT-AX68U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
+下载链接：[RT-AX86U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_4**</font>
-
-MD5: 64CEAC1CB529BF330483C1B1156B6D4B
-
-SHA1: F7983D8735453EBF2CE0F3F70DE1EEB91FFFCD83
-
-下载链接：[RT-AX68U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.2_4_cferom_pureubi_koolshare.w)
+MD5: 96FE22AC961E0565C05F726A1AAC34A7
+SHA1: 985E937F59CD50589E3B3FC2308C2269518508CC
+下载链接：[RT-AX86U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.2_4_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_2**</font>
-
-MD5: D410156EEBECD01D83EDA5A336B075B6
-
-SHA1: F5F70DBEAE69214FB520646963B4CCFA2A95DF1B
-
-下载链接：[RT-AX68U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.2_2_cferom_pureubi_koolshare.w)
-
+MD5: 9E78DC1987C265CA2971185A2942A668
+SHA1: C6EE10DB2ED221ACE9A082218AA64AD524ADC8AE
+下载链接：[RT-AX86U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.2_2_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
-MD5: 63A48EF02E7CFB99F43C631EA7C00D75
+MD5: CC63D14F43123FAD3B69A904D114EB57
 
-SHA1: 983C6A338EA3AA299A7DCE9E627523784F55A447
+SHA1: B57C975180CDF7F01C9974526A3ACE4D7BA29E77
 
-下载链接：[RT-AX68U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.2_0_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX86U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.2_0_cferom_pureubi_koolshare.w)
+
+#### <font color="#DC143C"> **386.1_2**</font>
+
+MD5: 7DB78C892B792906B4F846E6A42CF562
+
+SHA1: 519C32BF0E0DF9A65910F55FFD8234C31E62CA0C
+
+下载链接：[RT-AX86U_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.1_2_cferom_pureubi_koolshare.w)
+
+#### <font color="#DC143C"> **386.1_0**</font>
+
+MD5: 7AC882AB7E60DC4DFEBFB583436B0856
+
+SHA1: A6534F81838E91DDAA635D819047597743C1BBFA
+
+下载链接：[RT-AX86U_386.1_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX86U/RT-AX86U_386.1_0_cferom_prueubi_koolshare.w)
+[/hide]
+
+
 

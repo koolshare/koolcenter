@@ -13,11 +13,7 @@ description: >
   最新版本：386_23012，更新日期：2021年07月28日
 ---
 
----
-
 <font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
-
----
 
 ### <font color="#f57332">〇、前言</font>
 华硕RT-AX89X是华硕高端路由里唯一的一款以高通SoC为基础的机器，其搭载了性能强劲、工艺先进的高通IPQ8074 SoC，官方名全称为：IPQ8074 Wi-Fi Access Point SoC，是集CPU、Wi-Fi、网络交换、电源管理芯片为一体的SoC，SoC中的的CPU为四核 ARM Cortex A53，14 nm FinFET工艺，主频2.2GHz。RT-AX89X同时搭载了QCN5024 2.4G无线芯片，可提供4个802.11ax空间流，在AX模式下最高速率为1150Mbps，双QCN5054 5G无线芯片，一起可以可以实现80MHz频宽下8个空间流，或者160MHz频宽下4个空间流，在AX协议下，最高速率为4804Mbps。
@@ -47,12 +43,8 @@ description: >
 1. 使用官方固件源代码为基础修改，官方固件有的功能官改固件都有，比如AiMesh等；
 2. koolshare软件中心支持，RT-AX89X为qca-ipq806x平台，软件中心代号为：[qcasoft](https://github.com/koolshare/qcasoft)。
 
----
-
 ### <font color="#f57332">三、支持机型</font>
 > - 本固件仅支持华硕`RT-AX89X`机型，其它机型请勿使用本固件！
-
----
 
 ###  <font color="#f57332">三、更新日志</font>
 

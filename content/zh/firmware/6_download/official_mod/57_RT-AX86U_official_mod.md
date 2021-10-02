@@ -13,6 +13,16 @@ description: >
   最新版本：384_9318；更新日期：2020年11月27日； <font color="red">状态：停止维护，建议使用386官改固件</font>
 ---
 
+{{% pageinfo color="warning" %}}
+
+**由于目前市售的RT-AX86U的2.5G网卡存在博通BCM54991和螃蟹RTL8226B混用，而不论是384官方固件，还是384官改固件，都只支持博通BCM54991版本的RT-AX86U，不支持螃蟹RTL8226B版。**
+
+**如果你手持的是螃蟹RTL8226B版的及其，刷RT-AX86U 384官方固件或者是384官改固件，都会出现问题，包括无法保存配置、无线出现问题等等...**
+
+**目前已经推出了[RT-AX86U 386华硕官改固件](https://fw.koolcenter.com/article/firmware/6_download/official_mod/56_rt-ax86u_official_mod/)，螃蟹版本的2.5G网卡，刷机后都不会有问题；另外[RT-AX86U 386梅林改版固件](https://fw.koolcenter.com/article/firmware/6_download/official_mod/56_rt-ax86u_official_mod/)也不会有问题**
+
+{{% /pageinfo %}}
+
 <font color="#FF0066" style="font-size:1.5rem;line-height:1.8;font-weight:bold">广告：固件/软件中心维护不易，如果您支持我们的工作，可以考虑购买软件中心的[ddnsto](https://www.ddnsto.com/)和wifi boost，以支持开发者，谢谢！</font>
 
 ### <font color="#f57332">一、刷机须知</font>
