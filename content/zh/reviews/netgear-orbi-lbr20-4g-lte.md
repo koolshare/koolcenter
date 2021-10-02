@@ -17,14 +17,14 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjMzfDM0OWJhYWFkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjMzfDM0OWJhYWFkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LBR20可以让你的在有线宽带有限或不可用的地方，使用4G LTE连接到网络，或者在现有互联网服务出现故障时无缝切换到4G LTE
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjM1fDRlNGNjZWE2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjM1fDRlNGNjZWE2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲技术规格
@@ -33,49 +33,49 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjM2fDgwZTkyOWRifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjM2fDgwZTkyOWRifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲包装盒正面，可以看出这是一款AC2200规格的路由。右下角的4G LTE表示这是一台支持4G蜂窝网络的路由
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjM3fDNmOWQ4ZmMwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjM3fDNmOWQ4ZmMwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲包装盒背面介绍了Orbi LBR20本体路由的卖点
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjM4fGI2NTg5YWUzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjM4fGI2NTg5YWUzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲打开包装盒的顶盖，首先看到的是路由使用安装指导
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjM5fDQ0NTkyMGJmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjM5fDQ0NTkyMGJmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲继续打开内部包装盒，就能看到LBR20的顶部了
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQwfGY1NmVmMTExfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQwfGY1NmVmMTExfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲从包装盒中取出LBR20本体路由和附件盒
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQxfDE1Nzk0YmUyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQxfDE1Nzk0YmUyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲包装盒中附件一览，里面装有超五类非屏蔽线一根，带折叠插头的电源适配器一个，英标三孔插头一个，欧标双孔插头一个
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQyfDY5OTU5Yzg1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQyfDY5OTU5Yzg1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲电源适配器采用了国标双孔折叠插头，输出规格为12V 2.5A 30W
@@ -84,28 +84,28 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQzfGE1MmVmNDUzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQzfGE1MmVmNDUzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LBR20外观和以往的Orbi系列保持一致，采用白色塑料外壳，表面是类肤质涂层。顶部是LED指示灯
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQ1fDU2ZjMzY2E5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQ1fDU2ZjMzY2E5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LBR20背面一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQ2fDg0NmFjZTlkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQ2fDg0NmFjZTlkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲背后IO接口一览，从左往右分别是4G LTE天线接头，Sync同步按钮，WAN/LAN 1 RJ45端口，LAN 1 RJ45端口，DC插孔，Reset按钮，4G NanoSIM卡槽，4G LTE天线接头
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQ3fDIxNGM3OGRmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQ3fDIxNGM3OGRmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲底部的铭牌。冷空气从LBR20底部进入，顶部散出
@@ -114,35 +114,35 @@ description: >
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQ5fDNlNDQ5NWMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQ5fDNlNDQ5NWMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲拿开前面板就能看到内部的主板和天线了。因为加入了4G LTE的原因，LBR20的天线布局是重新设计的
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjUwfDY4OTg2NDQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjUwfDY4OTg2NDQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲拆下后面板。可以看到有两根PCB天线固定在外壳上，这两根天线是4G LTE天线，用于接受4G LTE基站信号。在顶部灯罩部分，内部藏有两根5.8G天线，用于和Orbi分身无线回程；灯罩下方是两根2.4G+5.2G混合天线，开放给用户接入
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjUxfDBmNjkwZjcwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjUxfDBmNjkwZjcwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲移去金属散热片，金属散热片采用叠加设计，两块金属使用螺丝固定在一起
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjUyfDMxNzc3YjhifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjUyfDMxNzc3YjhifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲将PCB主板正面的金属屏蔽盖去除后一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjUzfDMwYWYyMDU3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjUzfDMwYWYyMDU3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲首先是这块高通的X20基带。采用三星10nm LPE工艺制造，它可支持横跨授权与非授权FDD和TDD频谱，支持4x4（3CA）MIMO，能够同时接收最多达12路的LTE空间数据流。下行支持LTE Cat.18，最高达5x20MHz载波聚合，支持256 QAM调制，理论下行速率可以达到1.2Gbps；上行支持LTE Cat.13，2x20MHz载波聚合，支持64 QAM调制，理论上行速率可以达到150Mbps
@@ -151,14 +151,14 @@ X20支持全部主要蜂窝技术（LTE FDD、LTE TDD、WCDMA、TD－SCDMA、EV�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU0fDY4NDQ1ZDIwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU0fDY4NDQ1ZDIwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲W634GU6NB，DDR3L RAM芯片，制造厂商是Winbond，大小512MB
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU1fGZiZDNmODVkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU1fGZiZDNmODVkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲QCA9886，这是一款高度集成5G SoC，支持2X2 MU-MIMO，支持80MHz频宽，支持256QAM，支持的最高速率为867Mbps，这颗芯片是为了给5.8G服务。在它的左侧是2.4G功放芯片SKY85325-11，这里只有一颗，还有一颗在背面，都连接到背面的IPQ4019芯片，为2.4G提供支持
@@ -177,35 +177,35 @@ X20支持全部主要蜂窝技术（LTE FDD、LTE TDD、WCDMA、TD－SCDMA、EV�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU2fGM5NGQ4ODk0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU2fGM5NGQ4ODk0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲来到PCB主板背面，移去金属散热片
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU3fDc2ZjVlZGI2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU3fDc2ZjVlZGI2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲将PCB主板背面的金属屏蔽盖去除后一览。在PCB主板左右两侧各有一个金属的天线，这两个金属天线用于接受4G LTE基站信号
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU4fDIwYzViZjI3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU4fDIwYzViZjI3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲金属天线特写。当4G LTE的SMBA接头没有接上外置天线时，金属天线工作；接上外置天线时，金属天线断开
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjU5fDA3ZmEwMGM1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjU5fDA3ZmEwMGM1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲4G NanoSIM卡槽可以取下
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjYwfDdlZTcxODU1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjYwfDdlZTcxODU1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲CPU是高通的IPQ4019，这是一颗ARM Cortex A7 四核的SoC，支持2.4G和5G。这里为2.4G和5.2G服务。在它的左侧是5G功放芯片SKY85729-11，有两颗，都连接到IPQ4019，为5.2G提供支持
@@ -226,21 +226,21 @@ MCS7，+24 dBm，-30 dB EVM**
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjYzfDczMDgwNDAwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjYzfDczMDgwNDAwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲W29N02GVSIAF，FLASH芯片，制造厂商是Winbond，用于存放固件，大小256MB
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjY0fDYwY2MwYTJhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjY0fDYwY2MwYTJhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲QCA8072，双端口10/100/1000 Mbps三速以太网PHY
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzYyfGU1NTc1ZjhmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzYyfGU1NTc1ZjhmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲内部芯片示意图
@@ -253,14 +253,14 @@ LBR20使用4G LTE网络接入后，Mesh组网方式
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzYzfGNlYWYyNmIyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzYzfGNlYWYyNmIyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲星链拓扑
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzY0fDUwMjhkOGJjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzY0fDUwMjhkOGJjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲菊花链拓扑
@@ -269,21 +269,21 @@ LBR20使用4G LTE网络接入后，Mesh组网方式
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzY1fDFiNDUxMzM4fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzY1fDFiNDUxMzM4fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲星链拓扑
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzY2fGM3ZjMzOTQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzY2fGM3ZjMzOTQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲菊花链拓扑
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NzY3fDU4ODgxNTg2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NzY3fDU4ODgxNTg2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲使用交换机
@@ -294,42 +294,42 @@ Orbi的固件设置论坛的小伙伴们都非常熟悉了，LBR20由于添加�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODI4fDc0NTI1ZjlkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODI4fDc0NTI1ZjlkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲首先和普通的Orbi系列不同的是，LBR20默认是3G/4G蜂窝网络的接入方式。即便是一开始就使用有线宽带WAN口接入，也是无法联网的。自动漫游可以使LBR20在不同的基站之间快速切换
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODMwfDg5MDAzN2I0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODMwfDg5MDAzN2I0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LBR20的因特网接入提供了三种方式。一种是始终使用3G/4G蜂窝网络接入；一种是在发生故障时，3G/4G蜂窝网络替代有线宽带接入；最后一种就是关闭3G/4G蜂窝网络，始终使用有线宽带
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODI5fGIzOTZjMTQzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODI5fGIzOTZjMTQzfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲当你切换因特网接入方式时会提醒，WAN/LAN 1口被设为了LAN口，无法切换，所以必须要去把WAN/LAN 1改完WAN口才行
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODMyfGM2NWQyMDMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODMyfGM2NWQyMDMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲局域网IP设置中将Enable WAN/LAN1 port as LAN port的勾去掉，默认是勾上的。此时WAN/LAN 1就变成WAN口了
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODM0fDc1MjM5NWU3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODM0fDc1MjM5NWU3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲回到因特网接入方式，就能随意切换模式了。建议选择第二种，故障时，使用具备移动数据功能的WAN以太网作为备用方案（发生故障时，3G/4G蜂窝网络替代有线宽带接入）
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODMzfDQ1NDU5NDU2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODMzfDQ1NDU5NDU2fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲这样我们就能成功使用有线宽带接入了
@@ -338,28 +338,28 @@ Orbi的固件设置论坛的小伙伴们都非常熟悉了，LBR20由于添加�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODM1fDRjMjA3NmJjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODM1fDRjMjA3NmJjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲插入NanoSIM卡后，就可以看到移动基带信息了，可以看到手机号码
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODM2fDI5YjIzZTk0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODM2fDI5YjIzZTk0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲拔掉有线宽带WAN口接入，可以看到LBR20会切换到SIM卡4G网络接入（从有线宽带切换到4G蜂窝网络需要大约3分钟左右）
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODM3fDYwMzQ2MTE5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODM3fDYwMzQ2MTE5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲点击连接状态可以看到当前4G蜂窝网络接入的详情，使用的是电信的FDD频段，IP租赁时间是2小时
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1ODM4fDA2NmRiZjFmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1ODM4fDA2NmRiZjFmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲继续接回有线宽带，大约1分钟后LBR20又会切回WAN口接入，IP租赁时间变更为12小时
@@ -404,21 +404,21 @@ Orbi的固件设置论坛的小伙伴们都非常熟悉了，LBR20由于添加�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTMzfGNmNzczMGRjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTMzfGNmNzczMGRjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲NAT单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM0fGE1MDA2MzFifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM0fGE1MDA2MzFifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LAN to LAN单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM1fDg2MDg1N2QxfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM1fDg2MDg1N2QxfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲LAN to LAN双向单线程和十线程
@@ -427,49 +427,49 @@ Orbi的固件设置论坛的小伙伴们都非常熟悉了，LBR20由于添加�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM2fGQ1M2FkZDE0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM2fGQ1M2FkZDE0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5G to LAN上行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM3fGI3YTFhM2U3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM3fGI3YTFhM2U3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5G to LAN双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM4fDJkMWJiZTlhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM4fDJkMWJiZTlhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5G to LAN下行单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTM5fGY3NWNlZjAwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTM5fGY3NWNlZjAwfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5G to 5G单向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTQwfGRiMWE4YmI1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTQwfGRiMWE4YmI1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5G to 5G双向单线程和十线程
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTQyfGQxMjMzNGRhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTQyfGQxMjMzNGRhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲数据汇总
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTQzfDdlZWYyNGU5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTQzfDdlZWYyNGU5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲图表汇总
@@ -478,35 +478,35 @@ Orbi的固件设置论坛的小伙伴们都非常熟悉了，LBR20由于添加�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTQ0fDQ5MGY4ZDc1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTQ0fDQ5MGY4ZDc1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲有线宽带为江苏电信10G EPON千兆宽带，签约下行1000M，上行50M
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1OTQ1fGJjMzIzMjc3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1OTQ1fGJjMzIzMjc3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲有线宽带条件下Speedtest测速，基本跑满千兆WAN口带宽
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MDg3fDJjNzc0MDQ0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MDg3fDJjNzc0MDQ0fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲4G LTE蜂窝网络采用的是电信FDD频段，LBR20接受基站4G信号强度为-56dBm
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MDkyfDc4NTA2OGZjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MDkyfDc4NTA2OGZjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲4G LTE蜂窝网络条件下Speedtest测速，由于我们这地方的电信4G基站没有开启Cat.18，这个速度可以接受
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MDk4fGI4M2VmMTQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MDk4fGI4M2VmMTQ1fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 Orbi LBR20无线地区为澳大利亚。其所在位置已在上图标出。各房间大致面积说明
@@ -527,77 +527,77 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MDk1fDI1MDI3NmZkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MDk1fDI1MDI3NmZkfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲1号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MDk5fGQzOWM4Yzc3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MDk5fGQzOWM4Yzc3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲2号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTAxfDUwMjc4NGJhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTAxfDUwMjc4NGJhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲3号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTA2fDA5YmI2ODk5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTA2fDA5YmI2ODk5fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲4号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTA3fDA3ZjNiMGVifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTA3fDA3ZjNiMGVifDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲5号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTE0fGNhMTZhNDAyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTE0fGNhMTZhNDAyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲6号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTMwfDY3MDk4N2RmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTMwfDY3MDk4N2RmfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲7号位置处2.4G和5G信号强度；有线宽带和4G LTE蜂窝下的Speedtest测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTQxfGEyYWQzMmMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTQxfGEyYWQzMmMyfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲数据汇总
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MTQyfDM1N2U4YTZhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MTQyfDM1N2U4YTZhfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲图表汇总
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDUxfDBlMGI0MWZjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDUxfDBlMGI0MWZjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲上海地区，电信FDD频段，LBR20接受基站4G信号强度为-46dBm
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDUyfDhlODRiMzVjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDUyfDhlODRiMzVjfDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 ▲4G LTE蜂窝网络条件下Speedtest测速。LBR20在4G LTE蜂窝网络下的速率和当地运营商的配置，以及离基站的距离有关
@@ -606,7 +606,7 @@ G:7.5平方米
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI1NjQ0fDY5MjdhMDk3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI1NjQ0fDY5MjdhMDk3fDE2MzIzOTA0MTR8MHwxOTE5MDc%3D&nothumb=yes)
 
 
 **硬件方面**

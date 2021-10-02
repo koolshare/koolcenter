@@ -25,12 +25,12 @@ DS1621xs+ 提供了2个千兆口，1个万兆口，万兆口支持2.5G、5G多�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NzUxfDgzNjhlMzBlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NzUxfDgzNjhlMzBlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI3MDQ0fDYxYzgxOWMwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI3MDQ0fDYxYzgxOWMwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **Broadwell-DE**
@@ -39,7 +39,7 @@ DS1621xs+的CPU使用了来自Intel的Intel Xeon Processor D-1527，隶属于Bro
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzE0fDIyODc4Y2IwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzE0fDIyODc4Y2IwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 Broadwell-DE可谓是把我们常见的Broadwell-EP（Intel E5 v4系列）做成了SOC。拥有2-8个核心，14nm工艺，L1数据缓存32KB，指令缓存32KB，L2缓存每核心256KB，L3缓存是每核心1.5MB，这跟Broadwell架构的处理器都是一样的。
@@ -48,7 +48,7 @@ Broadwell-DE可谓是把我们常见的Broadwell-EP（Intel E5 v4系列）做成
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzEzfDA0NWZiNGE5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzEzfDA0NWZiNGE5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 Broadwell-DE虽然是个SOC设计，但是我们看到内部架构图，实际上是Broadwell和PCH整合在一起。这样的话，很容易看到24条PCIe 3.0和万兆MAC是由核心IIO直接提供。而SATA接口，8条PCIe 2.0，是由PCH提供，PCH和IIO之间还是通过DMI2.0 x4连接。
@@ -57,7 +57,7 @@ Broadwell-DE虽然是个SOC设计，但是我们看到内部架构图，实际�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzE2fDExZDlkODY4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzE2fDExZDlkODY4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **【开箱】**
@@ -66,105 +66,105 @@ Broadwell-DE虽然是个SOC设计，但是我们看到内部架构图，实际�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTAwfDAxNDdmMjM2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTAwfDAxNDdmMjM2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 配件盒里面配备2条网线，1包螺丝，一条电源线以及一套钥匙。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxODk5fGY0OTJkY2U3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxODk5fGY0OTJkY2U3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 两本快速上手指南
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTAxfDIwNDNmZWVifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTAxfDIwNDNmZWVifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+保持着群晖6盘位机型的一贯的外形。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA2fDIyZDNjMGU3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA2fDIyZDNjMGU3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+正面6个热插拔盘位。顶部配备了电源，警告指示灯，电源按钮，以及3个网口指示灯。因为DS1621xs+是1个10G、2个1G网口，所以网口指示灯也变为3个，底部有一个USB3.0接口。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA1fDUzNjczMTVhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA1fDUzNjczMTVhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+背后可以看到2个风扇，也和前几代保持一致。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA4fGU0NDY2MDFkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA4fGU0NDY2MDFkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 侧面Synology logo的散热孔。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA3fDczNTRkZmFmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA3fDczNTRkZmFmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 下方接口，2个USB3.0，1个万兆口，2个千兆口，2个ESATA扩展柜接口，1个PCIe扩展槽。大家可以注意到万兆口的和千兆口的外观不同。具体原因拆解部分会具体讲述。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTEwfDg5NDUxNzc2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTEwfDg5NDUxNzc2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在DS1621xs+底部有一个内存槽的保护盖，用户升级内存十分方便。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA5fGU3Nzg2ZDZlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA5fGU3Nzg2ZDZlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 内置了一条群晖原厂DDR4 2666 ECC SODIMM内存。DS1621xs+使用了Xeon处理器，推荐使用ECC内存保障系统稳定。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTExfDkyNDhkMGRkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTExfDkyNDhkMGRkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 硬盘插槽依然是热插拔，前面有个锁口。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTEyfGQ4YjE3NmM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTEyfGQ4YjE3NmM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 硬盘托架依然是免螺丝设计。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTEzfGE2ZDA1YzIxfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTEzfGE2ZDA1YzIxfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 安装硬盘后的样子。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE0fGUyMzdiNjUwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE0fGUyMzdiNjUwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 拆掉6个硬盘托架后可以看到内部背板，背板使用镂空设计，加强企业级硬盘的散热。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE2fDFjNjg2YjdlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE2fDFjNjg2YjdlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在硬盘槽的侧面有2个M.2 2280 SSD插槽，都是PCIe 3.0 x4满血M.2模式。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE5fDAzZjdiZmVlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE5fDAzZjdiZmVlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **【安装PCIe网卡】**
@@ -173,21 +173,21 @@ DS1621xs+背后可以看到2个风扇，也和前几代保持一致。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE3fDhmNTVjMWVjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE3fDhmNTVjMWVjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 可以看到一侧的DS1621xs+的内置电源
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE4fGFhNDNiY2Y2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE4fGFhNDNiY2Y2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 另外一侧可以看到预留的PCIe 3.0 x8的插槽。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTE1fDFiMmI0MTE1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTE1fDFiMmI0MTE1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **Intel Ethernet Network Adapter XXV710**
@@ -196,35 +196,35 @@ DS1621xs+背后可以看到2个风扇，也和前几代保持一致。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTAyfDAwMmY4ZGFhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTAyfDAwMmY4ZGFhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 网卡正面覆盖了黑色散热片，25G不在使用SFP+接口，改为使用SFP28接口。两者外观还是很相似的。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxODk3fGU5YTdjOTdmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxODk3fGU5YTdjOTdmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 网卡背面，Intel原厂网卡特有的方位标志
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxODk4fGRmNzE0MzMyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxODk4fGRmNzE0MzMyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 网卡安装上NAS后，可以看到DS1621xs+对长网卡的支持还是很不错的。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTAzfGUyYWE5ZmU1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTAzfGUyYWE5ZmU1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 背后的SFP28 25G光口。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTA0fGIyZWNjYzA1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTA0fGIyZWNjYzA1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+的普通用户拆到这一步就可以了，接下来的部分不建议普通用户自己拆解。
@@ -235,42 +235,42 @@ DS1621xs+的普通用户拆到这一步就可以了，接下来的部分不建�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTIxfDZiN2RjNTBifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTIxfDZiN2RjNTBifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 电源是来自台达DPS-250AB，250W 80棕牌认证的电源，满足6盘位NAS的需要。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTIzfGQ3ZTgxNjQyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTIzfGQ3ZTgxNjQyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 拆除背后的背板。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTIyfDBiOWJhYThkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTIyfDBiOWJhYThkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 可以看到背后的2个风扇，都使用了4Pin PWM调速设计，可以准确的控制风扇。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTIwfDI5OGY5M2JkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTIwfDI5OGY5M2JkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 拆除NAS底部的底板。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI0fDM1NDc5ZWZlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI0fDM1NDc5ZWZlfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 可以看到主板。DS1621+使用了4核心的Xeon D-1527，为了更好的散热，这次设计了导风罩，更好的完成散热。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI1fDEwMjczNzRifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI1fDEwMjczNzRifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 主板正面有两大块散热片。
@@ -279,14 +279,14 @@ DS1621xs+的普通用户拆到这一步就可以了，接下来的部分不建�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI4fGY3MDUwOTBifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI4fGY3MDUwOTBifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 主板背面，可以看到Xeon D-1527 CPU底部也是做了和底壳的导热加强散热。这次DS1621xs+虽然同样的6盘位，散热做了很大的加强。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM0fDcwZDg3YTY0fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM0fDcwZDg3YTY0fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 接下来详细讲一下主板上的芯片。
@@ -295,47 +295,47 @@ DS1621xs+的普通用户拆到这一步就可以了，接下来的部分不建�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI2fGZhN2M0YmFjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI2fGZhN2M0YmFjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 Intel I210 PCIe 2.0 x1 to 1Gb，千兆以太网控制芯片，一共2颗，负责2个千兆网口。这个芯片大家很熟悉了，Intel入门服务器网卡芯片。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI3fDJlYjNjMWEzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI3fDJlYjNjMWEzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTI5fGJmMDI5M2E3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTI5fGJmMDI5M2E3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 [Marvell AQtion AQC107](https://www.marvell.com/content/dam/marvell/en/public-collateral/ethernet-adaptersandcontrollers/marvell-ethernet-controllers-aqtion-aqc107-108-product-brief.pdf)，负责DS1621xs+的万兆网口，拆解时候大力出奇迹，顶盖一起下来了。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTMwfDJiNGE2YmU1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTMwfDJiNGE2YmU1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 前面说了DS1621xs+的万兆网口和千兆外观完全不同。因为万兆RJ45接口也是使用了来自Marvell的打包方案，是AQC107芯片推荐的使用方法。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTMzfGU4ZWMxODYzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTMzfGU4ZWMxODYzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 Altera逻辑加密芯片，负责DS1621xs+的底层认证。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTMxfDYzZTNmY2I4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTMxfDYzZTNmY2I4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+的引导DOM盘，出厂安装了DSM6.2的引导。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTMyfDc2YjVjZDc5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTMyfDc2YjVjZDc5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 使用了Intel Xeon D-1527，四核心2.2Ghz设计，支持睿频到2.7Ghz。CPU 6组4x PCIe3.0通道，2组4x组合在一起，成为PCIe Slot 8x插槽。2组4x给2个M.2槽提供支持，所以M.2也是满血性能的。1组4x通过Marvell Aqc107，提供了NAS的万兆接口。最后一组4x，链接了PCIe 3.0 2x的JMicron JMB585，提供了5个SATA接口。其中3个接口负责Bay4-6三个盘尾，2个作为ESATA接口连接扩展柜。
@@ -348,7 +348,7 @@ DS1621xs+的引导DOM盘，出厂安装了DSM6.2的引导。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNzYzfGJiNWE5MzdifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNzYzfGJiNWE5MzdifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在机器散热方面，针对这个4核心CPU群晖也做了优化，比起DS3018xs来说，散热片面积大的增加。同时主板上方和下方都使用了散热垫和机器外壳链接，更好的通过NAS的全金属外壳把热量散发出去。
@@ -361,7 +361,7 @@ xs+/xs机型为群晖高端专业和面向企业的机型，硬盘方面 WD推�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzQwfDZkOTBjZGVkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzQwfDZkOTBjZGVkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 本次为DS1621xs+准备的HDD是WD4003FFBX 4TB，属于WD Red Pro系列，采用CMR技术，7200RPM
@@ -370,12 +370,12 @@ xs+/xs机型为群晖高端专业和面向企业的机型，硬盘方面 WD推�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzQyfDI5YzFkNTg2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzQyfDI5YzFkNTg2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzQxfDQ0ZDRkZGM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzQxfDQ0ZDRkZGM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在这里简单提一下WD Red、WD Red Plus、WD Red Pro的区别
@@ -392,14 +392,14 @@ WD Red Pro系列NAS盘规格一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzE3fDZkMzgwNDc3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzE3fDZkMzgwNDc3fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 使用群晖自带磁盘调校来测试磁盘的性能。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mjc0fGI4NWMxNDU4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mjc0fGI4NWMxNDU4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在NAS的系统中，WD红盘系列会有特殊的固件优化和信息检测，可以在提前预警出磁盘的潜在风险。在DSM7后期会上线合作硬盘的固件更新，合作认证的HDD固件更新会更方便。
@@ -412,14 +412,14 @@ WD Red Pro系列NAS盘规格一览
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzUyfGFkZGJjNTJkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzUyfGFkZGJjNTJkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 可以看到网卡接口信息。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzUzfDU2ZGQ2ZjI5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzUzfDU2ZGQ2ZjI5fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 局域网1是10G内置网口。
@@ -434,21 +434,21 @@ DSM的存储管理员全部重新设计，主页上可以非常清晰的看到�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU0fDRiYjAwYTdmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU0fDRiYjAwYTdmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 存储池和存储空间的关系更加明确的表示，可以清晰看清两者关系。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU1fGI3ZGYwYzkzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU1fGI3ZGYwYzkzfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 每块磁盘的信息也更加清晰，通过磁盘定位功能，可以夜半点亮磁盘上的指示灯。方便定位寻找故障磁盘。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU2fDZjN2M5MmU2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU2fDZjN2M5MmU2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 在创建存储空间时候，如果使用的磁盘不在NAS的兼容列表内，会有提示，只是一个提示，不影响用户创建流程
@@ -457,7 +457,7 @@ DSM的存储管理员全部重新设计，主页上可以非常清晰的看到�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU3fDNjMzFhNGZjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU3fDNjMzFhNGZjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 要说明的是在DSM7后
@@ -476,7 +476,7 @@ RAID自动修复，就是当硬盘损坏后安装新硬盘，系统会自动开�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU4fDQzNjRlNDNjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU4fDQzNjRlNDNjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 同时这次增加自动发现热插入硬盘的数据分区。
@@ -491,19 +491,19 @@ Photos去除了Moments被人诟病的每天创建一个文件夹，提供了按�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDI1fDZiNWM3Njg4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDI1fDZiNWM3Njg4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDI2fGIwNWMzYTAyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDI2fGIwNWMzYTAyfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 同时在启用共享空间后，可以有一个公共的Photos文件夹，和原来Photo Station达到一样的体验效果。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDI0fDBjZDczY2ZmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDI0fDBjZDczY2ZmfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **Synology Drive**
@@ -514,14 +514,14 @@ Drive Server主页增加了外部用户访问最多的文件，可以方便知�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDM1fGU1M2QxNGNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDM1fGU1M2QxNGNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 同时增加了历史文件数据库的详细统计。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDM2fDZhNjVmZTZhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDM2fDZhNjVmZTZhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **【性能测试】**
@@ -546,14 +546,14 @@ DS1621xs+提供了板载10G接口，同时支持了PCIe扩展，所以这次也�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDM4fDEzYjZlYzNhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDM4fDEzYjZlYzNhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 从NAS读取
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDM5fDI0Mzc2Zjg2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDM5fDI0Mzc2Zjg2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 光口25G
@@ -562,14 +562,14 @@ DS1621xs+提供了板载10G接口，同时支持了PCIe扩展，所以这次也�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDM0fDliZTYyMTFifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDM0fDliZTYyMTFifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 从NAS读取
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDMzfDllOGNjMzE2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDMzfDllOGNjMzE2fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 可以看到DS162xs+的读写速度是非常给力的。
@@ -580,14 +580,14 @@ DS162xs+使用的Xeon D-1527是4核心8线程的规格，在VMM内vCPU可用数�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzU5fDZjZGJlZTVhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzU5fDZjZGJlZTVhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 我们在VMM内部署了1台Windows 10，2台Ubuntu（一台Desktop，一台Server）。虚拟机内操作非常流畅。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2MzkzfGZlNmEzNzVjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2MzkzfGZlNmEzNzVjfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 对于DS1621xs+这个性能的机型VMM的使用体验达到了一个非常好的体验。
@@ -596,7 +596,7 @@ DS162xs+使用的Xeon D-1527是4核心8线程的规格，在VMM内vCPU可用数�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mzk0fDJmNTcwZjIwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mzk0fDJmNTcwZjIwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **【SAN存储】**
@@ -625,7 +625,7 @@ FC SAN因为对CPU性能，PCIe带宽有要求。也不会对所有机型开放�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mzk1fDdkNGFhNmFifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mzk1fDdkNGFhNmFifDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 工作站用户可以安装FCHBA卡和NAS对接。
@@ -634,7 +634,7 @@ Mac用户可以用过Promise SanLink F2实现FC对接
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDE0fDdjMTgxMzlhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDE0fDdjMTgxMzlhfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 [https://www.promise.com/Products/SANLink/SANLink3-F2](https://www.promise.com/Products/SANLink/SANLink3-F2)
@@ -649,28 +649,28 @@ Mac用户可以用过Promise SanLink F2实现FC对接
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDIyfGRmZTFmOTI4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDIyfGRmZTFmOTI4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 静音模式下，DS1621xs+的噪音分贝值在42dB左右
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDIwfGI4ZDI2NjNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDIwfGI4ZDI2NjNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 低温模式下，DS1621xs+的噪音分贝值在48dB左右
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDIxfDZmODBmNGVkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDIxfDZmODBmNGVkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 全速模式下，DS1621xs+的噪音分贝值在75dB左右
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDIzfDI3Mzg1OTNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDIzfDI3Mzg1OTNkfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 也就是俗称的NAS起飞了，DS1621xs+在CPU满载情况下也还是会出现NAS起飞现象
@@ -681,14 +681,14 @@ Mac用户可以用过Promise SanLink F2实现FC对接
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2NDA0fDQ4MzhkZmU4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2NDA0fDQ4MzhkZmU4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 DS1621xs+正常运行4小时左右，CPU温度在52度附近
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mzk2fGNjM2M3Y2E4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mzk2fGNjM2M3Y2E4fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 通过计算SHA256命令让CPU满载
@@ -699,14 +699,14 @@ _复制代码_
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mzk3fGExN2E4NDM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mzk3fGExN2E4NDM1fDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 最终CPU温度在64度附近
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI2Mzk4fGQzOTVhY2UwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI2Mzk4fGQzOTVhY2UwfDE2MzIzOTA0MDZ8MHwxOTA2Mjk%3D&nothumb=yes)
 
 
 **【总结】**

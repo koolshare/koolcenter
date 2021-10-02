@@ -17,12 +17,12 @@ Intel近期发布了第11代NUC的家用版本-猎豹峡谷 Panther Canyon，这
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTk0fDgzMjM5N2E1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTk0fDgzMjM5N2E1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI0MzAyfDdiYTU3MzcwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI0MzAyfDdiYTU3MzcwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 11代处理器IO部分有了很大的升级，CPU直接提供了4条可配置DDI总线，可以配置为eDP 1.4、DP 1.4、HDMI 2.0、ThunderBolt，满足高清输出和ThunderBolt高速连接需要。CPU新增提供了PCIe 4.0 x4用于连接SSD。PCH部分，无线支持Wi-Fi 6，有线部分升级为2.5G接口。
@@ -35,105 +35,105 @@ Intel近期发布了第11代NUC的家用版本-猎豹峡谷 Panther Canyon，这
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM4fGYwYjg0NzgxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM4fGYwYjg0NzgxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 打开盒子可以看到内部的机器。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM3fDQ2Y2I3OWQ5fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM3fDQ2Y2I3OWQ5fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 所有配件，电源适配器，固定螺丝，说明书。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM1fDY0ZTM0YjQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM1fDY0ZTM0YjQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 电源适配器，来自FSP。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM2fGY3MGRmZTZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM2fGY3MGRmZTZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 电源规格19V 6.32A 120W
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTM5fGY2MmI1ZjhmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTM5fGY2MmI1ZjhmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 猎豹峡谷机器本体
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQzfGZmZDNkMDYwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQzfGZmZDNkMDYwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 正面接口，ThunderBolt，1个USB3.2 gen2接口，3.5mm耳麦接口和电源按钮。同时，正面4个小孔是麦克风阵列，用于视频会议视频通话等会带来更好的收音效果。这样一个贴心的配置也很顺应了目前远程办公远程协作的趋势。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQwfDRkMzk3ZmZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQwfDRkMzk3ZmZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 重点要说下这个Thunderbolt接口，这个接口是兼容TBT3，USB4，USB3，DP-Alt等多种模式。可以达到40G速率。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNjgxfDFlMDk5YmYyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNjgxfDFlMDk5YmYyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 使用YZX Studio测试表读取它的供电能力，可以看到支持18W电力输出。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTg1fGY2ZTk3ODkwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTg1fGY2ZTk3ODkwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 背后接口，电源，miniDP 1.4，2.5G以太网，USB3.2 gen2 X 2，HDMI2.1，ThunderBolt。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQxfDQ5NmJjOTc0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQxfDQ5NmJjOTc0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 侧面是一个标准SD UHS-II读卡器，比起8代NUC的TF卡槽，标准SD读卡器更加实用。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQyfGUyNTYyOGFifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQyfGUyNTYyOGFifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 侧面还有个锁口。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ0fDY1NTE2MGY0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ0fDY1NTE2MGY0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 机器顶盖配置有一个支持15W Qi标准的无线充电板。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ1fGIwNmY2ZTMyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ1fGIwNmY2ZTMyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 充电板硅胶材质，手机可以稳固的摆放。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ2fDhlY2FjMmUzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ2fDhlY2FjMmUzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 机器底部。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ4fGQ2MmNhOGZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ4fGQ2MmNhOGZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **【拆解】**
@@ -142,82 +142,82 @@ Intel近期发布了第11代NUC的家用版本-猎豹峡谷 Panther Canyon，这
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ3fDNlMWJiYTNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ3fDNlMWJiYTNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 底盖下方贴有散热垫，给M.2 SSD散热，可以压住PCIe 4.0 SSD的发热
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTUwfDU1Mjc1YzVifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTUwfDU1Mjc1YzVifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 内部和上一代最大的变化是多出一块散热片。具体的用处后面会有展示。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTQ5fGM5ZDg0ODE2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTQ5fGM5ZDg0ODE2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 从盒子内取出主板。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU0fGJmN2Y1OWJhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU0fGJmN2Y1OWJhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 无线充电顶盖是可以独立拆下的，这个顶盖是否能兼容上一代NUC，还有待测试。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU4fGZjNTZlYWY1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU4fGZjNTZlYWY1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 可以看到顶盖上的无线充电模块
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU2fDNmOGJmODA3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU2fDNmOGJmODA3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 主板全貌，上面有1个M.2槽用于安装PCIe 4.0的SSD。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTUxfGQ1YTc3NGZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTUxfGQ1YTc3NGZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 主板背面覆盖了完整的风扇散热器。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTUyfDIzN2EyNzNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTUyfDIzN2EyNzNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 从主板背后卸下风扇，可以看到使用2条热管来散热。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTUzfDlkOWFlODQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTUzfDlkOWFlODQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 风扇来自CoolerMaser，5V 0.6A规格。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU1fGVkYThhNzIwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU1fGVkYThhNzIwfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 这一代的热管比以前更长，并且在侧面加了一组散热片。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU5fDUyYWY3ZjlifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU5fDUyYWY3ZjlifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTU3fDNjMzQ0YTJjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTU3fDNjMzQ0YTJjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 接下来就是主板上的芯片部分。
@@ -228,68 +228,68 @@ Intel近期发布了第11代NUC的家用版本-猎豹峡谷 Panther Canyon，这
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY3fGRlZWM2ZGM4fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY3fGRlZWM2ZGM4fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 主板上两颗Intel JHL8040R，ThunderBolt ReTimer。11代处理器ThunderBolt控制器直接集成在CPU内部了，外部只需要ReTimer做信号放大，ThunderBolt的使用成本会大大降低。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTYzfGRkYzYxNzU3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTYzfGRkYzYxNzU3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY2fDcxNGI0OTRhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY2fDcxNGI0OTRhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Realtek ALC256 HDAudio音频芯片，负责前面板耳麦接口和数字麦克风整列。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTYwfDM2OGEwODQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTYwfDM2OGEwODQ2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Intel I225V SLMNG 2.5G以太网卡
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTYxfDBiYTZmOTJifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTYxfDBiYTZmOTJifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 正面，首先是前面说的散热片下方的芯片。Realtek RTD2173 DP 1.4 转 HDMI 2.1转换IC，为NUC背后支持8K的HDMI2.1接口提供支持。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY1fGNjNDc0NGRkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY1fGNjNDc0NGRkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 BIOS FLASH 芯片
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTYyfDI1OGM0YTEzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTYyfDI1OGM0YTEzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 ITE IT5571VG EC芯片，负责周边IO和温度控制
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY0fDQyYmUzZWRmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY0fDQyYmUzZWRmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Realtek RTS5250s PCIe 1x SD UHS-II读卡器芯片。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY5fGRhZGQwOTFifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY5fGRhZGQwOTFifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Intel AX201 CNVI接口Wi-Fi 6无线网卡模块，家用版本的Wi-Fi依然使用板载焊接模块。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIxOTY4fDgzOTNhOGI2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIxOTY4fDgzOTNhOGI2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **性能测试**
@@ -306,47 +306,47 @@ CPU信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDU3fDU1ODJmNmQxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDU3fDU1ODJmNmQxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Intel Core i7-1165G7 使用了10nm制程，4核心8线程设计，Intel® Iris Xe Graphic集显。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDI0MzA2fDJjNWI1OWFhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDI0MzA2fDJjNWI1OWFhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU缓存信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDU4fGE0ZWQ5NWY2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDU4fGE0ZWQ5NWY2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 主板信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDU5fDYwYTFiNjNlfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDU5fDYwYTFiNjNlfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 内存信息。这里通道数识别错误。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDYyfDJlZDk5MzFjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDYyfDJlZDk5MzFjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDYwfGUzY2VmZTQxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDYwfGUzY2VmZTQxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU-Z性能测试
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDYzfDMxYjIwYTA0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDYzfDMxYjIwYTA0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **GPU-Z**
@@ -355,7 +355,7 @@ GPU信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY0fGIzYzhmYzZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY0fGIzYzhmYzZjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 新一代的Intel Iris Xe Graphics核显，比起上一代核显性能规格提升非常明显。
@@ -366,14 +366,14 @@ GPU信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDcxfGEyNjNlYzk0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDcxfGEyNjNlYzk0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU info
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDcyfDM0Y2ZhYzA3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDcyfDM0Y2ZhYzA3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 这里可以看到Intel Core i7-1165G7的睿频参数，单核心4.7Ghz，双核心4.7Ghz，三核心4.1Ghz，全核心4.1Ghz。
@@ -382,7 +382,7 @@ CPU info
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDczfDM5OGU4MzdhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDczfDM5OGU4MzdhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **设备管理器**
@@ -391,7 +391,7 @@ CPU info
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY1fDRjOWYxYjNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY1fDRjOWYxYjNhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **HWiNFO**
@@ -400,14 +400,14 @@ HWiNFO的CPU信息
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY3fDNlZDMzYmU4fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY3fDNlZDMzYmU4fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 HWiNFO提供的设备连接状态
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY2fDEyZjkzMmQzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY2fDEyZjkzMmQzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 可以注意到的是，PCIe 4.0 nvme，2个ThunderBolt控制器，以及Thunderbolt设备，直连CPU。网卡，读卡器等设备连接在PCH。
@@ -420,14 +420,14 @@ DVXA Checker硬件解码检测，HEVC(x265)，VP9，AV1 8K 10bit完整支持，�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY4fDEzNDMyZTg2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY4fDEzNDMyZTg2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 我们找来一个测试蓝光原盘，82G版本的《比利战场的故事》
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTQ5fDM5ZTA2ZWU1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTQ5fDM5ZTA2ZWU1fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 potplayer对xe核显支持的问题，目前被限制在30帧，看后期驱动能否解决。
@@ -436,19 +436,19 @@ potplayer对xe核显支持的问题，目前被限制在30帧，看后期驱动�
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTQ4fDUyZmJjYTcyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTQ4fDUyZmJjYTcyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 AV1 8K 测试片，正常解码没有压力。这也是Intel核显首次支持AV1的硬解。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTQ1fDU4ZjZlN2FkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTQ1fDU4ZjZlN2FkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTQ2fDhiMzA1ODdhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTQ2fDhiMzA1ODdhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **性能测试**
@@ -513,14 +513,14 @@ CPUIntel i7-1165G7Cores/Threads4C8TCore   Frequency2.8GHzAll Cores  Turbo Fr
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTUxfDdlOTg4MDVjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTUxfDdlOTg4MDVjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 多核心
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTUwfDJlMmRkZjUxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTUwfDJlMmRkZjUxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **PC Mark 10**
@@ -529,7 +529,7 @@ CPUIntel i7-1165G7Cores/Threads4C8TCore   Frequency2.8GHzAll Cores  Turbo Fr
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTUyfDEzMDk3NmRjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTUyfDEzMDk3NmRjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **3DMark**
@@ -542,28 +542,28 @@ Fire Strike
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU1fGQ0MGUxNjMxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU1fGQ0MGUxNjMxfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Fire Strike Extreme
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU2fDAwOTE3Njk3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU2fDAwOTE3Njk3fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 Time Spy
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU0fDcwMDY4MzVhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU0fDcwMDY4MzVhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **PCIe 4.0 SSD读写测试**
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzOTIzfDE4YWIxMDk2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzOTIzfDE4YWIxMDk2fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **2.5G网卡读写测试**
@@ -574,14 +574,14 @@ Time Spy
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDY5fDQyZjZiMzNkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDY5fDQyZjZiMzNkfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 写入
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDcwfDEwYWJmMmFmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDcwfDEwYWJmMmFmfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **温度和功耗**
@@ -594,7 +594,7 @@ CPU满载
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDc3fDU5MzEzN2VjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDc3fDU5MzEzN2VjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 FPU满载
@@ -603,14 +603,14 @@ FPU满载
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDc2fGRjN2VjODgyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDc2fGRjN2VjODgyfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 高性能维持大约3分钟后撞墙出现降频，最终主频稳定在3.7Ghz，温度最终稳定在80度，核心功耗43.20W
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDc1fDk2ZWMzMDkzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDc1fDk2ZWMzMDkzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU GPU双满载
@@ -619,7 +619,7 @@ CPU GPU双满载
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNDc0fDQ5OWU2YzQ5fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNDc0fDQ5OWU2YzQ5fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 功耗测试
@@ -628,7 +628,7 @@ CPU GPU双满载
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU3fGI3ZmEyMmMzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU3fGI3ZmEyMmMzfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 关机下使用无线充电板对iPhone 12进行充电，12.8W。
@@ -637,35 +637,35 @@ CPU GPU双满载
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTYyfDA4ODY2MDZhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTYyfDA4ODY2MDZhfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 开机后不操作主机，8.5W。
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTYxfGViMWRjYTRjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTYxfGViMWRjYTRjfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 FPU烤机模式，79.4W
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTYwfDUzMjg4NzllfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTYwfDUzMjg4NzllfDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU满载模式，32.9W
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU4fGYzNzA1NGZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU4fGYzNzA1NGZifDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 CPU+GPU双满载模式，36.9W
 
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDIzNTU5fGZkY2Y2YjI0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDIzNTU5fGZkY2Y2YjI0fDE2MzIzOTA0NDN8MHwxOTEwMzk%3D&nothumb=yes)
 
 
 **总结**

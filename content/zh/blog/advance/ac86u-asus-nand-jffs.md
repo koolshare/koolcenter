@@ -18,7 +18,7 @@ _本帖最后由 lonlykids 于 2020-8-22 13:02 编辑_
 2.在U盘根目录建立jffs文件夹(通常挂载后在/tmp/mnt/sda1 , 具体以实际情况为主)  
 3.下载附件解压 (软件中心已上架~用软件中心的吧~U盘不达标的 , 可以用我这个....)
 
- ![Boom.rar.pdf](https://www.koolshare.cn/forum.php?mod=attachment&aid=MzAwNzI4fGRhMWQ1YWZhfDE2MzE5NTAxMzR8MjM4MHwxNjEwMTc%3D) 
+ ![Boom.rar.pdf](https://image1.koolcenter.com/forum.php?mod=attachment&aid=MzAwNzI4fGRhMWQ1YWZhfDE2MzE5NTAxMzR8MjM4MHwxNjEwMTc%3D) 
 
 4.把解压出来的5个文件上传到/jffs/scripts/(**注意要先备份/jffs/scripts/文件夹,方便还原(不然只有格式化jffs救回)**) \_>这里的/jffs/scripts/是机器的 , 不是U盘的 , 别复制错了.  
 5.SSH到路由器.然后输入以下命令  
@@ -51,7 +51,7 @@ PS8: 从低于384.19的固件版本升级到384.19的朋友 , 请在升级19后 
   
 还原方法 : 将/tmp/mnt/sda1/jffs/文件夹删除.还有/tmp/mnt/sda1/.jffs\_sync/文件夹删除,重启后将/jffs/scripts/post-mount还原(第4步骤提醒备份的文件),然后执行命令chmod a+x /jffs/scripts/post-mount,再删除/jffs/scripts/unmount后重启即可  
   
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=MzAwMzQwfDY2NTM0M2VjfDE2MzE5NTAxMzR8MjM4MHwxNjEwMTc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=MzAwMzQwfDY2NTM0M2VjfDE2MzE5NTAxMzR8MjM4MHwxNjEwMTc%3D&nothumb=yes)
 
 更新 2019-05-20 23:56:46 -> 修复unmount相关错误并在post-mount新增释放内存动作  
   

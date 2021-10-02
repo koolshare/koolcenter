@@ -19,7 +19,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
 ![](https://image.koolshare.cn/attachment/forum/202107/29/120728d222o92nrr8pdj5a.jpg)
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTI5fGU1NGNkNGMzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTI5fGU1NGNkNGMzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -27,7 +27,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTMwfGY4NTljMGY0fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTMwfGY4NTljMGY0fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -38,7 +38,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTMzfDI0MGQxMzI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTMzfDI0MGQxMzI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -46,7 +46,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM0fGFmZDBmMzJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM0fGFmZDBmMzJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -54,7 +54,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM2fDJiMWYxMjZhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM2fDJiMWYxMjZhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -62,7 +62,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQwfGNhMGMwNTUyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQwfGNhMGMwNTUyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -70,7 +70,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM1fGVmMDU0YTQxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM1fGVmMDU0YTQxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -78,7 +78,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM3fDViMmE2MDQ2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM3fDViMmE2MDQ2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -86,7 +86,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM4fGIxODJkYzQ5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM4fGIxODJkYzQ5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -94,7 +94,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTM5fDIwYzY3Y2UyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTM5fDIwYzY3Y2UyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -102,7 +102,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQxfDg5NDVhMzNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQxfDg5NDVhMzNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -110,7 +110,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQyfDJlMzIzNGUyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQyfDJlMzIzNGUyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -118,7 +118,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQzfGJkMTFhOGRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQzfGJkMTFhOGRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -126,7 +126,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQ0fDc2NGY0NWRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQ0fDc2NGY0NWRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -134,7 +134,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQ1fGU4NGY1MTNkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQ1fGU4NGY1MTNkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -142,7 +142,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQ2fDQ2ZGJmYjhhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQ2fDQ2ZGJmYjhhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -150,7 +150,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQ3fDlmZTk3OTM4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQ3fDlmZTk3OTM4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -161,7 +161,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTQ4fDdiOGQyZTY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTQ4fDdiOGQyZTY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -169,7 +169,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTUyfDExZDU4NThhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTUyfDExZDU4NThhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -177,7 +177,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTUzfDFhMzQ2OWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTUzfDFhMzQ2OWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -185,7 +185,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTU1fDYzOThjNWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTU1fDYzOThjNWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -193,7 +193,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTU3fGI3YjE4MmFifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTU3fGI3YjE4MmFifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -201,7 +201,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTYwfDAwZWIzNjQ1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTYwfDAwZWIzNjQ1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -209,7 +209,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTU5fGMwYjYxYWY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTU5fGMwYjYxYWY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -217,7 +217,7 @@ BenQ PD2725U（[官网链接](https://www.benq.com.cn/designvue/PD2725U)）定�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MTU4fDA5MTlmOWEwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MTU4fDA5MTlmOWEwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -228,7 +228,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjMwfDE2NzZmN2E4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjMwfDE2NzZmN2E4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -236,7 +236,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjMxfDdhZDEwZTQ1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjMxfDdhZDEwZTQ1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -244,7 +244,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjMzfGVkMGEwOTkyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjMzfGVkMGEwOTkyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -252,19 +252,19 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM1fGMxMDRjMjlhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM1fGMxMDRjMjlhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM0fDFjNjQ0NWQ3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM0fDFjNjQ0NWQ3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM2fDc1MTkwY2IzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM2fDc1MTkwY2IzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -272,7 +272,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM3fGUyYTE1MzlhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM3fGUyYTE1MzlhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -280,7 +280,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM4fGNhNmMzYjlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM4fGNhNmMzYjlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -288,7 +288,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjM5fGFkOTc1ZWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjM5fGFkOTc1ZWYyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -296,19 +296,19 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQyfDRjNmFmZTA3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQyfDRjNmFmZTA3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQxfDYzZWEwMWFmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQxfDYzZWEwMWFmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQwfDhkMzI0ODlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQwfDhkMzI0ODlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -316,25 +316,25 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU5NTg2fDViOWQ4OTZkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU5NTg2fDViOWQ4OTZkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQzfGI4Y2M3NjEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQzfGI4Y2M3NjEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU5NTg1fDdkYjdhZDI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU5NTg1fDdkYjdhZDI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDYwMDgxfDlmNmY3MTE2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDYwMDgxfDlmNmY3MTE2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -342,7 +342,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQ2fDg4NDc4ZGZmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQ2fDg4NDc4ZGZmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -350,7 +350,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjQ3fDljMjkxNzYwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjQ3fDljMjkxNzYwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -358,7 +358,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjUwfGQ4MGI3OWMxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjUwfGQ4MGI3OWMxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -366,7 +366,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjUxfDVlNjY4NDBmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjUxfDVlNjY4NDBmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -374,7 +374,7 @@ OSD菜单
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MjUyfGU3NDE5NTdjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MjUyfGU3NDE5NTdjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -386,7 +386,7 @@ Display Pilot和ICC Sync
 **1\. Display Pilot**  
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mjk1fGU1ZGVjZTEwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mjk1fGU1ZGVjZTEwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -394,7 +394,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mjk2fGQwZjM0ODgxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mjk2fGQwZjM0ODgxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -402,25 +402,25 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzAwfDY2NzljMGU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzAwfDY2NzljMGU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mjk5fDk5NWNmZmE2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mjk5fDk5NWNmZmE2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mjk4fDg4YjM4YjgyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mjk4fDg4YjM4YjgyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mjk3fGQzNWU4NmI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mjk3fGQzNWU4NmI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -428,7 +428,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzAxfGQ5YWM1MGJmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzAxfGQ5YWM1MGJmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -436,7 +436,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzAyfGI4NDE4ZmQ5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzAyfGI4NDE4ZmQ5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -444,7 +444,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzA4fDdiZTRmYTA3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzA4fDdiZTRmYTA3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -452,7 +452,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzIzfGM0OTNmZDIzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzIzfGM0OTNmZDIzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -460,13 +460,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzI0fDQyZGFkNWRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzI0fDQyZGFkNWRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzI1fDUwNDlmOGQzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzI1fDUwNDlmOGQzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -474,13 +474,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzI5fDdiNDQxODJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzI5fDdiNDQxODJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzMwfDM3ZTIxNDEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzMwfDM3ZTIxNDEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -488,7 +488,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzMyfGUyZTZiMDJkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzMyfGUyZTZiMDJkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -496,7 +496,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzMzfGNkYWY4NDY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzMzfGNkYWY4NDY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -505,7 +505,7 @@ Display Pilot和ICC Sync
 **2\. ICC Sync**  
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzM3fGIzMjgzMTA1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzM3fGIzMjgzMTA1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -513,7 +513,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzM4fDBlNmY2ZDlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzM4fDBlNmY2ZDlifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -521,7 +521,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzM5fDlkODc1OWQ3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzM5fDlkODc1OWQ3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -529,7 +529,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzQwfGQ1OTcwMmM1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzQwfGQ1OTcwMmM1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -537,7 +537,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzQyfDdmNDQxOTJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzQyfDdmNDQxOTJlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -545,7 +545,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzQzfDBlMzgwMjNifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzQzfDBlMzgwMjNifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -553,7 +553,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzU2fGQ4ODNiZjU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzU2fGQ4ODNiZjU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -568,7 +568,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzYzfDM5M2ExMWY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzYzfDM5M2ExMWY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -576,7 +576,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzgxfDJhYTEyZmMwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzgxfDJhYTEyZmMwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -584,7 +584,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzgyfDIzODlkNTc3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzgyfDIzODlkNTc3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -592,13 +592,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg0fGVlNTdmNDY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg0fGVlNTdmNDY2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzgzfDg2YjIwNjMyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzgzfDg2YjIwNjMyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -606,7 +606,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg1fGM4ZDdiZjgzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg1fGM4ZDdiZjgzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -614,7 +614,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg2fGZkODkwNGZkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg2fGZkODkwNGZkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -622,7 +622,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg3fDZlZDZlZDk2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg3fDZlZDZlZDk2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -633,7 +633,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg4fDE3OWVkYjUxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg4fDE3OWVkYjUxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -641,7 +641,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzg5fDAxYTBhZDRhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzg5fDAxYTBhZDRhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -649,7 +649,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzkwfGNiMjFhNWYzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzkwfGNiMjFhNWYzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -657,13 +657,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzkyfGZiNTkwNGI0fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzkyfGZiNTkwNGI0fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzkxfDVkZGQ5MWIwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzkxfDVkZGQ5MWIwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -671,7 +671,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0MzkzfGM3N2IzMDI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0MzkzfGM3N2IzMDI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -679,7 +679,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzk0fDdlOWE5NGJkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzk0fDdlOWE5NGJkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -687,7 +687,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzk1fGQwZjRmMTNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzk1fGQwZjRmMTNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -698,7 +698,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Mzk2fGVkODNlNzU2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Mzk2fGVkODNlNzU2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -706,7 +706,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDIxfGM5MzExOTExfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDIxfGM5MzExOTExfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -714,7 +714,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDEwfGJjNzAzNTMwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDEwfGJjNzAzNTMwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -722,13 +722,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDExfDczYTQzNjRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDExfDczYTQzNjRlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDEyfGRlMDBkNDYwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDEyfGRlMDBkNDYwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -736,7 +736,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDEzfGRkNjgxYTVlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDEzfGRkNjgxYTVlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -744,7 +744,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDE0fDNiZDc0NjdkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDE0fDNiZDc0NjdkfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -752,7 +752,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDE1fDhkNTBlYjAwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDE1fDhkNTBlYjAwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -765,13 +765,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDE4fDUxOWJjYjk5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDE4fDUxOWJjYjk5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDE5fDEwZmIwYThlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDE5fDEwZmIwYThlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -779,7 +779,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDIwfDY0YTFkY2VhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDIwfDY0YTFkY2VhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -787,7 +787,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDIyfGU1NzhmZDc1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDIyfGU1NzhmZDc1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -795,13 +795,13 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDIzfGRjYmEzMjM5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDIzfGRjYmEzMjM5fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDI0fGE3MDM2OGNlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDI0fGE3MDM2OGNlfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -809,7 +809,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDI1fDk1ZjkxY2QzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDI1fDk1ZjkxY2QzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -817,7 +817,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDI2fGMwZDUzOGEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDI2fGMwZDUzOGEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -825,7 +825,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NDI3fDZmNGRmNTZjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NDI3fDZmNGRmNTZjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -838,7 +838,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NzQwfDVhMzBhMWRifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NzQwfDVhMzBhMWRifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -846,7 +846,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NzQxfDY1MDBiZGU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NzQxfDY1MDBiZGU1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -854,7 +854,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NzkwfGI5MTJhYWFhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NzkwfGI5MTJhYWFhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -862,7 +862,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Nzg4fDA2YTdjY2U1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Nzg4fDA2YTdjY2U1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -870,7 +870,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0Nzg5fDU5MmI2NWY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0Nzg5fDU5MmI2NWY3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -878,7 +878,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0NzkxfDY4Mjc5NTJjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0NzkxfDY4Mjc5NTJjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -886,7 +886,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODAwfDYyYmFmMzkwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODAwfDYyYmFmMzkwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -894,7 +894,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODAxfDI5ZTYxZTI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODAxfDI5ZTYxZTI2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -902,7 +902,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODAyfDA4NmU5NzhmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODAyfDA4NmU5NzhmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -910,7 +910,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODAzfDUwMTEzMTdhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODAzfDUwMTEzMTdhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -918,7 +918,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODA3fDEyYTNkZGM4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODA3fDEyYTNkZGM4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -926,7 +926,7 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODA4fGU4NDNlZGUwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODA4fGU4NDNlZGUwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -941,43 +941,43 @@ Display Pilot和ICC Sync
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDM5fDlhZGIyZDRifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDM5fDlhZGIyZDRifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDQxfDIyZWNlMzA4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDQxfDIyZWNlMzA4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDM1fDFlOWI2OGZifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDM1fDFlOWI2OGZifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDM3fDIzMWEyYWMzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDM3fDIzMWEyYWMzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDM2fDk5NWE2YzAxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDM2fDk5NWE2YzAxfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDQwfDhmNDNiMTY1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDQwfDhmNDNiMTY1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MDM4fDNlMDkwMmZjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MDM4fDNlMDkwMmZjfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -990,27 +990,13 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODY1fDZkMTZjMGI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODY1fDZkMTZjMGI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODY2fGNhMzM3MmEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
-
-
-  
-▲HDR打开前后对比。使用相机A7R4，ISO 100，焦距50mm，光圈F7.1，快门速度1/13秒  
-  
-
-
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODY3fDU4OTFmMDBmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
-
-
-  
-
-
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODY5fDUwYmYyMzM2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODY2fGNhMzM3MmEzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1018,27 +1004,13 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODY4fDdiMjc4NmY1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODY3fDU4OTFmMDBmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODcwfGI2ZGRlM2QyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
-
-
-  
-▲HDR打开前后对比。使用相机A7R4，ISO 100，焦距50mm，光圈F7.1，快门速度1/13秒  
-  
-
-
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODcxfDI3OWRiYTFmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
-
-
-  
-
-
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODczfDYwMjQ0YmI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODY5fDUwYmYyMzM2fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1046,13 +1018,41 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODc0fGU4YjdlY2UzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODY4fDdiMjc4NmY1fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODcyfDEwYjYwYjcyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODcwfGI2ZGRlM2QyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+
+
+  
+▲HDR打开前后对比。使用相机A7R4，ISO 100，焦距50mm，光圈F7.1，快门速度1/13秒  
+  
+
+
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODcxfDI3OWRiYTFmfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+
+
+  
+
+
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODczfDYwMjQ0YmI3fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+
+
+  
+▲HDR打开前后对比。使用相机A7R4，ISO 100，焦距50mm，光圈F7.1，快门速度1/13秒  
+  
+
+
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODc0fGU4YjdlY2UzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+
+
+  
+
+
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODcyfDEwYjYwYjcyfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1065,19 +1065,19 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjU0fGU1ZWRjZmY4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjU0fGU1ZWRjZmY4fDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjUzfDI5ZjI3Y2YwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjUzfDI5ZjI3Y2YwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjUyfDk5YTdlN2ZhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjUyfDk5YTdlN2ZhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1085,7 +1085,7 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU0ODg2fDIyZDgxMjNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU0ODg2fDIyZDgxMjNhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1093,7 +1093,7 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjU1fDZmNjQ4NzQwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjU1fDZmNjQ4NzQwfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1101,7 +1101,7 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjU2fGU5Y2RkMjVhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjU2fGU5Y2RkMjVhfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1109,7 +1109,7 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjU3fDY4ZGUwYzBifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjU3fDY4ZGUwYzBifDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
@@ -1120,7 +1120,7 @@ HDR10是由美国消费电子协会公布的媒体档案，使用建议2020色�
   
 
 
-![下载附件](https://www.koolshare.cn/forum.php?mod=attachment&aid=NDU1MjU4fDhmNDU2ZTkzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
+![下载附件](https://image1.koolcenter.com/forum.php?mod=attachment&aid=NDU1MjU4fDhmNDU2ZTkzfDE2MzE5NDgxMzF8MjM4MHwyMDI4MDc%3D&nothumb=yes)
 
 
   
