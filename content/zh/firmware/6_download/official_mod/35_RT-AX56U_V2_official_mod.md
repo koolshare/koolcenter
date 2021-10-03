@@ -1,5 +1,5 @@
 ---
-title: "RT-AX56U 官改固件"
+title: "RT-AX56U_v2 官改固件"
 linkTitle: "RT-AX56U_V2"
 type: docs
 weight: 40
