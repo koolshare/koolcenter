@@ -35,7 +35,13 @@ description: >
 
 ###  <font color="#f57332">四、更新日志</font>
 
-####  <font color="###00BFFF"> 386_40451（2021年01月14日）</font>
+
+###  <font color="#00BFFF"> 386_41634（2021年04月10日）</font>
+
+1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.386.41634。
+2. 内置软件中心版本更新至1.7.1版本；
+
+####  <font color="#00BFFF"> 386_40451（2021年01月14日）</font>
 
 > - 从此版本开始，华硕RT-AC86U固件正式进入386大版本，在功能上，该版本主要更新了AiMesh 2.0和Ookla® SPEEDTEST，当然也包含很多其它稳定性、安全性方面的更新。强烈建议大家进行升级！
 > - 从384固件升级到386固件也是非常顺畅的，升级后不恢复出厂设置也是没问题的。当然稳妥起见，建议有时间的朋友还是做一次恢复出厂设置，然后在干净的配置上重新手动配置一次固件。
@@ -43,7 +49,7 @@ description: >
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.386.40451。
 2. 内置软件中心版本更新至1.6.7版本；
 
-####  <font color="###00BFFF"> 384_82072（2020年10月12日）</font>
+####  <font color="#00BFFF"> 384_82072（2020年10月12日）</font>
 
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.82072。
 2. 去除更多哥特（Gothic）风格字体，因为其显示中文的时候字体发虚，实在太丑；
@@ -59,37 +65,37 @@ description: >
 > - 如果你在AiMesh节点中修改了某些系统设置导致AiMesh网络失效，请在开机状态下长按机器后面的`reset`按钮重置你的AiMesh节点路由，然后用主路由重新添加节点；
 > - AiMesh节点web后台的访问方式：在AiMesh主路由的【网络地图】页面点击【AiMesh节点】图标，然后在页面右侧会出现目前已经连接的AiMesh节点，点击对应节点机器后，会弹出节点信息，信息中会显示该节点机器的ip地址，比如我的是`192.168.86.126`，然后在浏览器中访问http://192.168.86.126即可访问AiMesh节点路由。
 
-####  <font color="###00BFFF"> 384_81918（2020年06月21日）</font>
+####  <font color="#00BFFF"> 384_81918（2020年06月21日）</font>
 
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.81918。
 2. 重大变动：此版本固件UI由ROG UI更换为ASUSWRT UI，骚红皮肤，再见。
 3. 更新内置软件中心到最新1.6.0版本；
 4. 添加fullcone NAT支持，功能位于【外部网络(WAN)】-【互联网连接】-【NAT Type】。
 
-####  <font color="###00BFFF"> 384_81352（2020年04月24日）</font>
+####  <font color="#00BFFF"> 384_81352（2020年04月24日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.81352。
 2. 更新内置软件中心到最新1.5.5版本；
 
-####  <font color="###00BFFF"> 384_81351（2019年11月23日）</font>
+####  <font color="#00BFFF"> 384_81351（2019年11月23日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.81351。
 2. **好消息**：此版本华硕更新了ASUS DDNS的Let's Encrypt证书申请，从使用80端口网页验证更换成了使用acme.sh，并用DNS记录进行验证。所以现在大家可以在DDNS配置页面配置DDNS的同时申请到证书了！（如果申请失败，可以关掉不可描述之类的，多尝试几次）
 
-####  <font color="###00BFFF"> 384_81049（2019年10月31日）</font>
+####  <font color="#00BFFF"> 384_81049（2019年10月31日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.81049，此版本有几个重要的安全更新，强烈建议升级！
 2. 回滚华硕对主界面侧边栏字体和图标的更改，回滚到45717版本的外观（因为华硕改得实在太丑了）；
 4. 固件内置wireguard更新至0.0.20191012版本；
 5. 更新内置软件中心到最新1.4.7版本；
 
-####  <font color="###00BFFF"> 384_45717（2019年06月27日）</font>
+####  <font color="#00BFFF"> 384_45717（2019年06月27日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.45717，此版本有几个重要的安全更新，强烈建议升级！
 2. 同步内置软件中心为最新版本。
 3. 把本帖的内容和排版更新了下，添加了FAQ部分，请大家关注~
 
-####  <font color="###00BFFF"> 384_45713（2019年04月26日）</font>
+####  <font color="#00BFFF"> 384_45713（2019年04月26日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.45713;
 2. 同步内置软件中心为最新版本。
 
-####  <font color="###00BFFF"> 384_45149（2018年11月12日）</font>
+####  <font color="#00BFFF"> 384_45149（2018年11月12日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.45149，包含大量的安全性更新和稳定性修复，因此建议使用官改的朋友尽快升级到这个版本。
 2. 因为华硕这次的更新为Alexa和IFTTT 更新了新功能，其中部分功能会与Server酱插件冲突导致无法上网，现在暂时没有找到更好的兼容方案前，移除了这次华硕为IFTTT 更新的客户端上线通知的功能。
 3. 内核添加原生的wireguard支持，并且添加wg管理工具，现在用户可以自己在路由器内手动配置wireguard，配置方法参见wireguard官网。不会配置的可以等wireguard插件，目前已经完工60%，预计春节前放出。
@@ -97,22 +103,22 @@ description: >
 5. 关闭了384.45149官方固件中新增的固件强制自动更新功能，因为这可能会导致官改用户被自动升级回官方固件。
 6. 网络地图首页更改为默认显示路由器状态，而不是wifi 接口状态。
 
-#### <font color="###00BFFF">384_32799（2018年11月12日）</font>
+#### <font color="#00BFFF">384_32799（2018年11月12日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.32799；
 2. 修复一个官方固件自带的bug，该bug会导致ebtables和ipsec无法启动，现在可以正常启动了。
 
-#### <font color="###00BFFF">384_32797（2018年09月14日）</font>
+#### <font color="#00BFFF">384_32797（2018年09月14日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.32797；
 2. 更新软件中心内置的skipd数据库到最新版本：修复lz4压缩问题，解决因储存一些值导致软件中心崩溃的问题；
 3. 同步内置软件中心为最新版本。
 
-#### <font color="###00BFFF">384_21140（2018年07月31日）</font>
+#### <font color="#00BFFF">384_21140（2018年07月31日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.21140。
 
-#### <font color="###00BFFF">384_21045（2018年07月29日）</font>
+#### <font color="#00BFFF">384_21045（2018年07月29日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.21045。
 
-#### <font color="###00BFFF">384_20648（2018年05月18日）</font>
+#### <font color="#00BFFF">384_20648（2018年05月18日）</font>
 1. 同步ASUS最新RT-AC86U代码：GPL of ASUS RT-AC86U for firmware 3.0.0.4.384.20648；
 2. 移植ROG皮肤；
 3. 添加软件中心支持。
@@ -123,7 +129,7 @@ description: >
 - 约定`改版ML`为koolshare开发组在发布的的基于[ML固件](https://github.com/RMerl/asuswrt-ML.ng)修改而来的带软件中心的[ML改版固件](http://koolshare.cn/thread-127878-1-1.html)；
 - 约定`官改固件`为koolshare开发组在本帖发布的基于[华硕官方RT-AC86U源代码](https://www.asus.com.cn/Networking/RT-AC86U/HelpDesk_Download/)修改而来的带软件中心的[官改固件](http://koolshare.cn/thread-139965-1-1.html)。
 
-#### <font color="###00BFFF">A. 原厂固件/原版ML → 官改：</font>
+#### <font color="#00BFFF">A. 原厂固件/原版ML → 官改：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出产设置，当然恢复一次更好！
 
@@ -131,14 +137,14 @@ description: >
 2. 刷机完成后会自动重启，此时刷机完成；
 3. 重启后先将路由器连上网络，然后进入软件中心将软件中心更新到最新版本。
 
-#### <font color="###00BFFF">B. 官改固件 → 官改固件：</font>
+#### <font color="#00BFFF">B. 官改固件 → 官改固件：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出产设置！
 
 1. 在本帖下载并刷过官改固件的，在固件升级页面下直接上传.w 后缀的官改固件文件即可!
 2. 刷机后所有已经安装的插件都会被保留，不会受到影响。
 
-#### <font color="###00BFFF">C. 改版ML → 官改固件：</font>
+#### <font color="#00BFFF">C. 改版ML → 官改固件：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出厂设置，当然恢复一次更好！
 
@@ -146,7 +152,7 @@ description: >
 2. 如果你刷低于384_81918版本的官改固件，请参考下文重要命令里的==软件中心重置==，才能将皮肤从asuswrt风格切换为rog风格；
 3. 如果你刷高于/等于384_81918版本的官改固件，则不需要对软件中心进行重置。
 
-#### <font color="###00BFFF">D. 官改固件 → 改版ML：</font>
+#### <font color="#00BFFF">D. 官改固件 → 改版ML：</font>
 
 > 如无特殊说明，刷机完成后不用恢复出厂设置，当然恢复一次更好！
 
@@ -154,7 +160,7 @@ description: >
 2. 如果你从低于384_81918版本的官改固件刷改版ML固件，请参考下文重要命令里的==软件中心重置==，才能将皮肤从rog风格切换为asuswrt风格；
 3. 如果你从高于/等于384_81918版本的官改固件刷改版ML固件，则不需要对软件中心进行重置。
 
-#### <font color="###00BFFF">E. 官改固件 → 原厂固件：</font>
+#### <font color="#00BFFF">E. 官改固件 → 原厂固件：</font>
 
 > 从官改固件刷回原厂固件，以下第3点或第4点操作，请选择一个来操作。当然你也可以不进行这个操作，让软件中心文件保留在官方固件的JFFS分区，以后你刷回官改固件，软件中心就会恢复成上次官改的状态。
 
@@ -241,14 +247,14 @@ description: >
 2. **登录SSH：** 下载SSH软件，如putty（[官方绿色版putty 0.74下载地址](https://the.earth.li/~sgtatham/putty/0.74/w64/putty.exe)），运行后在Host Name（or IP address）处输入路由器的局域网IP地址，如：`192.168.50.1`或者`router.asus.com`，端口为上一步中【SSH 端口】中的端口，如果没有更改，则为`22`，点击【Open】，如果有弹出Putty Security Alert，点击【是】；在界面的`login as`后面输入`路由器的登录帐号`后回车，然后在 password: 提示符后输入`路由器登录密码`后回车（记住：输入密码的时候不会有任何显示，输入完成后直接回车即可），完成登录。
 3. **键入命令：** 键入命令时建议将系统输入法切换为英文，也可以复制命令后使用右键即可粘贴命令，粘贴完毕后按回车即可执行命令。
 
-#### <font color="###00BFFF">1. 软件中心重置</font>
+#### <font color="#00BFFF">1. 软件中心重置</font>
 
 - 开启路由器SSH功能后，通过putty、xshell等SSH软件连接路由器，直接在ssh客户端内运行下面的程序即可。
 
 ```bash
 koolshare-reset
 ```
-#### <font color="###00BFFF">2. 清空JFFS空间</font>
+#### <font color="#00BFFF">2. 清空JFFS空间</font>
 - 注意，此操作会删除jffs分区内的**所有文件**，包括但不限于：软件中心、SSL证书、自定义的设备图标等；
 - 命令运行完毕后路由器会自动重启；
 - 如果是在**官改固件**下清空JFFS空间，路由器重启后软件中心会重新初始化为最初状态；
@@ -257,7 +263,7 @@ kill -9 $(pidof skipd)
 cd /jffs && rm -r .[a-zA-Z_]* *
 reboot
 ```
-#### <font color="###00BFFF">3. 删除软件中心</font>
+#### <font color="#00BFFF">3. 删除软件中心</font>
 - 适用于**官改固件**刷回**原厂固件**，需要删除留在jffs分区内软件中心，而不删除其它文件。
 - 如果是在**官改固件**下删除软件中心，路由器重启后软件中心会重新初始化为最初状态；
 ```bash
@@ -265,12 +271,12 @@ kill -9 $(pidof skipd)
 rm -rf /jffs/.asusrouter /jffs/.koolshare /jffs/db /jffs/ksdb /jffs/config/* /jffs/etc/profile
 reboot
 ```
-#### <font color="###00BFFF">4. 重启软件中心</font>
+#### <font color="#00BFFF">4. 重启软件中心</font>
 - 当软件中心相关进程挂掉的时候，此时可以用ssh进入路由器后台，输入以下命令重启软件中心：
 ```bash
 sh /koolshare/perp/perp.sh
 ```
-#### <font color="###00BFFF">5. RT-AC86U查询坏块命令</font>
+#### <font color="#00BFFF">5. RT-AC86U查询坏块命令</font>
 
 - 建议先重启一次路由器，再输入以下命令进行查询，返回信息的行数即为坏块的数量
 
@@ -280,6 +286,14 @@ dmesg |grep "bad block"
 ### <font color="#f57332">九、固件下载</font>
 
 - 以下固件下载服务器由海波云[Hypo.cn](https://www.hypo.cn/?from=ksbbs) 友情赞助！
+
+### <font color="#DC143C"> **386_41634**</font>
+
+MD5: 0926E336655277D1EE33893D3396F287
+
+SHA1: D860ED0434A2F213A7CFDBA20D0B6856FCA330CD
+
+下载链接：[RT-AC86U_386_41634_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_386_41634_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **386_40451**</font>
 
