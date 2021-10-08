@@ -271,13 +271,13 @@ cat /sys/class/mtd/mtd6/bad_blocks
 
 - 以下固件下载服务器由海波云[Hypo.cn](https://www.hypo.cn/?from=ksbbs) 友情赞助！
 
-#### <font color="#DC143C"> **386.3_0**</font>
+#### <font color="#DC143C"> **386.3_2**</font>
 
 MD5: 3A065E1C39EAD23BA56BE9F0D69E4D5A
 
 SHA1: E7FF08C3F04AF5F116BDB4B156A906E998BADE45
 
-下载链接：[RT-AX68U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
+下载链接：[RT-AX68U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX68U/RT-AX68U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
