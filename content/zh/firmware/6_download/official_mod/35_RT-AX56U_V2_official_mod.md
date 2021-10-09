@@ -215,7 +215,7 @@ MD5: 0A5DC8344FBA0AB56A4EC2A69A1CEACD
 
 SHA1: 2833FE210CA0BE7306886DFB88ECABA8787FD858
 
-下载链接：[RT-AX55_386_42350](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX56U_V2/RT-AX56U_V2_386_42350_koolshare_cferom_puresqubi_0c76f7c.w)
+下载链接：[RT-AX55_386_42350](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX56U_V2/RT-AX56U_V2_386_42350_koolshare_cferom_puresqubi_0c76f7c.w)
 
 #### <font color="#DC143C"> **384_9822**</font>
 
@@ -223,6 +223,6 @@ MD5: C4037DDE39ACEDF742AFC301BAABBFBE
 
 SHA1: 1650001532F0695A62773C71C476FEC5C4789E47
 
-下载链接：[RT-AX55_384_9822](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX56U_V2/RT-AX56U_V2_384_9822_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX55_384_9822](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX56U_V2/RT-AX56U_V2_384_9822_koolshare_cferom_pureubi.w)
 
 [/hide]

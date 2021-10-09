@@ -239,7 +239,7 @@ MD5: 766F24554E9E6D4F57E64449DC7F076E
 
 SHA1: 18951534EC15F8FC8D97BA9E28D1829B88D1FAB2
 
-下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha4.w](https://firmware.koolshare.cn/KoolCenter_Firmware/Alpha-4/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha4.w)
+下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha4.w](https://fw.koolcenter.com/KoolCenter_Firmware/Alpha-4/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha4.w)
 
 #### <font color="#DC143C"> **RT-AX86U_386_42095_koolcenter_alpha3**</font>
 
@@ -247,7 +247,7 @@ MD5: FE49D72082823749A43AACDA34ED7C8E
 
 SHA1: 0CB45A2028CDD1B7D200210490FAD1955D640E2C
 
-下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha3.w](https://firmware.koolshare.cn/KoolCenter_Firmware/Alpha-3/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha3.w)
+下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha3.w](https://fw.koolcenter.com/KoolCenter_Firmware/Alpha-3/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha3.w)
 
 #### <font color="#DC143C"> **RT-AX86U_386_42095_koolcenter_alpha2**</font>
 
@@ -255,6 +255,6 @@ MD5: 16642C638B1783569FF9A8A30A74BD5C
 
 SHA1: DEE48FE85AC94A07C950BEC6D6A6652913B040A6
 
-下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha2.w](https://firmware.koolshare.cn/KoolCenter_Firmware/Alpha-2/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha2.w)
+下载链接：[RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha2.w](https://fw.koolcenter.com/KoolCenter_Firmware/Alpha-2/RT-AX86U_386_42095_koolshare_cferom_pureubi_koolcenter_alpha2.w)
 
 [/hide]

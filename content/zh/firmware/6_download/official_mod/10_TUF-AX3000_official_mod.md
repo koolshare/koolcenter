@@ -252,7 +252,7 @@ MD5: 1188418CD391E46B57BAB3F9CF535B6E
 
 SHA1: 7442B34AAA7668295190BDFDA19985B647922CAB
 
-下载链接：[TUF-AX3000_386_41700_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_386_41700_koolshare_cferom_pureubi.w)
+下载链接：[TUF-AX3000_386_41700_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_386_41700_koolshare_cferom_pureubi.w)
 
 
 #### <font color="#DC143C"> **384_9923**</font>
@@ -261,7 +261,7 @@ MD5: 3028697E3A55176F0DEA5353A65EF046
 
 SHA1: 50A42FF506EAC25C57E3F066689686D015A1E78C
 
-下载链接：[TUF-AX3000_384_9923_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_9923_koolshare_cferom_pureubi.w)
+下载链接：[TUF-AX3000_384_9923_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_9923_koolshare_cferom_pureubi.w)
 
 #### <font color="#DC143C"> **384_9190**</font>
 
@@ -269,7 +269,7 @@ MD5: 4005F5A8D16C097F0623EEDC70D0E962
 
 SHA1: 22A17CCDEB047A6566816A7D766B370634DAA07E
 
-下载链接：[TUF-AX3000_384_9190_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_9190_koolshare_cferom_pureubi.w)
+下载链接：[TUF-AX3000_384_9190_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_9190_koolshare_cferom_pureubi.w)
 
 #### <font color="#DC143C"> **384_8137**</font>
 
@@ -277,4 +277,4 @@ MD5: 12F62AC210B72E91E3BB281752FA1E3B
 
 SHA1: 28B4A8DFBD2F365165932595878E4357C9135321
 
-下载链接：[TUF-AX3000_384_8137_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_8137_koolshare_cferom_pureubi.w)
+下载链接：[TUF-AX3000_384_8137_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/TUF-AX3000/TUF-AX3000_384_8137_koolshare_cferom_pureubi.w)

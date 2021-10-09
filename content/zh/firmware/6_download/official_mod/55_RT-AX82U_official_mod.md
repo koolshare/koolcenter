@@ -182,7 +182,7 @@ MD5: 15BB4E0972F2A81C4FF2DD0634D57930
 
 SHA1: 4097CA62F960BFF76898BCDB8BC436FA564CF903
 
-下载链接：[RT-AX82U_386_41700](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_386_41700_koolshare_cferom_pureubi_f004e11.w)
+下载链接：[RT-AX82U_386_41700](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_386_41700_koolshare_cferom_pureubi_f004e11.w)
 
 #### <font color="#DC143C"> **384_9617**</font>
 
@@ -190,7 +190,7 @@ MD5: AA64E6A3787DDBAA08D9D8FC7F23CB6B
 
 SHA1: 4097CA62F960BFF76898BCDB8BC436FA564CF903
 
-下载链接：[RT-AX82U_384_9617](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_384_9617_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX82U_384_9617](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_384_9617_koolshare_cferom_pureubi.w)
 
 #### <font color="#DC143C"> **384_9411**</font>
 
@@ -198,6 +198,6 @@ MD5: 52AA492474661466455F9B19269931E0
 
 SHA1: 67DCC477EE8925560B0E29D1DEA61F35BB039BCD
 
-下载链接：[RT-AX82U_384_9411](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_384_9411_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX82U_384_9411](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX82U/RT-AX82U_384_9411_koolshare_cferom_pureubi.w)
 [/hide]
 

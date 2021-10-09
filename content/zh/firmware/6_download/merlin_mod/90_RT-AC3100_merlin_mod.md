@@ -291,7 +291,7 @@ MD5: B19447B7026476B900C94C8DD2F08E22
 
 SHA1: 9CC141861B9E1B20E654C93B3D3CCDEB88D56304
 
-下载链接：[RT-AC3100_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.3_2_ca3f6fc_koolshare.trx)
+下载链接：[RT-AC3100_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.3_2_ca3f6fc_koolshare.trx)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -299,7 +299,7 @@ MD5: 0790BF624FD47133603AA6D498FD0878
 
 SHA1: EA479CE5BF9CB5F5DB0AA71FE82CE8924149E6E8
 
-下载链接：[RT-AC3100_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.3_0_31c92d0_koolshare.trx)
+下载链接：[RT-AC3100_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.3_0_31c92d0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
@@ -307,7 +307,7 @@ MD5: 2677C02024DA4621213D92B6A3EC3A0D
 
 SHA1: FD2926ACF2C36AB11901FCD6A1ECE882A0C8B693
 
-下载链接：[RT-AC3100_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_6_b5aa6f4_koolshare.trx)
+下载链接：[RT-AC3100_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_6_b5aa6f4_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -315,7 +315,7 @@ MD5: 9D8782AA7BF9AC5B6558A76AA1A736AD
 
 SHA1: 6796243F4B748A3D1A9990428A440BEF5F764527
 
-下载链接：[RT-AC3100_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_4_koolshare.trx)
+下载链接：[RT-AC3100_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_4_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -323,7 +323,7 @@ MD5: 070C59F39659ACC95D460BE582573648
 
 SHA1: 2B55F84A12FB8332C448CE2231A0EB762C529390
 
-下载链接：[RT-AC3100_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_2_koolshare.trx)
+下载链接：[RT-AC3100_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -331,7 +331,7 @@ MD5: 834C0454D69E688C90D107A4456B6F44
 
 SHA1: 2B55F84A12FB8332C448CE2231A0EB762C529390
 
-下载链接：[RT-AC3100_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_0_koolshare.trx)
+下载链接：[RT-AC3100_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.2_0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_2**</font>
 
@@ -339,7 +339,7 @@ MD5: 806250C0BA2BC23C2ECFF5A178AFE7A8
 
 SHA1: E23B43D7BA27FF66FD707C2D335DD35CE2364D72
 
-下载链接：[RT-AC3100_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.1_2_koolshare.trx)
+下载链接：[RT-AC3100_386.1_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.1_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_0**</font>
 
@@ -347,5 +347,5 @@ MD5: 4910F928676EFB6ED73DFA77B686214F
 
 SHA1: EC6791CF99F046DA77F320E20E06B4C0DD20AAF5
 
-下载链接：[RT-AC3100_386.1_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.1_0_koolshare.trx)
+下载链接：[RT-AC3100_386.1_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC3100/RT-AC3100_386.1_0_koolshare.trx)
 [/hide]

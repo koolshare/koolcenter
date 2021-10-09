@@ -302,7 +302,7 @@ MD5: 35DFAD10635EDEF328E22E5B477BE4D1
 
 SHA1: B312B554832F62BC8D6B4D739FB7B4226EB1EF5D
 
-下载链接：[RT-AX56U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
+下载链接：[RT-AX56U_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -310,48 +310,48 @@ MD5: 35DFAD10635EDEF328E22E5B477BE4D1
 
 SHA1: B312B554832F62BC8D6B4D739FB7B4226EB1EF5D
 
-下载链接：[RT-AX56U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
+下载链接：[RT-AX56U_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 MD5: 81FC5D9E6C3D8A6D8E05402550DF5797
 
 SHA1: 184B6043228C0452D77DE1F0FFB9EA2D97ADE171
 
-下载链接：[RT-AX56U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
+下载链接：[RT-AX56U_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 MD5: B50C9EFC62F9E347A376EE324BF9934B
 
 SHA1: C133437D7BF6154ACF3D39C7C887BFB9C1EC826E
 
-下载链接：[RT-AX56U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_4_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX56U_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_4_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 MD5: 48F6D68B9C065C25EED1F47475CD787F
 
 SHA1: E9547FEFFCDC749F8E4075BB0C6E82E5F50942E7
 
-下载链接：[RT-AX56U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_2_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX56U_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_2_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 MD5: 234BEC599ABD409868E63AFE1304EEB5
 
 SHA1: E9547FEFFCDC749F8E4075BB0C6E82E5F50942E7
 
-下载链接：[RT-AX56U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_0_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX56U_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.2_0_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.1_2**</font>
 MD5: 1FDC4DBC0A3C60CD26AC935D03BD712F
 
 SHA1: D83C7931251C21AFFAA58001BD69649BA61A0DDE
 
-下载链接：[RT-AX56U_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.1_2_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX56U_386.1_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.1_2_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.1_0**</font>
 MD5: 5132FB19A7434EE8FA0CFCEC743D2A49
 
 SHA1: 6B9D687F20D647A6A4511C2206911E5A5684C556
 
-下载链接：[RT-AX56U_386.1_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.1_0_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX56U_386.1_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX56U/RT-AX56U_386.1_0_cferom_pureubi_koolshare.w)
 [/hide]
 

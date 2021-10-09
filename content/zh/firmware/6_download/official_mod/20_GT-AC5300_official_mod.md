@@ -290,7 +290,7 @@ MD5: 647C4A65457E069F312E69FE43449F89
 
 SHA1: 400CD4764CD372B06DB15FA08E893C711C3CF006
 
-下载链接：[GT-AC5300_386_41793_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_386_41793_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_386_41793_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_386_41793_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_82037**</font>
 
@@ -298,7 +298,7 @@ MD5: 73A43DD8B933E61C5B74E2A58E01ADB0
 
 SHA1: 9A4A923BA214784ED3EF4F09C5C47458BB80B34F
 
-下载链接：[GT-AC5300_384_82037_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_82037_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_82037_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_82037_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81974**</font>
 
@@ -306,7 +306,7 @@ MD5: 6F6F36C8D794CA89E368688D3659239B
 
 SHA1: 01EF97B7E92B86996F9D736DF6FD2F1CBFEAB436
 
-下载链接：[GT-AC5300_384_81974_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81974_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_81974_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81974_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81695**</font>
 
@@ -314,7 +314,7 @@ MD5: F9F54B1A67E8A9BFB3630D962B33DF2F
 
 SHA1: 909873057484B692559443805F84E60914C4C06C
 
-下载链接：[GT-AC5300_384_81695_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81695_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_81695_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81695_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81099**</font>
 
@@ -322,7 +322,7 @@ MD5: C6D85EE3B7A522AF1CB994977B4C5C0E
 
 SHA1: DEB534DD2FE097B3F4EBD9E601D11EC97B34722E
 
-下载链接：[GT-AC5300_384_81099_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81099_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_81099_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_81099_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45717**</font>
 
@@ -330,7 +330,7 @@ MD5: AA66291AC8A8840A8276F82819224465
 
 SHA1: 3190350A0A8A648C0FD33F7AFFC5CB19A543B62F
 
-下载链接：[GT-AC5300_384_45717_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45717_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_45717_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45717_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45713**</font>
 
@@ -338,7 +338,7 @@ MD5: C1EBEAB8E960881A04B5B7B6699D3575
 
 SHA1: 153A4F6DCCA5A8D7E5413EF411DBAEB223086056
 
-下载链接：[GT-AC5300_384_45713_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45713_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_45713_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45713_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45149**</font>
 
@@ -346,7 +346,7 @@ MD5: FB8E3D5109D36652017821D6C2048CA5
 
 SHA1: 92446D7A953CA1BD95611C1A1B0A9EFDB54958B1
 
-下载链接：[GT-AC5300_384_45149_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45149_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_45149_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_45149_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_32799**</font>
 
@@ -354,7 +354,7 @@ MD5: FB8E3D5109D36652017821D6C2048CA5
 
 SHA1: 92446D7A953CA1BD95611C1A1B0A9EFDB54958B1
 
-下载链接：[GT-AC5300_384_32799_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32799_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_32799_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32799_koolshare_cferom_ubi.w)
 
 
 #### <font color="#DC143C"> **384_32738**</font>
@@ -363,7 +363,7 @@ MD5: 748E590FD4FBCA5177C3997561E907FA
 
 SHA1: 39617F822EE70DBE1113766184ED65786714692C
 
-下载链接：[GT-AC5300_384_32738_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32738_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_32738_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_32738_koolshare_cferom_ubi.w)
 
 
 #### <font color="#DC143C"> **384_21140**</font>
@@ -372,7 +372,7 @@ MD5: 955B454BBC97A118EAC5D2995CDE8C50
 
 SHA1: 2CD0F1F181983591710F71B0334ED24BEBE727F8
 
-下载链接：[GT-AC5300_384_21140_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_21140_koolshare_cferom_ubi.w)
+下载链接：[GT-AC5300_384_21140_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_21140_koolshare_cferom_ubi.w)
 
 
 #### <font color="#DC143C"> **384_20648**</font>
@@ -381,7 +381,7 @@ MD5: 2525239107DC9E430DF7D23709ACB6D8
 
 SHA1: 581C729FEC30D1297D87BC0C490BCE522BF43424
 
-下载链接：[GT-AC5300_384_20648_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20648_koolshare_ubi.w)
+下载链接：[GT-AC5300_384_20648_koolshare_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20648_koolshare_ubi.w)
 
 
 #### <font color="#DC143C"> **384_20308**</font>
@@ -390,7 +390,7 @@ MD5: 71A8ADF68C4EAB71EF3F31A73462A847
 
 SHA1: C0C787C6FADD205D436EEA7BA62DF88FCA6E5AFB
 
-下载链接：[GT-AC5300_384_20308_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20308_koolshare_ubi.w)
+下载链接：[GT-AC5300_384_20308_koolshare_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_384_20308_koolshare_ubi.w)
 
 #### <font color="#DC143C"> **382_15984**</font>
 
@@ -398,4 +398,4 @@ MD5: 6BB7BEE9C09BC75EE6925CA539E3C10C
 
 SHA1: 804EE5AD4C95E43377C3ADEA5D5ED7FF56F3BF3B
 
-下载链接：[GT-AC5300_382_15984_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_382_15984_koolshare_ubi.w)
+下载链接：[GT-AC5300_382_15984_koolshare_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AC5300/GT-AC5300_382_15984_koolshare_ubi.w)

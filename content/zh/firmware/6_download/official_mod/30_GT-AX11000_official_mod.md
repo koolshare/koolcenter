@@ -201,7 +201,7 @@ MD5: 72F1DF7DD100E17A962DC7BF66E55C4B
 
 SHA1: 5192E9ACA50E97DCB0F9C024F1226C4A270EACA4
 
-下载链接：[GT-AX11000_384_7979_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_7979/GT-AX11000_384_7979_koolshare_cferom_ubi.w)
+下载链接：[GT-AX11000_384_7979_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_7979/GT-AX11000_384_7979_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_6436**</font>
 
@@ -209,7 +209,7 @@ MD5: 12817187F3FD306A650A765C17B6C90F
 
 SHA1: 9DBB98E5672149BEEF170197B01C1710D4271952
 
-下载链接：[GT-AX11000_384_6436_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_6436/GT-AX11000_384_6436_koolshare_cferom_ubi.w)
+下载链接：[GT-AX11000_384_6436_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_6436/GT-AX11000_384_6436_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_5252**</font>
 
@@ -217,7 +217,7 @@ MD5: E586481F1D10F397D17AE7DD850009D5
 
 SHA1: 450DA3294EFB2F71C4D67253D2761B883DAEDD51
 
-下载链接：[GT-AX11000_384_5252_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_5252/GT-AX11000_384_5252_koolshare_cferom_ubi.w)
+下载链接：[GT-AX11000_384_5252_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_5252/GT-AX11000_384_5252_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_6208**</font>
 
@@ -225,7 +225,7 @@ MD5: C51F5BC7207BCD7A4BFD69556DE764DB
 
 SHA1: F05110EDA167D2689909AD7BD247D3DFF78F1C87
 
-下载链接：[GT-AX11000_384_6208_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_6208/GT-AX11000_384_6208_koolshare_cferom_ubi.w)
+下载链接：[GT-AX11000_384_6208_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/GT-AX11000/ROG_Rapture_GT-AX11000_3.0.0.4.384_6208/GT-AX11000_384_6208_koolshare_cferom_ubi.w)
 
 
 

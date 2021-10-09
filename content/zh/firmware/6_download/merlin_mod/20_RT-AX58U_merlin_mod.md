@@ -238,7 +238,7 @@ MD5: BEFA1741F65AD288F89DDDF8EFD35D21
 
 SHA1: 8F676A1D8F64C8329DE5301B31648C0E91D9F6AF
 
-下载链接：[RT-AX58U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
+下载链接：[RT-AX58U_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.3_2_cferom_pureubi_ca3f6fc_koolshare.w)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -246,12 +246,12 @@ MD5: 98F3CDADDCEBA24658D7C0F70FC5A8EC
 
 SHA1: 9E3071BEBDC01939616A6C1FEA8449E0DD42D2E7
 
-下载链接：[RT-AX58U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
+下载链接：[RT-AX58U_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.3_0_cferom_pureubi_31c92d0_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 MD5: 7E25960C2F5374CC09015FA0978C54A3
 SHA1: 76FC720F391017D2AFBFEC0D684A8CC3CB57A6A8
-下载链接：[RT-AX58U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
+下载链接：[RT-AX58U_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_6_cferom_pureubi_b5aa6f4_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -259,7 +259,7 @@ MD5: 6EFB3E211A0EE65A0BFA43051D456352
 
 SHA1: F8E06F3CC80167CFB1A436C49BA96DBA596F5F29
 
-下载链接：[RT-AX58U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_4_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX58U_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_4_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -267,7 +267,7 @@ MD5: 4100A87A947ED28913FF47BF73FB12C6
 
 SHA1: 785FE4B97508E6453BF90C0D1752E301FBA09DFE
 
-下载链接：[RT-AX58U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_2_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX58U_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_2_cferom_pureubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -275,7 +275,7 @@ MD5: 68761152A60FCC37E3680F6F2F5FD2A2
 
 SHA1: EE37648F4E61DADEB5209A9F1D1B42067944DC0A
 
-下载链接：[RT-AX58U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_0_cferom_pureubi_koolshare.w)
+下载链接：[RT-AX58U_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AX58U/RT-AX58U_386.2_0_cferom_pureubi_koolshare.w)
 
 [/hide]
 

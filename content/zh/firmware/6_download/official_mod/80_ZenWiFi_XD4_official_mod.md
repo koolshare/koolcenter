@@ -171,4 +171,4 @@ cat /sys/class/mtd/mtd6/bad_blocks
 #### <font color="#DC143C"> **386_39507**</font>
 MD5: C4037DDE39ACEDF742AFC301BAABBFBE
 SHA1: 1650001532F0695A62773C71C476FEC5C4789E47
-下载链接：[RT-AX95Q_386_25524_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/ZenWiFi_XD4/RT-AX56_XD4_386_39507_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX95Q_386_25524_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/ZenWiFi_XD4/RT-AX56_XD4_386_39507_koolshare_cferom_pureubi.w)

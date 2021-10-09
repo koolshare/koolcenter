@@ -177,4 +177,4 @@ MD5: BBFA6E7043FA68C56D43E40DD7D6FECB
 
 SHA1: 4360C7DEA2D14B2C9A5A37EFD651B6AB2D81EE27
 
-下载链接：[RT-AX95Q_386_25524_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/ZenWiFi_AX6600/T-AX95Q_386_25524_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX95Q_386_25524_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/ZenWiFi_AX6600/T-AX95Q_386_25524_koolshare_cferom_pureubi.w)

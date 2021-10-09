@@ -249,7 +249,7 @@ MD5: 1EAD88D902DE0AE593C9F7A1534E3044
 
 SHA1: A691ADEC81A057B0D209E1D3894942123685181E
 
-下载链接：[GT-AC2900_386.3_2_cferom_ubi_ca3f6fc_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.3_2_cferom_ubi_ca3f6fc_koolshare.w)
+下载链接：[GT-AC2900_386.3_2_cferom_ubi_ca3f6fc_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.3_2_cferom_ubi_ca3f6fc_koolshare.w)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -257,7 +257,7 @@ MD5: 153F51549968ADE966375C4F3D3C11A7
 
 SHA1: AE223616A9CAF85957647A32BD765378DEA828DB
 
-下载链接：[GT-AC2900_386.3_0_cferom_ubi_31c92d0_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.3_0_cferom_ubi_31c92d0_koolshare.w)
+下载链接：[GT-AC2900_386.3_0_cferom_ubi_31c92d0_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.3_0_cferom_ubi_31c92d0_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
@@ -265,7 +265,7 @@ MD5: 280975823123B1154283F22661D1CF16
 
 SHA1: E8EE0EE8386C23F5AD4E5AF36A7726EF72826F22
 
-下载链接：[GT-AC2900_386.2_6_cferom_ubi_b5aa6f4_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_6_cferom_ubi_b5aa6f4_koolshare.w)
+下载链接：[GT-AC2900_386.2_6_cferom_ubi_b5aa6f4_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_6_cferom_ubi_b5aa6f4_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -273,7 +273,7 @@ MD5: F54D375F3C5DBE2B835BA1DF5A784D70
 
 SHA1: D0EEC4D215F1E7BAB3345714C77C4F30CDDB0B2A
 
-下载链接：[GT-AC2900_386.2_4_cferom_ubi_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_4_cferom_ubi_koolshare.w)
+下载链接：[GT-AC2900_386.2_4_cferom_ubi_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_4_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -281,7 +281,7 @@ MD5: 1B1A3D8B792DF173FE44AE8A96445CC5
 
 SHA1: 4E1EA4745BA7B315EE309E7E69CFF8721CA63F35
 
-下载链接：[GT-AC2900_386.2_2_cferom_ubi_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_2_cferom_ubi_koolshare.w)
+下载链接：[GT-AC2900_386.2_2_cferom_ubi_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_2_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -289,7 +289,7 @@ MD5: 1BE676882602DE99E4FD0F459E8D010D
 
 SHA1: 4E1EA4745BA7B315EE309E7E69CFF8721CA63F35
 
-下载链接：[GT-AC2900_386.2_0_cferom_ubi_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_0_cferom_ubi_koolshare.w)
+下载链接：[GT-AC2900_386.2_0_cferom_ubi_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.2_0_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.1_2**</font>
 
@@ -297,7 +297,7 @@ MD5: 64056D9FBE3B4891A54C81855FEC9BBD
 
 SHA1: 763843A346375C61CC08B39406EEF412D0F81E19
 
-下载链接：[GT-AC2900_386.1_2_cferom_ubi_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.1_2_cferom_ubi_koolshare.w)
+下载链接：[GT-AC2900_386.1_2_cferom_ubi_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.1_2_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.1_0**</font>
 
@@ -305,5 +305,5 @@ MD5: D1454E94BB9867106B940BD99A5DC6A9
 
 SHA1: DB6CBFB7B71AE6AA8AF18492D891B1E842854E77
 
-下载链接：[GT-AC2900_386.1_0_cferom_ubi_koolshare.w](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.1_0_cferom_ubi_koolshare.w)
+下载链接：[GT-AC2900_386.1_0_cferom_ubi_koolshare.w](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AC2900/GT-AC2900_386.1_0_cferom_ubi_koolshare.w)
 

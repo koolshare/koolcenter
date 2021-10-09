@@ -293,7 +293,7 @@ MD5: 7DC0B91960DF277CEF6F563BE0121F70
 
 SHA1: EBA5354193647DC9818834A3E965930E6C91892B
 
-下载链接：[RT-AC88U_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.3_2_ca3f6fc_koolshare.trx)
+下载链接：[RT-AC88U_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.3_2_ca3f6fc_koolshare.trx)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -301,7 +301,7 @@ MD5: 755A3054B61111EE7080A8E839A68FDA
 
 SHA1: 62D90280450C4405B8C302E8EAA84EB2611A878A
 
-下载链接：[RT-AC88U_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.3_0_31c92d0_koolshare.trx)
+下载链接：[RT-AC88U_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.3_0_31c92d0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
@@ -309,7 +309,7 @@ MD5: A300A2CAA6C5A8809BB92FCAF4E1429D
 
 SHA1: 6120DB0B9AAF2CEDEFD416280322A16F48A4755B
 
-下载链接：[RT-AC88U_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_6_b5aa6f4_koolshare..trx)
+下载链接：[RT-AC88U_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_6_b5aa6f4_koolshare..trx)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -317,7 +317,7 @@ MD5: AEC156350FAC84B89EBF26220E5805AE
 
 SHA1: E2E2C3B3DBD8433580EBCF5F4A24720B54C60610
 
-下载链接：[RT-AC88U_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_4_koolshare.trx)
+下载链接：[RT-AC88U_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_4_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -325,7 +325,7 @@ MD5: 32A8A08497895DA5636892A863C0B7B5
 
 SHA1: A1F03DBA5FAE440BC87DABCBFF28C0E17368C344
 
-下载链接：[RT-AC88U_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_2_koolshare.trx)
+下载链接：[RT-AC88U_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -333,7 +333,7 @@ MD5: 5157F595A900056EF9031DE6737C15DB
 
 SHA1: CA7BB7542D98D279712FFF6B2234167E69D7E4D8
 
-下载链接：[RT-AC88U_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_0_koolshare.trx)
+下载链接：[RT-AC88U_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.2_0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_2**</font>
 
@@ -341,7 +341,7 @@ MD5: 6C94443718F6A50FF8DFC3B7F1CFA54F
 
 SHA1: A9A0ADB6278B6E84D6B15F14D0BF5C6BB968F2F3
 
-下载链接：[RT-AC88U_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.1_2_koolshare.trx)
+下载链接：[RT-AC88U_386.1_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.1_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_0**</font>
 
@@ -349,4 +349,4 @@ MD5: E92E654A7778AD5DF1B2510C8B373750
 
 SHA1: 42DFEFBD553FE44CCEF59B4BF1B2F6D74AF0E664
 
-下载链接：[RT-AC88U_386.1_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.1_0_koolshare.trx)
+下载链接：[RT-AC88U_386.1_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC88U/RT-AC88U_386.1_0_koolshare.trx)

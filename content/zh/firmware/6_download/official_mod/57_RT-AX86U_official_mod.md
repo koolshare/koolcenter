@@ -242,7 +242,7 @@ MD5: 8180BB6B3AAF40529A55F35B53FBAC1B
 
 SHA1: 9F7C1FB8B9599E2F92F180B3B57035B55883055D
 
-下载链接：[RT-AX86U_384_9318_koolshare_cferom_pureubi_20201127.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9318_koolshare_cferom_pureubi_20201127.w)
+下载链接：[RT-AX86U_384_9318_koolshare_cferom_pureubi_20201127.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9318_koolshare_cferom_pureubi_20201127.w)
 
 #### <font color="#DC143C"> **384_9262**</font>
 
@@ -250,7 +250,7 @@ MD5: FEC7E48ADD3E8B6F74755225C8447E95
 
 SHA1: 3D70F2521533DDFC64DBBF210D3F7DF66DA04971
 
-下载链接：[RT-AX86U_384_9262_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9262_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX86U_384_9262_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9262_koolshare_cferom_pureubi.w)
 
 #### <font color="#DC143C"> **384_9173_r1**</font>
 
@@ -258,7 +258,7 @@ MD5: FEC7E48ADD3E8B6F74755225C8447E95
 
 SHA1: 3D70F2521533DDFC64DBBF210D3F7DF66DA04971
 
-下载链接：[RT-AX86U_384_9173_koolshare_cferom_pureubi_r1.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9173_koolshare_cferom_pureubi_r1.w)
+下载链接：[RT-AX86U_384_9173_koolshare_cferom_pureubi_r1.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9173_koolshare_cferom_pureubi_r1.w)
 
 #### <font color="#DC143C"> **384_9173**</font>
 
@@ -266,7 +266,7 @@ MD5: B27B6E1B6CE490E707857F996113C4DE
 
 SHA1: 0BE7D12222023A4F9848B58ED560E157CD742482
 
-下载链接：[RT-AX86U_384_9173_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9173_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX86U_384_9173_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_9173_koolshare_cferom_pureubi.w)
 
 #### <font color="#DC143C"> **384_8256**</font>
 
@@ -274,4 +274,4 @@ MD5: 558F9D8ED7A4230C6C53745C9FE9342E
 
 SHA1: B18760F879DFDB10D2B444B80776BE94B7ACB3A4
 
-下载链接：[RT-AX86U_384_8256_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_8256_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX86U_384_8256_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX86U/RT-AX86U_384_8256_koolshare_cferom_pureubi.w)

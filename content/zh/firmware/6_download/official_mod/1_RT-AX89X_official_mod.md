@@ -181,18 +181,18 @@ MD5: 796D23E36967A86FA3ACA8D50570F63C
 
 SHA1: 12BF67A7C1A2FA46D5C414E0447EEDFC53E98BD1
 
-下载链接：[RT-AX89X_386_23012](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_386_23012_koolshare.trx)
+下载链接：[RT-AX89X_386_23012](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_386_23012_koolshare.trx)
 
 #### <font color="#DC143C"> **386_22790**</font>
 MD5: B24F4D2D2F97CCE4E941830AB1A5CFD4
 
 SHA1: 2E56B3108F449DFF0A0437824B254E57019AAF55
 
-下载链接：[RT-AX89X_386_22790](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_386_22790_koolshare.trx)
+下载链接：[RT-AX89X_386_22790](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_386_22790_koolshare.trx)
 
 #### <font color="#DC143C"> **384_82800**</font>
 MD5: A170543CC129CA938F982BDA0DEE5D4E
 
 SHA1: 87EDBAD1D2E4E0E19D359C0A4420E8AAF405E417
 
-下载链接：[RT-AX89X_384_82800](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_384_82800_koolshare.trx)
+下载链接：[RT-AX89X_384_82800](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX89X/RT-AX89X_384_82800_koolshare.trx)

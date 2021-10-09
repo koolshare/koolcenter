@@ -191,6 +191,6 @@ MD5: 883407F61F60F48B4A872E9F4800885B
 
 SHA1: 85940F63FD4EA6FEF2E2D97BA48BA30914100C4C
 
-下载链接：[RT-AX92U_386_40451_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX92U/RT-AX92U_386_40451_koolshare_cferom_ubi.w)
+下载链接：[RT-AX92U_386_40451_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX92U/RT-AX92U_386_40451_koolshare_cferom_ubi.w)
 
 

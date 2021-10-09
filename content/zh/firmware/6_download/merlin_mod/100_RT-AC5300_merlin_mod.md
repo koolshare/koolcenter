@@ -291,7 +291,7 @@ MD5: CFA9C9A96D171CCA68D47C10C0FCA6B2
 
 SHA1: 9EB40B1F4194493403E0E3FD11B40484D51024CE
 
-下载链接：[RT-AC5300_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.3_2_ca3f6fc_koolshare.trx)
+下载链接：[RT-AC5300_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.3_2_ca3f6fc_koolshare.trx)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -299,7 +299,7 @@ MD5: AF9C1B9896770E755C777AF57580D925
 
 SHA1: BFBD4AB23C5BE50FC4F3327FB4EF7A7F6E95CE66
 
-下载链接：[RT-AC5300_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.3_0_31c92d0_koolshare.trx)
+下载链接：[RT-AC5300_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.3_0_31c92d0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
@@ -307,7 +307,7 @@ MD5: 595E6AE98BE5D30872A5FB00480F82DD
 
 SHA1: 0E033E1153429C6C49BE4D160C26FA11B908ECAC
 
-下载链接：[RT-AC5300_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_6_b5aa6f4_koolshare.trx)
+下载链接：[RT-AC5300_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_6_b5aa6f4_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -315,7 +315,7 @@ MD5: 785EA0FB9213BAEE0C5E0DC67B48B635
 
 SHA1: BB74B0B42620B3D8253F99CF65C14280F7D8DB2A
 
-下载链接：[RT-AC5300_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_4_koolshare.trx)
+下载链接：[RT-AC5300_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_4_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -323,7 +323,7 @@ MD5: E01C74BD1DB85F464DEEE7B6EA6033CC
 
 SHA1: C27B3399464FD09FB4517287A624862BEA80746A
 
-下载链接：[RT-AC5300_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_2_koolshare.trx)
+下载链接：[RT-AC5300_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -331,7 +331,7 @@ MD5: 7CCCEA4909951F1E84F84C1298175EE5
 
 SHA1: C27B3399464FD09FB4517287A624862BEA80746A
 
-下载链接：[RT-AC5300_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_0_koolshare.trx)
+下载链接：[RT-AC5300_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.2_0_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_2**</font>
 
@@ -339,7 +339,7 @@ MD5: FCB895EA0B5C1F94B6D1662A35A126C8
 
 SHA1: 94C2265C63870CC6899EC40E9999CC0FA52713F4
 
-下载链接：[RT-AC5300_386.1_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.1_2_koolshare.trx)
+下载链接：[RT-AC5300_386.1_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.1_2_koolshare.trx)
 
 #### <font color="#DC143C"> **386.1_0**</font>
 
@@ -347,4 +347,4 @@ MD5: 6D6C32840401C3EF8B9C39590AB7A578
 
 SHA1: E7CD202772C2A1947C4F3BFB04B4BC2EBA8CC315
 
-下载链接：[RT-AC5300_386.1_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.1_0_koolshare.trx)
+下载链接：[RT-AC5300_386.1_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/RT-AC5300/RT-AC5300_386.1_0_koolshare.trx)

@@ -186,6 +186,6 @@ MD5: 44C46F6FD60ECFF26F771AFCFCEDD76A
 
 SHA1: 954BA11E121E58E1906597226A32CF5EC044729B
 
-下载链接：[RT-AX68U_386_41947_koolshare_cferom_pureubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AX68U/RT-AX68U_386_41947_koolshare_cferom_pureubi.w)
+下载链接：[RT-AX68U_386_41947_koolshare_cferom_pureubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AX68U/RT-AX68U_386_41947_koolshare_cferom_pureubi.w)
 
 

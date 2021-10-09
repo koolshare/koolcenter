@@ -293,7 +293,7 @@ MD5: 0926E336655277D1EE33893D3396F287
 
 SHA1: D860ED0434A2F213A7CFDBA20D0B6856FCA330CD
 
-下载链接：[RT-AC86U_386_41634_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_386_41634_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_386_41634_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_386_41634_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **386_40451**</font>
 
@@ -301,7 +301,7 @@ MD5: 48FFC95537BB926C90BB2992E6D9C421
 
 SHA1: 7BE853AF602B96F25EEA89A29B53936E8E911D07
 
-下载链接：[RT-AC86U_386_40451_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_386_40451_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_386_40451_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_386_40451_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_82072**</font>
 
@@ -309,7 +309,7 @@ MD5: A405D4688880B176C1C5F32B9F5E3691
 
 SHA1: 738355307BB57054DD152FA7F2B5C4544C5EEFE5
 
-下载链接：[RT-AC86U_384_82072_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_82072_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_82072_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_82072_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81918**</font>
 
@@ -317,7 +317,7 @@ MD5: 7CFF1A892D029D2545B2E76484C8BA35
 
 SHA1: 3BAE06A8F0366EC09D77A2A8F330B6A97678D7D2
 
-下载链接：[RT-AC86U_384_81918_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81918_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_81918_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81918_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81352**</font>
 
@@ -325,7 +325,7 @@ MD5: E979B10E86B62413E96E77DE12BEFD96
 
 SHA1: 8F37B117165825BD707DF26D8F20C548718667FE
 
-下载链接：[RT-AC86U_384_81352_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81352_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_81352_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81352_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_81351**</font>
 
@@ -333,7 +333,7 @@ MD5: D8366EFD87F890C9ECB542A0D93AED5F
 
 SHA1: 4799BCBDC2DA219D75F324D17D9BFDC955A5CBA1
 
-下载链接：[RT-AC86U_384_81351_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81351_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_81351_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81351_koolshare_cferom_ubi.w)
 
 
 #### <font color="#DC143C"> **384_81049** </font>
@@ -341,14 +341,14 @@ MD5: 0E11EE86A62249B7CE9885C648CCF3B8
 
 SHA1: 0E9875E296D50BA4CCE36E98918D1178BE1A7B85
 
-下载链接：[RT-AC86U_384_81049_koolshare_cferom_ubi.w](https://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81049_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_81049_koolshare_cferom_ubi.w](https://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_81049_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45717**</font>
 MD5: 93A397256C2A2C9A4F3368D885EE80FA
 
 SHA1: E366D347E71DC597CAC1B1DA375A560DE614BF93
 
-下载链接：[RT-AC86U_384_45717_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45717_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_45717_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45717_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45713**</font>
 
@@ -356,28 +356,28 @@ MD5: 05C5C0DD22C8DD2C10A6BC170BEBB78D
 
 SHA1: E7B9D30BC26E9859D44EF3B2A2E537C45A0946D6
 
-下载链接：[RT-AC86U_384_45713_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45713_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_45713_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45713_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_45149**</font>
 MD5: 1B896670F65402C2850FA3FA8235C332
 
 SHA1: B414B09C9F4FEB08106AE3753C8BCC40E17A4232
 
-下载链接：[RT-AC86U_384_45149_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45149_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_45149_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_45149_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_32799**</font>
 MD5: 3E477C01D18CD455362B61DCCBF33652
 
 SHA1: A2C496EE545A94EADAC4CEC3C9B3A381B1B4ABB2
 
-下载链接：[RT-AC86U_384_32799_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_32799_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_32799_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_32799_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_32797**</font>
 MD5: 59E2B58FC231747F0B02659696E87200
 
 SHA1: 83FBDBC78AD77C76E342DB3F4451459EFC5C9080
 
-下载链接：[RT-AC86U_384_32797_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_32797_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_32797_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_32797_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_21140**</font>
 
@@ -385,14 +385,14 @@ MD5: A0A0E59599C99E8119F71D4DE69E967A
 
 SHA1: 450DC89917B14673DE9F10D531CDD9D7B34C579F
 
-下载链接：[RT-AC86U_384_21140_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_21140_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_21140_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_21140_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_21045**</font>
 MD5: 6F4906163784D670C87AE9C198811CC9
 
 SHA1: F17799E35A62739A21C6E76D4EF2B06037667770
 
-下载链接：[RT-AC86U_384_21045_koolshare_cferom_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_21045_koolshare_cferom_ubi.w)
+下载链接：[RT-AC86U_384_21045_koolshare_cferom_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_21045_koolshare_cferom_ubi.w)
 
 #### <font color="#DC143C"> **384_20648**</font>
 
@@ -400,4 +400,4 @@ MD5: 718F989E32508B1C5BC911F7D5059DC1
 
 SHA1: EB731886F65CA2AE168F9E2D0DFFC319344A534B
 
-下载链接：[RT-AC86U_384_20648_koolshare_ubi.w](http://firmware.koolshare.cn/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_20648_koolshare_ubi.w)
+下载链接：[RT-AC86U_384_20648_koolshare_ubi.w](http://fw.koolcenter.com/Koolshare_ASUS_Official_Mod/RT-AC86U/RT-AC86U_384_20648_koolshare_ubi.w)

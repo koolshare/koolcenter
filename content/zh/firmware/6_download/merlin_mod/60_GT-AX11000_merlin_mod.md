@@ -258,7 +258,7 @@ MD5: ECF346DBDE00D3CC050C093A73F12F2F
 
 SHA1: 6BB880290BF3B631BDA35DBF65FFCC6C1C29EA14
 
-下载链接：[GT-AX11000_386.3_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.3_2_cferom_ubi_ca3f6fc_koolshare.w)
+下载链接：[GT-AX11000_386.3_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.3_2_cferom_ubi_ca3f6fc_koolshare.w)
 
 #### <font color="#DC143C"> **386.3_0**</font>
 
@@ -266,13 +266,13 @@ MD5: 9F2F3DF75B22175F6D0EC3E44BF7D7C3
 
 SHA1: 7499B7E4B52F6A9804558DAFE3E5F3335675A195
 
-下载链接：[GT-AX11000_386.3_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.3_0_cferom_ubi_31c92d0_koolshare.w)
+下载链接：[GT-AX11000_386.3_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.3_0_cferom_ubi_31c92d0_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_6**</font>
 
 MD5: D12E50636CEF3171166B1400823B0EA5
 SHA1: DE028B9A675BC386BA738415DE620A99DFCB1E55
-下载链接：[GT-AX11000_386.2_6](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_6_cferom_ubi_b5aa6f4_koolshare.w)
+下载链接：[GT-AX11000_386.2_6](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_6_cferom_ubi_b5aa6f4_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_4**</font>
 
@@ -280,7 +280,7 @@ MD5: 2851E5E9E14AF8BB934694E6980F3A3C
 
 SHA1: 2B66FA1CBEA97558106B64493056A7382F000686
 
-下载链接：[GT-AX11000_386.2_4](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_4_cferom_ubi_koolshare.w)
+下载链接：[GT-AX11000_386.2_4](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_4_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_2**</font>
 
@@ -288,7 +288,7 @@ MD5: CBB26C4D9498C550948047E2312DF7DE
 
 SHA1: 0EC4DECCA3A4FD3E70491D1A68DA48BB63F4B8B1
 
-下载链接：[GT-AX11000_386.2_2](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_2_cferom_ubi_koolshare.w)
+下载链接：[GT-AX11000_386.2_2](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_2_cferom_ubi_koolshare.w)
 
 #### <font color="#DC143C"> **386.2_0**</font>
 
@@ -296,7 +296,7 @@ MD5: 5BC3145B9508E9A6EAF32A2E3A58EC62
 
 SHA1: 5F6ED57B16E230D29DD57DDB2D621CE0DF661818
 
-下载链接：[GT-AX11000_386.2_0](https://firmware.koolshare.cn/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_0_cferom_ubi_koolshare.w)
+下载链接：[GT-AX11000_386.2_0](https://fw.koolcenter.com/Koolshare_RMerl_New_Gen_386/GT-AX11000/GT-AX11000_386.2_0_cferom_ubi_koolshare.w)
 
 [/hide]
 
