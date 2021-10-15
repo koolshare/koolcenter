@@ -1,5 +1,5 @@
 ---
-title: "RT-AX86U 官改固件[384]"
+title: "RT-AX86U 华硕官改固件[384]"
 linkTitle: "RT-AX86U [384]"
 type: docs
 weight: 57

@@ -1,5 +1,5 @@
 ---
-title: "GT-AX11000 官改固件"
+title: "GT-AX11000 梅林改版固件"
 linkTitle: "GT-AX11000"
 type: docs
 weight: 60

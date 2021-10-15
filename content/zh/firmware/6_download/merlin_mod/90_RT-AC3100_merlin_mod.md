@@ -1,5 +1,5 @@
 ---
-title: "RT-AC3100 官改固件"
+title: "RT-AC3100 梅林改版固件"
 linkTitle: "RT-AC3100"
 type: docs
 weight: 90

@@ -1,5 +1,5 @@
 ---
-title: "TUF-AX5400 官改固件"
+title: "TUF-AX5400 华硕官改固件"
 linkTitle: "TUF-AX5400"
 type: docs
 weight: 15

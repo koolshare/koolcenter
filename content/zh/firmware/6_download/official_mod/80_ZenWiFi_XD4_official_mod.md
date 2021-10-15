@@ -1,5 +1,5 @@
 ---
-title: "ZenWiFi XD4 官改固件"
+title: "ZenWiFi XD4 华硕官改固件"
 linkTitle: "ZenWiFi XD4"
 type: docs
 weight: 80

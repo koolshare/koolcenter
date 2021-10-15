@@ -1,5 +1,5 @@
 ---
-title: "RT-AX89X 官改固件"
+title: "RT-AX89X 华硕官改固件"
 linkTitle: "RT-AX89X [高通]"
 type: docs
 weight: 1

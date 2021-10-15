@@ -1,5 +1,5 @@
 ---
-title: "RT-AX56U 官改固件"
+title: "RT-AX56U 梅林改版固件"
 linkTitle: "RT-AX56U"
 type: docs
 weight: 10

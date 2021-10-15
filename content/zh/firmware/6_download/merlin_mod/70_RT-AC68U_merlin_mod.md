@@ -1,5 +1,5 @@
 ---
-title: "RT-AC68U 官改固件"
+title: "RT-AC68U 梅林改版固件"
 linkTitle: "RT-AC68U"
 type: docs
 weight: 70

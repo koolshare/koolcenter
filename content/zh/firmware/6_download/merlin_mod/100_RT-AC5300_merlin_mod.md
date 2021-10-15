@@ -1,5 +1,5 @@
 ---
-title: "RT-AC5300 官改固件"
+title: "RT-AC5300 梅林改版固件"
 linkTitle: "RT-AC5300"
 type: docs
 weight: 100

@@ -1,5 +1,5 @@
 ---
-title: "GS-AX5400 官改固件"
+title: "GS-AX5400 华硕官改固件"
 linkTitle: "GS-AX5400"
 type: docs
 weight: 16

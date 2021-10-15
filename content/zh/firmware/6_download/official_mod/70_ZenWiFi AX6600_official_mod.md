@@ -1,5 +1,5 @@
 ---
-title: "ZenWiFi AX6600 官改固件"
+title: "ZenWiFi AX6600 华硕官改固件"
 linkTitle: "ZenWiFi AX6600"
 type: docs
 weight: 70

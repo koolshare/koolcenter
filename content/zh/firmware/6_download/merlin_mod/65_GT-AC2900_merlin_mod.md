@@ -1,5 +1,5 @@
 ---
-title: "GT-AC2900 官改固件"
+title: "GT-AC2900 梅林改版固件"
 linkTitle: "GT-AC2900"
 type: docs
 weight: 65

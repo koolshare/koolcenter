@@ -1,5 +1,5 @@
 ---
-title: "GT-AC5300 官改固件"
+title: "GT-AC5300 华硕官改固件"
 linkTitle: "GT-AC5300"
 type: docs
 weight: 20

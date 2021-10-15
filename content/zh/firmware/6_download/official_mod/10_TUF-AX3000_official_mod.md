@@ -1,5 +1,5 @@
 ---
-title: "TUF-AX3000 官改固件"
+title: "TUF-AX3000 华硕官改固件"
 linkTitle: "TUF-AX3000"
 type: docs
 weight: 10
