@@ -4,7 +4,7 @@ title: "蓝色巨人的觉醒——Intel 第12代酷睿处理器Alder Lake S首�
 linkTitle: "蓝色巨人的觉醒——Intel 第12代酷睿处理器Alder Lake S首发评测"
 author: "御剑江湖"
 coverImg: "https://www.koolcenter.com/article/image/12900k/cover.jpg"
-date: 2021-11-04
+date: 2021-11-04 21:00
 description: >
   在Intel长达数十年的制程演进历史中，从未遇到过10nm节点这样的困难。10nm工艺多次跳票，摩尔定律作古，让Intel面临着前所未有的危机。
 --- 
